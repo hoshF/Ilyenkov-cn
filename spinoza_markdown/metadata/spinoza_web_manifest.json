@@ -1,0 +1,394 @@
+{
+  "generated_at": "2026-06-10T07:22:19+00:00",
+  "intended_use": "public non-commercial research archive",
+  "items": [
+    {
+      "chapter_count": 22,
+      "chapter_files": [
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch000.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch001.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch002.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch003.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch004.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch005.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch006.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch007.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch008.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch009.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch010.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch011.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch012.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch013.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch014.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch015.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch016.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch017.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch018.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch019.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch020.md",
+        "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/tractatus-theologico-politicus-ch021.md"
+      ],
+      "edition_claim": "Gebhardt edition",
+      "id": "web-spinozaetnous-tractatus-theologico-politicus",
+      "index_page": "Tractatus theologico-politicus",
+      "index_revision_id": 5108,
+      "mode": "children",
+      "output_file": "tractatus-theologico-politicus.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus.md",
+      "pages": [
+        {
+          "page_title": "Tractatus theologico-politicus/Praefatio",
+          "revision_id": 5110,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FPraefatio"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput I",
+          "revision_id": 5111,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_I"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput II",
+          "revision_id": 5119,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_II"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput III",
+          "revision_id": 5118,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_III"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput IV",
+          "revision_id": 5120,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_IV"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput V",
+          "revision_id": 6468,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_V"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput VI",
+          "revision_id": 5146,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_VI"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput VII",
+          "revision_id": 5147,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_VII"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput VIII",
+          "revision_id": 5148,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_VIII"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput IX",
+          "revision_id": 5149,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_IX"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput X",
+          "revision_id": 5150,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_X"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XI",
+          "revision_id": 5151,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XI"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XII",
+          "revision_id": 5152,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XII"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XIII",
+          "revision_id": 5153,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XIII"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XIV",
+          "revision_id": 5154,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XIV"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XV",
+          "revision_id": 5155,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XV"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XVI",
+          "revision_id": 5160,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XVI"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XVII",
+          "revision_id": 5161,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XVII"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XVIII",
+          "revision_id": 5162,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XVIII"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XIX",
+          "revision_id": 5163,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XIX"
+        },
+        {
+          "page_title": "Tractatus theologico-politicus/Caput XX",
+          "revision_id": 5164,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus%2FCaput_XX"
+        }
+      ],
+      "slug": "tractatus-theologico-politicus",
+      "source_url": "https://spinozaetnous.org/wiki/Tractatus_theologico-politicus",
+      "text_status": "web_transcription_edition_identified_unverified",
+      "title": "Tractatus theologico-politicus",
+      "work_manifest": "spinoza_md/latin_web/spinozaetnous/tractatus-theologico-politicus/work_manifest.json",
+      "work_year": "1670"
+    },
+    {
+      "edition_claim": "Gebhardt edition",
+      "id": "web-spinozaetnous-renati-descartes-principia-philosophiae",
+      "index_page": "Renati Descartes Principia philosophiae",
+      "index_revision_id": 6826,
+      "mode": "children",
+      "output_file": "renati-descartes-principia-philosophiae.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/renati-descartes-principia-philosophiae.md",
+      "pages": [
+        {
+          "page_title": "Renati Descartes Principia philosophiae/Praefatio",
+          "revision_id": 5142,
+          "source_url": "https://spinozaetnous.org/wiki/Renati_Descartes_Principia_philosophiae%2FPraefatio"
+        },
+        {
+          "page_title": "Renati Descartes Principia philosophiae/Pars I",
+          "revision_id": 5136,
+          "source_url": "https://spinozaetnous.org/wiki/Renati_Descartes_Principia_philosophiae%2FPars_I"
+        },
+        {
+          "page_title": "Renati Descartes Principia philosophiae/Pars II",
+          "revision_id": 5138,
+          "source_url": "https://spinozaetnous.org/wiki/Renati_Descartes_Principia_philosophiae%2FPars_II"
+        },
+        {
+          "page_title": "Renati Descartes Principia philosophiae/Pars III",
+          "revision_id": 5140,
+          "source_url": "https://spinozaetnous.org/wiki/Renati_Descartes_Principia_philosophiae%2FPars_III"
+        }
+      ],
+      "slug": "renati-descartes-principia-philosophiae",
+      "source_url": "https://spinozaetnous.org/wiki/Renati_Descartes_Principia_philosophiae",
+      "text_status": "web_transcription_edition_identified_unverified",
+      "title": "Renati Descartes principia philosophiae more geometrico demonstrata",
+      "work_year": "1663"
+    },
+    {
+      "edition_claim": "Gebhardt edition",
+      "id": "web-spinozaetnous-cogitata-metaphysica",
+      "index_page": "Cogitata metaphysica",
+      "index_revision_id": 6831,
+      "mode": "children",
+      "output_file": "cogitata-metaphysica.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/cogitata-metaphysica.md",
+      "pages": [
+        {
+          "page_title": "Cogitata metaphysica - Pars I",
+          "revision_id": 6830,
+          "source_url": "https://spinozaetnous.org/wiki/Cogitata_metaphysica_-_Pars_I"
+        },
+        {
+          "page_title": "Cogitata metaphysica - Pars II",
+          "revision_id": 6829,
+          "source_url": "https://spinozaetnous.org/wiki/Cogitata_metaphysica_-_Pars_II"
+        }
+      ],
+      "slug": "cogitata-metaphysica",
+      "source_url": "https://spinozaetnous.org/wiki/Cogitata_metaphysica",
+      "text_status": "web_transcription_edition_identified_unverified",
+      "title": "Cogitata metaphysica",
+      "work_year": "1663"
+    },
+    {
+      "edition_claim": "not explicitly identified on index page",
+      "id": "web-spinozaetnous-tractatus-de-intellectus-emendatione",
+      "index_page": "Tractatus de intellectus emendatione",
+      "index_revision_id": 3955,
+      "mode": "single",
+      "output_file": "tractatus-de-intellectus-emendatione.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/tractatus-de-intellectus-emendatione.md",
+      "pages": [
+        {
+          "page_title": "Tractatus de intellectus emendatione",
+          "revision_id": 3955,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_de_intellectus_emendatione"
+        }
+      ],
+      "slug": "tractatus-de-intellectus-emendatione",
+      "source_url": "https://spinozaetnous.org/wiki/Tractatus_de_intellectus_emendatione",
+      "text_status": "web_transcription_unverified",
+      "title": "Tractatus de intellectus emendatione",
+      "work_year": "1677"
+    },
+    {
+      "edition_claim": "Gebhardt edition",
+      "id": "web-spinozaetnous-ethica",
+      "index_page": "Ethica ordine geometrico demonstrata",
+      "index_revision_id": 4693,
+      "mode": "children",
+      "output_file": "ethica.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/ethica.md",
+      "pages": [
+        {
+          "page_title": "Ethica - Pars I",
+          "revision_id": 5127,
+          "source_url": "https://spinozaetnous.org/wiki/Ethica_-_Pars_I"
+        },
+        {
+          "page_title": "Ethica - Pars II",
+          "revision_id": 3423,
+          "source_url": "https://spinozaetnous.org/wiki/Ethica_-_Pars_II"
+        },
+        {
+          "page_title": "Ethica - Pars III",
+          "revision_id": 3424,
+          "source_url": "https://spinozaetnous.org/wiki/Ethica_-_Pars_III"
+        },
+        {
+          "page_title": "Ethica - Pars IV",
+          "revision_id": 6368,
+          "source_url": "https://spinozaetnous.org/wiki/Ethica_-_Pars_IV"
+        },
+        {
+          "page_title": "Ethica - Pars V",
+          "revision_id": 4022,
+          "source_url": "https://spinozaetnous.org/wiki/Ethica_-_Pars_V"
+        }
+      ],
+      "slug": "ethica",
+      "source_url": "https://spinozaetnous.org/wiki/Ethica_ordine_geometrico_demonstrata",
+      "text_status": "web_transcription_edition_identified_unverified",
+      "title": "Ethica ordine geometrico demonstrata",
+      "work_year": "1677"
+    },
+    {
+      "edition_claim": "not explicitly identified on index page",
+      "id": "web-spinozaetnous-tractatus-politicus",
+      "index_page": "Tractatus politicus",
+      "index_revision_id": 3961,
+      "mode": "single",
+      "output_file": "tractatus-politicus.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/tractatus-politicus.md",
+      "pages": [
+        {
+          "page_title": "Tractatus politicus",
+          "revision_id": 3961,
+          "source_url": "https://spinozaetnous.org/wiki/Tractatus_politicus"
+        }
+      ],
+      "slug": "tractatus-politicus",
+      "source_url": "https://spinozaetnous.org/wiki/Tractatus_politicus",
+      "text_status": "web_transcription_unverified",
+      "title": "Tractatus politicus",
+      "work_year": "1677"
+    },
+    {
+      "edition_claim": "Gebhardt edition",
+      "id": "web-spinozaetnous-epistolae",
+      "index_page": "Epistolae",
+      "index_revision_id": 6797,
+      "mode": "letters",
+      "output_file": "epistolae.md",
+      "output_path": "spinoza_md/latin_web/spinozaetnous/epistolae.md",
+      "pages": [
+        {
+          "page_title": "Ab et ad Blyenbergh (1664-1665)",
+          "revision_id": 6757,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Blyenbergh_(1664-1665)"
+        },
+        {
+          "page_title": "Ab et ad Boxel (1674)",
+          "revision_id": 6759,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Boxel_(1674)"
+        },
+        {
+          "page_title": "Ab et ad Burgh (1675)",
+          "revision_id": 6760,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Burgh_(1675)"
+        },
+        {
+          "page_title": "Ab et ad Jelles (1667-1674)",
+          "revision_id": 6762,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Jelles_(1667-1674)"
+        },
+        {
+          "page_title": "Ab et ad Oldenburg (1661-1663)",
+          "revision_id": 6754,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Oldenburg_(1661-1663)"
+        },
+        {
+          "page_title": "Ab et ad Oldenburg (1665)",
+          "revision_id": 4006,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Oldenburg_(1665)"
+        },
+        {
+          "page_title": "Ab et ad Oldenburg (1675-1676)",
+          "revision_id": 4007,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Oldenburg_(1675-1676)"
+        },
+        {
+          "page_title": "Ab et ad Schuller (1674-1675)",
+          "revision_id": 4011,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Schuller_(1674-1675)"
+        },
+        {
+          "page_title": "Ab et ad Tschirnhaus (1674-1676)",
+          "revision_id": 4050,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Tschirnhaus_(1674-1676)"
+        },
+        {
+          "page_title": "Ab et ad Vries (1663)",
+          "revision_id": 4010,
+          "source_url": "https://spinozaetnous.org/wiki/Ab_et_ad_Vries_(1663)"
+        },
+        {
+          "page_title": "Ad Bouwmeester (1665-1666)",
+          "revision_id": 6756,
+          "source_url": "https://spinozaetnous.org/wiki/Ad_Bouwmeester_(1665-1666)"
+        },
+        {
+          "page_title": "Ad Hudde (1666)",
+          "revision_id": 6761,
+          "source_url": "https://spinozaetnous.org/wiki/Ad_Hudde_(1666)"
+        },
+        {
+          "page_title": "Ad Meyer (1663)",
+          "revision_id": 4004,
+          "source_url": "https://spinozaetnous.org/wiki/Ad_Meyer_(1663)"
+        },
+        {
+          "page_title": "Aliae Epistolae",
+          "revision_id": 3998,
+          "source_url": "https://spinozaetnous.org/wiki/Aliae_Epistolae"
+        }
+      ],
+      "slug": "epistolae",
+      "source_url": "https://spinozaetnous.org/wiki/Epistolae",
+      "text_status": "partial_web_transcription",
+      "title": "Epistolae",
+      "work_year": "1677"
+    },
+    {
+      "id": "web-spinozaetnous-compendium-grammatices-linguae-hebraeae",
+      "output_path": "",
+      "slug": "compendium-grammatices-linguae-hebraeae",
+      "source_pdf": "source_pdfs/bruder-vol-iii-1846.pdf",
+      "status": "source_pdf_available_web_transcription_missing",
+      "title": "Compendium Grammatices Linguae Hebraeae"
+    }
+  ],
+  "source_license": "Spinoza et Nous: attribution required; non-commercial use only",
+  "source_site": "spinozaetnous.org"
+}

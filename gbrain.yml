@@ -1,0 +1,14 @@
+schema:
+  pack: gbrain-base-v2
+
+storage:
+  db_tracked:
+    - caute_ru_markdown/
+    - spinoza_markdown/
+    - kedrov_markdown/
+    - notes/
+    - translation_workspace/
+    - dialectical_logic/
+    - idols_ideals/
+    - existing_translations/
+  db_only: []

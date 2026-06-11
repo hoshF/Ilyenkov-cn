@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "id": "compendium-grammatices-linguae-hebraeae",
+      "title": "Compendium Grammatices Linguae Hebraeae",
+      "language": "la; he",
+      "status": "source_scans_and_chapter_structure_available_web_transcription_missing",
+      "source_pdf": "source_pdfs/bruder-vol-iii-1846.pdf",
+      "structured_scan_url": "https://diglib.hab.de/drucke/ac-343/start.htm",
+      "structured_scan_tei": "https://diglib.hab.de/drucke/ac-343/tei-struct.xml",
+      "note": "The HAB TEI identifies the preface and chapters I-XXXIII but contains page structure, not running-text transcription. No Markdown is generated."
+    },
+    {
+      "id": "epistolae-source-gaps",
+      "title": "Epistolae source gaps in the preferred Spinoza et Nous layer",
+      "language": "la; nl",
+      "status": "original_language_web_transcriptions_missing",
+      "missing_gebhardt_numbers": [38, 42, 43, 49, 69, 84],
+      "metadata_source": "https://spinozaweb.org/letters",
+      "note": "The letters can be identified in Spinoza Web and critical editions, but no uniform non-OCR web transcription source has been accepted for these six items. Letter 49 has a surviving Latin autograph and image-level sources."
+    },
+    {
+      "id": "ultimi-barbarorum",
+      "title": "Ultimi barbarorum",
+      "language": "la",
+      "status": "reported_lost_fragment_no_surviving_document",
+      "note": "This is a biographically reported placard phrase, not a surviving independent work or manuscript. It is excluded from the original-text Markdown corpus."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "core_corpus_rule": "Use the language in which Spinoza composed the text whenever the authorial-language text survives.",
+  "llm_wiki_rule": "Include auditable authorial-language texts and contemporary or early historical textual witnesses; exclude modern translations from the default research corpus.",
+  "default_llm_source_role": "historically_attested_source_text",
+  "roles": {
+    "author_original": "Core corpus and default LLM citation source.",
+    "text_witness": "Eligible for the LLM wiki when provenance and historical relation to the lost authorial text are documented.",
+    "historical_translation": "A contemporary or early translation eligible for the LLM wiki, while remaining distinct from authorial-language text.",
+    "modern_translation": "Reading aid excluded from the default LLM wiki source corpus.",
+    "ai_translation_or_explanation": "Dynamic interpretive output that must link back to source passages.",
+    "scan_or_unverified_ocr": "Reference or work material, excluded from the core corpus until verified."
+  },
+  "requirements": [
+    "Record source URL or source file identifier.",
+    "Record language and text status.",
+    "Record text_role and llm_wiki_eligible when the relation to the authorial text is not self-evident.",
+    "Do not use a translation as the preferred source when an authorial-language text is available.",
+    "Mark lost, uncertain, incomplete, translated, or indirect texts explicitly.",
+    "Do not exclude a contemporary historical translation merely because the authorial-language original is also available."
+  ]
+}

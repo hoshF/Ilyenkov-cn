@@ -1,0 +1,474 @@
+{
+  "items": {
+    "dialekticheskaya-logika-istinna-li-klassicheskaya-definitsiya-istiny": {
+      "bytes": 17262,
+      "child_count": 0,
+      "hash": "1db43150044e4747646770a2abbcbbcd7375fe89995dfb985070546b854d669b",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-istinna-li-klassicheskaya-definitsiya-istiny.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:07+00:00"
+    },
+    "dialekticheskaya-logika-kak-razlagalas-mysl": {
+      "bytes": 39850,
+      "child_count": 0,
+      "hash": "a25ed8f058dfed56fb0666ecf15ae431f8a08cd6e57cd6248005b8ce5ac43525",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-kak-razlagalas-mysl.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:13+00:00"
+    },
+    "dialekticheskaya-logika-metamorfozy-idealnogo-i": {
+      "bytes": 41024,
+      "child_count": 0,
+      "hash": "5e3decad8b8416eb7943348f80e0e9308eb334321706da2adf21b3177a95a26e",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-metamorfozy-idealnogo-i.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:04+00:00"
+    },
+    "dialekticheskaya-logika-metamorfozy-idealnogo-ii": {
+      "bytes": 49700,
+      "child_count": 0,
+      "hash": "39bfd464f8a8720db9a558d44446b39668de117f138bb69c2e0c9d937123d876",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-metamorfozy-idealnogo-ii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:05+00:00"
+    },
+    "dialekticheskaya-logika-o-dei-stvuyuschem-dele-i-protyazhennom-mestoimenii": {
+      "bytes": 101146,
+      "child_count": 0,
+      "hash": "c151ba6802d714c2c5823e81abc3e5c6dfd3fd9d37601c6ddd7bc77e03d3d911",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-o-dei-stvuyuschem-dele-i-protyazhennom-mestoimenii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:10+00:00"
+    },
+    "dialekticheskaya-logika-o-myslyaschei-sebya-prirode-i-idealnoi-realnosti": {
+      "bytes": 54501,
+      "child_count": 0,
+      "hash": "13f3efc0ffd1f25cd5a2aca6690a6ae6bda0b15ae067b2a0af8946bfe862ae05",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-o-myslyaschei-sebya-prirode-i-idealnoi-realnosti.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:02+00:00"
+    },
+    "dialekticheskaya-logika-o-myslyaschih-veschah-i-zharenyh-kvadratah": {
+      "bytes": 46569,
+      "child_count": 0,
+      "hash": "3469720f54b1f5fc3e9144046f2f084a13c03c0a0164587a301357b309af6b8e",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-o-myslyaschih-veschah-i-zharenyh-kvadratah.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:08+00:00"
+    },
+    "dialekticheskaya-logika-o-vulgarnyh-myslyah-tela": {
+      "bytes": 12013,
+      "child_count": 0,
+      "hash": "0186edd5f29f5553ca88744a574fe3b3ae8085edd13150f6f98926829eba64c2",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-o-vulgarnyh-myslyah-tela.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:12+00:00"
+    },
+    "dialekticheskaya-logika-opredelit-cheloveka": {
+      "bytes": 42009,
+      "child_count": 0,
+      "hash": "62f26756cd3069c079534dbc04ba1310105b3de64e4515149d6523cdf5f92b85",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-opredelit-cheloveka.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:17+00:00"
+    },
+    "dialekticheskaya-logika-polemika-o-kategorii-materialnogo": {
+      "bytes": 182574,
+      "child_count": 7,
+      "hash": "3946ec9ca4820bda1dd9910bd374d73187946dff62c9abc0e2861f4e9328cd2c",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-polemika-o-kategorii-materialnogo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:42+00:00"
+    },
+    "dialekticheskaya-logika-polemika-o-myslyaschem-tele": {
+      "bytes": 235348,
+      "child_count": 7,
+      "hash": "2c4b23314cd1c7c0c78774f2e60aad93bfe9eccd9d30f7c981b1b200e8599f41",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-polemika-o-myslyaschem-tele.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:30+00:00"
+    },
+    "dialekticheskaya-logika-vesch-myslyaschaya-dusha-ili-prosto-telo": {
+      "bytes": 35183,
+      "child_count": 0,
+      "hash": "40662426056236e0c48b0824cc1bd811d319d91882590c73e469b54b8ace6c3c",
+      "output_path": "maidansky_md/dialekticheskaya-logika/dialekticheskaya-logika-vesch-myslyaschaya-dusha-ili-prosto-telo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:15+00:00"
+    },
+    "istoriya-filosofii-dekart-i-spinoza-o-prirode-dushi-myslyaschaya-substantsiya-ili-ideya-te": {
+      "bytes": 57589,
+      "child_count": 0,
+      "hash": "67c79e27e6a6b96a9da2f53bdbd80c4059c592a3419ce988093b950f4ccac121",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-dekart-i-spinoza-o-prirode-dushi-myslyaschaya-substantsiya-ili-ideya-te.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:14+00:00"
+    },
+    "istoriya-filosofii-estetika-mihaila-lifshitsa-i-sovremennost": {
+      "bytes": 46424,
+      "child_count": 0,
+      "hash": "2166654310cebb075f6aa1c3e0672143ad4e6eb58811b03304030245393bce2b",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-estetika-mihaila-lifshitsa-i-sovremennost.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:30+00:00"
+    },
+    "istoriya-filosofii-filosofskaya-antropologiya-strahova": {
+      "bytes": 105379,
+      "child_count": 0,
+      "hash": "123888a8b3c0cf1a7fc209364c33a4ab07c6b71e84d8a78c6836e34c07e18de2",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-filosofskaya-antropologiya-strahova.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:29+00:00"
+    },
+    "istoriya-filosofii-geometricheskii-poryadok-dokazatelstva-i-logicheskii-metod-v-etike-spin": {
+      "bytes": 56889,
+      "child_count": 0,
+      "hash": "053b37291f0c3205141edf7cd97faa40de32f22b29f59beb940e02d3819ca45d",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-geometricheskii-poryadok-dokazatelstva-i-logicheskii-metod-v-etike-spin.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:07+00:00"
+    },
+    "istoriya-filosofii-idealnoe-u-marksa-audit-prekrasnyh-tsitat": {
+      "bytes": 19994,
+      "child_count": 0,
+      "hash": "436f6e79445b46c6a697ea1417add1628e718615feb1ca00bd4debb8cf454256",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-idealnoe-u-marksa-audit-prekrasnyh-tsitat.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:35+00:00"
+    },
+    "istoriya-filosofii-kategoriya-suschestvovaniya-v-etike-spinozy": {
+      "bytes": 94622,
+      "child_count": 0,
+      "hash": "2377ca1ed2dcb738304d44ef265dba63f1e971cb9ad1a0392eb45c8fdb1f7cf1",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-kategoriya-suschestvovaniya-v-etike-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:09+00:00"
+    },
+    "istoriya-filosofii-logicheskii-metod-spinozy": {
+      "bytes": 692943,
+      "chapter_count": 10,
+      "chapter_files": [
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch000.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch001.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch002.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch003.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch004.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch005.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch006.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch007.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch008.md",
+        "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/istoriya-filosofii-logicheskii-metod-spinozy-ch009.md"
+      ],
+      "child_count": 9,
+      "hash": "3ac6edaa06d0b3d4b04f53489fb842ae1f0a62b495263413c12b29f76a4d7acd",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:59+00:00",
+      "work_manifest": "maidansky_md/istoriya-filosofii/istoriya-filosofii-logicheskii-metod-spinozy/work_manifest.json"
+    },
+    "istoriya-filosofii-o-deyatelnoi-storone-ucheniya-spinozy": {
+      "bytes": 49993,
+      "child_count": 0,
+      "hash": "3b122888017dae1ab4862147da4d08f5769ab7c80b1a72dd74f51942af30a170",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-o-deyatelnoi-storone-ucheniya-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:22+00:00"
+    },
+    "istoriya-filosofii-obektivnaya-teleologiya-spinozy": {
+      "bytes": 43913,
+      "child_count": 0,
+      "hash": "a9fb4d34b2f5e57f4b7cf0fe39090be88bde29ce797b1817809b56f9d34fa3a7",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-obektivnaya-teleologiya-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:17+00:00"
+    },
+    "istoriya-filosofii-ponyatie-istiny-v-dialekticheskoi-logike-ilenkova": {
+      "bytes": 42895,
+      "child_count": 0,
+      "hash": "8016fdf0814b410f1c1356b15b62811e830740c3bcf2d11cf6d29e42b6c0e656",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-ponyatie-istiny-v-dialekticheskoi-logike-ilenkova.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:27+00:00"
+    },
+    "istoriya-filosofii-ponyatie-myshleniya-u-ilenkova-i-spinozy": {
+      "bytes": 60322,
+      "child_count": 0,
+      "hash": "0f4b8332be5f09d5a952a37f8b3a0b239a4036e67fa6b2fc5d433e51aa3be8a8",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-ponyatie-myshleniya-u-ilenkova-i-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:13+00:00"
+    },
+    "istoriya-filosofii-principium-coexsistentiae-ili-istoriya-odnogo-snovideniya-magistra-imma": {
+      "bytes": 47830,
+      "child_count": 0,
+      "hash": "ba666e118b5170e5d6fb2046146d7cac661b1a01748db872f5835a4e8a1549d8",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-principium-coexsistentiae-ili-istoriya-odnogo-snovideniya-magistra-imma.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:20+00:00"
+    },
+    "istoriya-filosofii-proishozhdenie-definitsii-u-spinozy": {
+      "bytes": 34238,
+      "child_count": 0,
+      "hash": "15e64c6df926e93aeb62c98827690e9c9edb196419854810b9cfef07a1cdd832",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-proishozhdenie-definitsii-u-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:01+00:00"
+    },
+    "istoriya-filosofii-realnost-kak-deyatelnost-ponyatie-praktiki-v-sovetskoi-filosofii": {
+      "bytes": 74365,
+      "child_count": 0,
+      "hash": "2e1734894d36ead88cc996e5cc48f9cb9213b12d96d027181ae4f284b8c8d17e",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-realnost-kak-deyatelnost-ponyatie-praktiki-v-sovetskoi-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:34+00:00"
+    },
+    "istoriya-filosofii-reforma-logiki-v-rabotah-r-dekarta-i-b-spinozy": {
+      "bytes": 89557,
+      "child_count": 0,
+      "hash": "43ee168a54a9a6eeec343b6106a9eb6595ba09596ef787e2d8f0d89f0277d22c",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-reforma-logiki-v-rabotah-r-dekarta-i-b-spinozy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:02+00:00"
+    },
+    "istoriya-filosofii-russische-spinozisten-des-20-jahrhunderts": {
+      "bytes": 61500,
+      "child_count": 0,
+      "hash": "7aee49db35372fe8f647b687e7fb1f0300701ed58785bef77d0641fa0b77993b",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-russische-spinozisten-des-20-jahrhunderts.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:18+00:00"
+    },
+    "istoriya-filosofii-russkie-spinozisty": {
+      "bytes": 68248,
+      "child_count": 0,
+      "hash": "1ace2c9cd4fbceeed71a5396f8864465cddabaa7712fe71aebbd71d05591b6d2",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-russkie-spinozisty.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:04+00:00"
+    },
+    "istoriya-filosofii-se-chelovek-odisseya-dvuh-definitsii": {
+      "bytes": 28549,
+      "child_count": 0,
+      "hash": "f09ea5dd3ba62f73d12d81bc861fa0400b8d83f7832b2d65f49a610ea1463022",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-se-chelovek-odisseya-dvuh-definitsii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:37+00:00"
+    },
+    "istoriya-filosofii-the-aesthetics-of-mikhail-lifshits-and-modernity": {
+      "bytes": 28778,
+      "child_count": 0,
+      "hash": "14d5e7a812162ab2cc76b3b28f13743ef448457e8601ea5d6121904e85d25005",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-the-aesthetics-of-mikhail-lifshits-and-modernity.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:32+00:00"
+    },
+    "istoriya-filosofii-the-concept-of-truth-in-ilyenkov-s-dialectical-logic": {
+      "bytes": 26058,
+      "child_count": 0,
+      "hash": "2bc444c97dcd2023a11e76abf7d821d02e7480c6f6a32f402919449c434c3efa",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-the-concept-of-truth-in-ilyenkov-s-dialectical-logic.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:38+00:00"
+    },
+    "istoriya-filosofii-the-reform-of-logic-in-descartes-s-and-spinoza-s-works": {
+      "bytes": 53991,
+      "child_count": 0,
+      "hash": "40dedc322dfca61534744ef7a4644dc47080d094fee82c6e0c091df64223c267",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-the-reform-of-logic-in-descartes-s-and-spinoza-s-works.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:06+00:00"
+    },
+    "istoriya-filosofii-the-russian-spinozists": {
+      "bytes": 37532,
+      "child_count": 0,
+      "hash": "f339e43d2bda0fe25bd61af23b66ea120119451fe2e2c1ab2417f7fcfe5f8ff8",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-the-russian-spinozists.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:11+00:00"
+    },
+    "istoriya-filosofii-vygotskii-spinoza-dialog-skvoz-stoletiya": {
+      "bytes": 78276,
+      "child_count": 0,
+      "hash": "b51644647e739c039171f30be114ea57a022742761703dac0eef250df45f985b",
+      "output_path": "maidansky_md/istoriya-filosofii/istoriya-filosofii-vygotskii-spinoza-dialog-skvoz-stoletiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:25+00:00"
+    },
+    "miniatyury-atomistika-i-problematika-chistogo-razuma-v-filosofii-anaksagora": {
+      "bytes": 21609,
+      "child_count": 0,
+      "hash": "8aca042598be692f45cc5518258953aef24e6cc3a9d1a135874a5e59993399f9",
+      "output_path": "maidansky_md/miniatyury/miniatyury-atomistika-i-problematika-chistogo-razuma-v-filosofii-anaksagora.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:52+00:00"
+    },
+    "miniatyury-dialektika-i-logika-geraklita": {
+      "bytes": 27007,
+      "child_count": 0,
+      "hash": "213d1e31702ee38473c2993e837bf7cb47abd95da1df67495259bd551e4910b3",
+      "output_path": "maidansky_md/miniatyury/miniatyury-dialektika-i-logika-geraklita.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:49+00:00"
+    },
+    "miniatyury-dve-kategorii-bytiya-v-srednevekovoi-filosofii": {
+      "bytes": 15390,
+      "child_count": 0,
+      "hash": "94a9506c5b89846ecc8a6ef8ad72fa43157a2edce8c42d36993b12ee14f98597",
+      "output_path": "maidansky_md/miniatyury/miniatyury-dve-kategorii-bytiya-v-srednevekovoi-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:53+00:00"
+    },
+    "miniatyury-lektsiya-v-strukture-neyavnogo-znaniya": {
+      "bytes": 18763,
+      "child_count": 0,
+      "hash": "f09c100feeac32874dbe365bd48b5108a8d9205b9a71a32f7bbc5e43feeb8766",
+      "output_path": "maidansky_md/miniatyury/miniatyury-lektsiya-v-strukture-neyavnogo-znaniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:56+00:00"
+    },
+    "miniatyury-obschenie-opyt-logiko-semanticheskogo-analiza": {
+      "bytes": 23080,
+      "child_count": 0,
+      "hash": "13f896119e88b58b1f91ae94f98ddd4579ed6b0bc7d9c438035eefeabf2300bb",
+      "output_path": "maidansky_md/miniatyury/miniatyury-obschenie-opyt-logiko-semanticheskogo-analiza.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:55+00:00"
+    },
+    "miniatyury-uchenie-parmenida-o-bytii-v-istorii-logicheskogo-myshleniya": {
+      "bytes": 14265,
+      "child_count": 0,
+      "hash": "803f669baae2de85f31f7eabe5055c9436d2d234068cd9e5668e07118e560cb4",
+      "output_path": "maidansky_md/miniatyury/miniatyury-uchenie-parmenida-o-bytii-v-istorii-logicheskogo-myshleniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:50+00:00"
+    },
+    "miniatyury-uchitsya-myslit": {
+      "bytes": 20912,
+      "child_count": 0,
+      "hash": "8cdf4632b3519d30a977d38682c4176b6ad391876c7b87fc13d9025c438c55ff",
+      "output_path": "maidansky_md/miniatyury/miniatyury-uchitsya-myslit.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:49:23+00:00"
+    },
+    "retsenzii-akademicheskii-plagiat": {
+      "bytes": 3717,
+      "child_count": 0,
+      "hash": "e8601dc893af5814584e4103b14183e082c3a4c7079e00f0c05c1400d1b7c67f",
+      "output_path": "maidansky_md/retsenzii/retsenzii-akademicheskii-plagiat.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:48:05+00:00"
+    },
+    "retsenzii-diagramma-filosofskoi-mysli": {
+      "bytes": 28789,
+      "child_count": 0,
+      "hash": "c639077be54d50372a0dfef343ff1d532173b5fd21ec47c34e92495f58bbfa92",
+      "output_path": "maidansky_md/retsenzii/retsenzii-diagramma-filosofskoi-mysli.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:48:01+00:00"
+    },
+    "retsenzii-filosofskoe-rossievedenie-mysl-o-rossii-i-russkaya-mysl": {
+      "bytes": 25474,
+      "child_count": 0,
+      "hash": "d9aca0dbe3504d15a51dc2260c9c2acb8484a5739f8b621e6df908c78ac97eb3",
+      "output_path": "maidansky_md/retsenzii/retsenzii-filosofskoe-rossievedenie-mysl-o-rossii-i-russkaya-mysl.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:48:03+00:00"
+    },
+    "retsenzii-illyuzii-osoznannogo-bytiya": {
+      "bytes": 25478,
+      "child_count": 0,
+      "hash": "db511dc7f7fde53550269e205f3674afb0f0b342a7bf50549f4aa3d4a59c7069",
+      "output_path": "maidansky_md/retsenzii/retsenzii-illyuzii-osoznannogo-bytiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:48:04+00:00"
+    },
+    "retsenzii-problema-dokazatelstva-v-filosofii": {
+      "bytes": 13862,
+      "child_count": 0,
+      "hash": "175e529f531608b100aea9deb814c1746eeb0873960f0ad8c09bfd7adf0f7cb8",
+      "output_path": "maidansky_md/retsenzii/retsenzii-problema-dokazatelstva-v-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:48:00+00:00"
+    },
+    "retsenzii-razmyshleniya-o-naznachenii-filosofii": {
+      "bytes": 15700,
+      "child_count": 0,
+      "hash": "1bb8d1f5e7834100f1f4fa6af2c5a553740fe9ce666bb4a0fd01bcc81d538e07",
+      "output_path": "maidansky_md/retsenzii/retsenzii-razmyshleniya-o-naznachenii-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:58+00:00"
+    },
+    "stati-v-entsiklopediyah-ilenkov-evald-vasilevich-novaya-rossii-skaya-entsiklopediya": {
+      "bytes": 7066,
+      "child_count": 0,
+      "hash": "eb86320ec5ca3e0fc841d6f35bab6f5d355f2c7efa3235f46aa035cc590812f3",
+      "output_path": "maidansky_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-ilenkov-evald-vasilevich-novaya-rossii-skaya-entsiklopediya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:40+00:00"
+    },
+    "stati-v-entsiklopediyah-ilenkov-evald-vasilevich-vikipediya": {
+      "bytes": 11031,
+      "child_count": 0,
+      "hash": "03bf35037d0e2d7f62abe45a06a2de6b264c9ad54d2004e1076287093fe1f5a2",
+      "output_path": "maidansky_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-ilenkov-evald-vasilevich-vikipediya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:47:41+00:00"
+    },
+    "teoriya-istorii-fenomenologiya-mirovoi-istorii-ot-gegelya-k-marksu": {
+      "bytes": 35707,
+      "child_count": 0,
+      "hash": "a2008443edf0865093f601b84655ed4e0662f280f1b2bb750625efd66876b546",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-fenomenologiya-mirovoi-istorii-ot-gegelya-k-marksu.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:45:43+00:00"
+    },
+    "teoriya-istorii-istoriya-i-obschestvennye-idealy": {
+      "bytes": 48017,
+      "child_count": 0,
+      "hash": "3debfdd29c67186e43ba9842ac313878752545bf1ca6c010c9add620a3caa17f",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-istoriya-i-obschestvennye-idealy.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:45:59+00:00"
+    },
+    "teoriya-istorii-logika-i-fenomenologiya-vsemirnoi-istorii": {
+      "bytes": 125641,
+      "child_count": 0,
+      "hash": "5aa7b616393151ecfd1d83c81afb2c191391bff898b541f88be3df6ba150de9e",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-logika-i-fenomenologiya-vsemirnoi-istorii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:45:47+00:00"
+    },
+    "teoriya-istorii-logika-istoricheskoi-teorii-marksa-reformatsiya-formatsii": {
+      "bytes": 181665,
+      "child_count": 0,
+      "hash": "a4c2ba0ba75c3849777e2c629094e5f8a417f14045e38b89caf86cd3be808c10",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-logika-istoricheskoi-teorii-marksa-reformatsiya-formatsii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:45:45+00:00"
+    },
+    "teoriya-istorii-ne-otomre-t-s-sobaka-e-v-ilenkov-o-gosudarstve": {
+      "bytes": 63544,
+      "child_count": 0,
+      "hash": "77bb2e1af3f8a48c1e648ddea121e1686ffd44ef3fad990424393c7d060baf00",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-ne-otomre-t-s-sobaka-e-v-ilenkov-o-gosudarstve.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:46:00+00:00"
+    },
+    "teoriya-istorii-prakticheskaya-istina-kommunisticheskih-utopii": {
+      "bytes": 69336,
+      "child_count": 0,
+      "hash": "769cef0203390056df177539e49fdbca1e266238489f7f5c6b70d9addddd04e9",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-prakticheskaya-istina-kommunisticheskih-utopii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:45:55+00:00"
+    },
+    "teoriya-istorii-vektory-i-kontury-obschestva-znanii": {
+      "bytes": 65411,
+      "child_count": 0,
+      "hash": "ea2100beee3a12d4edf368814f24113eaba177fcc4fed583daf0c6aa021fd032",
+      "output_path": "maidansky_md/teoriya-istorii/teoriya-istorii-vektory-i-kontury-obschestva-znanii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T01:45:57+00:00"
+    }
+  }
+}

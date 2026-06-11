@@ -1,0 +1,57 @@
+{
+  "items": {
+    "cogitata-metaphysica": {
+      "error": "Wikisource parse failed (missingtitle): The page you specified doesn't exist.",
+      "status": "missing_source_page",
+      "updated_at": "2026-06-11T07:36:25+00:00"
+    },
+    "compendium-grammatices-linguae-hebraeae": {
+      "error": "Wikisource parse failed (missingtitle): The page you specified doesn't exist.",
+      "status": "missing_source_page",
+      "updated_at": "2026-06-11T07:36:26+00:00"
+    },
+    "epistolae-benedictus-de-spinoza": {
+      "bytes": 99129,
+      "hash": "07b78487a07bc007b4acf0cdfb89e2588878884fba60280c507716305e992871",
+      "output_path": "spinoza_md/latin/epistolae-benedictus-de-spinoza.md",
+      "status": "done",
+      "updated_at": "2026-06-11T07:36:26+00:00"
+    },
+    "ethica": {
+      "bytes": 467039,
+      "hash": "39d0a3ae0cc2a6b0a9536d62c31a1446b2187ed7f330919b81f3ceade14959c9",
+      "output_path": "spinoza_md/latin/ethica.md",
+      "status": "done",
+      "updated_at": "2026-06-11T07:36:26+00:00"
+    },
+    "renati-descartes-principia-philosophiae-more-geometrico-demonstrata": {
+      "error": "Wikisource parse failed (missingtitle): The page you specified doesn't exist.",
+      "status": "missing_source_page",
+      "updated_at": "2026-06-11T07:36:25+00:00"
+    },
+    "tractatus-de-intellectus-emendatione-et-de-via-qua-optime-in-veram-rerum-cognitionem-dirigitur": {
+      "bytes": 78533,
+      "hash": "d07ed8006d9525a490ca31580bc650b291c0d15ce626ada4ffb2fd1d4bb2734e",
+      "output_path": "spinoza_md/latin/tractatus-de-intellectus-emendatione-et-de-via-qua-optime-in-veram-rerum-cognitionem-dirigitur.md",
+      "status": "done",
+      "updated_at": "2026-06-11T07:36:25+00:00"
+    },
+    "tractatus-politicus": {
+      "bytes": 188625,
+      "hash": "00bdf399c2fcbc939647693a783fcb065c62904afbece4345a564bba47136d72",
+      "output_path": "spinoza_md/latin/tractatus-politicus.md",
+      "status": "done",
+      "updated_at": "2026-06-11T07:36:26+00:00"
+    },
+    "tractatus-theologico-politicus": {
+      "error": "Wikisource parse failed (missingtitle): The page you specified doesn't exist.",
+      "status": "missing_source_page",
+      "updated_at": "2026-06-11T07:36:26+00:00"
+    },
+    "ultimi-barbarorum": {
+      "error": "Wikisource parse failed (missingtitle): The page you specified doesn't exist.",
+      "status": "missing_source_page",
+      "updated_at": "2026-06-11T07:36:26+00:00"
+    }
+  }
+}

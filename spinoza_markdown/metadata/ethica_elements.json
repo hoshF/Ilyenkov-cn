@@ -1,0 +1,5112 @@
+{
+  "element_count": 638,
+  "elements": [
+    {
+      "end_line": 45,
+      "id": "E1",
+      "part": 1,
+      "start_line": 38,
+      "title": "Source part page: <https://la.wikisource.org/wiki/Ethica%2FPars_prima_-_De_Deo>",
+      "type": "part"
+    },
+    {
+      "end_line": 47,
+      "id": "E1DefSection",
+      "part": 1,
+      "start_line": 46,
+      "title": "DEFINITIONES",
+      "type": "definition_section"
+    },
+    {
+      "end_line": 49,
+      "id": "E1D1",
+      "part": 1,
+      "start_line": 48,
+      "title": "I. Per causam sui intelligo id, cujus essentia involvit existentiam ; sive id, cujus natura non potest concipi nisi existens.",
+      "type": "definition"
+    },
+    {
+      "end_line": 51,
+      "id": "E1D2",
+      "part": 1,
+      "start_line": 50,
+      "title": "II. Ea res dicitur in suo genere finita, quæ alià ejusdem naturæ terminari potest. Ex. gr. corpus dicitur finitum, quia aliud semper majus concipimus. Sic cogitatio aliâ cogitatione terminatur. At corpus non terminatur cogitatione ; nec cogitatio corpore.",
+      "type": "definition"
+    },
+    {
+      "end_line": 53,
+      "id": "E1D3",
+      "part": 1,
+      "start_line": 52,
+      "title": "III. Per substantiam intelligo id, quod in se est, et per se concipitur, hoc est id, cujus conceptus non indiget conceptus alterius rei, a quo formari debeat.",
+      "type": "definition"
+    },
+    {
+      "end_line": 55,
+      "id": "E1D4",
+      "part": 1,
+      "start_line": 54,
+      "title": "IV. Per attributum intelligo id, quod intellectus de substantia percipit tanquam ejusdem essentiam constituens.",
+      "type": "definition"
+    },
+    {
+      "end_line": 57,
+      "id": "E1D5",
+      "part": 1,
+      "start_line": 56,
+      "title": "V. Per modum intelligo substantiæ affectiones, sive id, quod in alio est, per quod etiam concipitur.",
+      "type": "definition"
+    },
+    {
+      "end_line": 63,
+      "id": "E1D6",
+      "part": 1,
+      "start_line": 58,
+      "title": "VI. Per Deum intelligo ens absolute infinitum, hoc est, substantiam constantem infinitis attributis, quorum unumquodque æternam et infinitam essentiam exprimit.",
+      "type": "definition"
+    },
+    {
+      "end_line": 65,
+      "id": "E1D7",
+      "part": 1,
+      "start_line": 64,
+      "title": "VII. Ea res libera dicetur, quae ex sola suae naturæ necessitate existit, et a se sola ad agendum determinatur : Necessaria autem vel potius coacta, quæ ab alio determinatur ad existendum et operandum certa ac determinata ratione.",
+      "type": "definition"
+    },
+    {
+      "end_line": 71,
+      "id": "E1D8",
+      "part": 1,
+      "start_line": 66,
+      "title": "VIII. Per æternitatem intelligo ipsam existentiam, quatenus ex sola rei æternæ definitione necessario sequi concipitur.",
+      "type": "definition"
+    },
+    {
+      "end_line": 73,
+      "id": "E1AxiomSection",
+      "part": 1,
+      "start_line": 72,
+      "title": "AXIOMATA",
+      "type": "axiom_section"
+    },
+    {
+      "end_line": 75,
+      "id": "E1A1",
+      "part": 1,
+      "start_line": 74,
+      "title": "I. Omnia, quæ sunt, vel in se vel in alio sunt.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 77,
+      "id": "E1A2",
+      "part": 1,
+      "start_line": 76,
+      "title": "II. Id, quod per aliud non potest concipi, per se concipi debet.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 79,
+      "id": "E1A3",
+      "part": 1,
+      "start_line": 78,
+      "title": "III. Ex data causa determinata necessario sequitur effectus, et contra, si nulla detur determinata causa, impossibile est, ut effectus sequatur.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 81,
+      "id": "E1A4",
+      "part": 1,
+      "start_line": 80,
+      "title": "IV. Effectus cognitio a cognitione causæ dependet, et eandem involvit.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 83,
+      "id": "E1A5",
+      "part": 1,
+      "start_line": 82,
+      "title": "V. Quæ nihil commune cum se invicem habent, etiam per se invicem intelligi non possunt, sive conceptus unius alterius conceptum non involvit.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 85,
+      "id": "E1A6",
+      "part": 1,
+      "start_line": 84,
+      "title": "VI. Idea vera debet cum suo ideato convenire.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 87,
+      "id": "E1A7",
+      "part": 1,
+      "start_line": 86,
+      "title": "VII. Quicquid ut non existens potest concipi, ejus essentia non involvit existentiam.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 91,
+      "id": "E1P1",
+      "part": 1,
+      "start_line": 88,
+      "title": "PROPOSITIO I",
+      "type": "proposition"
+    },
+    {
+      "end_line": 95,
+      "id": "E1P1Dem",
+      "part": 1,
+      "start_line": 92,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 99,
+      "id": "E1P2",
+      "part": 1,
+      "start_line": 96,
+      "title": "PROPOSITIO II",
+      "type": "proposition"
+    },
+    {
+      "end_line": 103,
+      "id": "E1P2Dem",
+      "part": 1,
+      "start_line": 100,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 107,
+      "id": "E1P3",
+      "part": 1,
+      "start_line": 104,
+      "title": "PROPOSITIO III",
+      "type": "proposition"
+    },
+    {
+      "end_line": 111,
+      "id": "E1P3Dem",
+      "part": 1,
+      "start_line": 108,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 115,
+      "id": "E1P4",
+      "part": 1,
+      "start_line": 112,
+      "title": "PROPOSITIO IV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 119,
+      "id": "E1P4Dem",
+      "part": 1,
+      "start_line": 116,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 123,
+      "id": "E1P5",
+      "part": 1,
+      "start_line": 120,
+      "title": "PROPOSITIO V",
+      "type": "proposition"
+    },
+    {
+      "end_line": 127,
+      "id": "E1P5Dem",
+      "part": 1,
+      "start_line": 124,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 131,
+      "id": "E1P6",
+      "part": 1,
+      "start_line": 128,
+      "title": "PROPOSITIO VI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 135,
+      "id": "E1P6Dem",
+      "part": 1,
+      "start_line": 132,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 143,
+      "id": "E1P6Cor",
+      "part": 1,
+      "start_line": 136,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 147,
+      "id": "E1P7",
+      "part": 1,
+      "start_line": 144,
+      "title": "PROPOSITIO VII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 151,
+      "id": "E1P7Dem",
+      "part": 1,
+      "start_line": 148,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 155,
+      "id": "E1P8",
+      "part": 1,
+      "start_line": 152,
+      "title": "PROPOSITIO VIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 167,
+      "id": "E1P8Dem",
+      "part": 1,
+      "start_line": 156,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 171,
+      "id": "E1P9",
+      "part": 1,
+      "start_line": 168,
+      "title": "PROPOSITIO IX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 175,
+      "id": "E1P9Dem",
+      "part": 1,
+      "start_line": 172,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 179,
+      "id": "E1P10",
+      "part": 1,
+      "start_line": 176,
+      "title": "PROPOSITIO X",
+      "type": "proposition"
+    },
+    {
+      "end_line": 183,
+      "id": "E1P10Dem",
+      "part": 1,
+      "start_line": 180,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 187,
+      "id": "E1P10Schol",
+      "part": 1,
+      "start_line": 184,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 191,
+      "id": "E1P11",
+      "part": 1,
+      "start_line": 188,
+      "title": "PROPOSITIO XI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 203,
+      "id": "E1P11Dem",
+      "part": 1,
+      "start_line": 192,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 207,
+      "id": "E1P11Schol",
+      "part": 1,
+      "start_line": 204,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 211,
+      "id": "E1P12",
+      "part": 1,
+      "start_line": 208,
+      "title": "PROPOSITIO XII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 215,
+      "id": "E1P12Dem",
+      "part": 1,
+      "start_line": 212,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 219,
+      "id": "E1P13",
+      "part": 1,
+      "start_line": 216,
+      "title": "PROPOSITIO XIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 223,
+      "id": "E1P13Dem",
+      "part": 1,
+      "start_line": 220,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 227,
+      "id": "E1P13Cor",
+      "part": 1,
+      "start_line": 224,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 231,
+      "id": "E1P13Schol",
+      "part": 1,
+      "start_line": 228,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 235,
+      "id": "E1P14",
+      "part": 1,
+      "start_line": 232,
+      "title": "PROPOSITIO XIV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 247,
+      "id": "E1P14Dem",
+      "part": 1,
+      "start_line": 236,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 251,
+      "id": "E1P15",
+      "part": 1,
+      "start_line": 248,
+      "title": "PROPOSITIO XV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 255,
+      "id": "E1P15Dem",
+      "part": 1,
+      "start_line": 252,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 259,
+      "id": "E1P15Schol",
+      "part": 1,
+      "start_line": 256,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 263,
+      "id": "E1P16",
+      "part": 1,
+      "start_line": 260,
+      "title": "PROPOSITIO XVI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 279,
+      "id": "E1P16Dem",
+      "part": 1,
+      "start_line": 264,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 283,
+      "id": "E1P17",
+      "part": 1,
+      "start_line": 280,
+      "title": "PROPOSITIO XVII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 295,
+      "id": "E1P17Dem",
+      "part": 1,
+      "start_line": 284,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 299,
+      "id": "E1P17Schol",
+      "part": 1,
+      "start_line": 296,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 303,
+      "id": "E1P18",
+      "part": 1,
+      "start_line": 300,
+      "title": "PROPOSITIO XVIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 307,
+      "id": "E1P18Dem",
+      "part": 1,
+      "start_line": 304,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 311,
+      "id": "E1P19",
+      "part": 1,
+      "start_line": 308,
+      "title": "PROPOSITIO XIX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 315,
+      "id": "E1P19Dem",
+      "part": 1,
+      "start_line": 312,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 319,
+      "id": "E1P19Schol",
+      "part": 1,
+      "start_line": 316,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 323,
+      "id": "E1P20",
+      "part": 1,
+      "start_line": 320,
+      "title": "PROPOSITIO XX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 339,
+      "id": "E1P20Dem",
+      "part": 1,
+      "start_line": 324,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 349,
+      "id": "E1P20Dem_2",
+      "part": 1,
+      "start_line": 340,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 357,
+      "id": "E1P20Dem_3",
+      "part": 1,
+      "start_line": 350,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 365,
+      "id": "E1P20Dem_4",
+      "part": 1,
+      "start_line": 358,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 369,
+      "id": "E1P20Dem_5",
+      "part": 1,
+      "start_line": 366,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 377,
+      "id": "E1P20Cor",
+      "part": 1,
+      "start_line": 370,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 379,
+      "id": "E1P20Dem_6",
+      "part": 1,
+      "start_line": 378,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 385,
+      "id": "E1A4_2",
+      "part": 1,
+      "start_line": 380,
+      "title": "Si negas, ergo rerum essentiæ Deus non est causa ; adeoque (*per Axioma 4*) potest rerum essentia sine Deo concipi : atqui hoc (*per Prop.* 15) est absurdum. Ergo rerum etiam essentiæ Deus est causa. *Q. E. D.*",
+      "type": "axiom"
+    },
+    {
+      "end_line": 393,
+      "id": "E1P20Cor2",
+      "part": 1,
+      "start_line": 386,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 401,
+      "id": "E1P20Dem_7",
+      "part": 1,
+      "start_line": 394,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 409,
+      "id": "E1P20Dem_8",
+      "part": 1,
+      "start_line": 402,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 413,
+      "id": "E1P20Dem_9",
+      "part": 1,
+      "start_line": 410,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 421,
+      "id": "E1P20Schol",
+      "part": 1,
+      "start_line": 414,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 425,
+      "id": "E1P20Dem_10",
+      "part": 1,
+      "start_line": 422,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 433,
+      "id": "E1P20Schol_2",
+      "part": 1,
+      "start_line": 426,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 441,
+      "id": "E1P20Dem_11",
+      "part": 1,
+      "start_line": 434,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 445,
+      "id": "E1P20Dem_12",
+      "part": 1,
+      "start_line": 442,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 453,
+      "id": "E1P20Schol_3",
+      "part": 1,
+      "start_line": 446,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 469,
+      "id": "E1P20Dem_13",
+      "part": 1,
+      "start_line": 454,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 487,
+      "id": "E1P20Dem_14",
+      "part": 1,
+      "start_line": 470,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 495,
+      "id": "E1P20Dem_15",
+      "part": 1,
+      "start_line": 488,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 503,
+      "id": "E1P20Dem_16",
+      "part": 1,
+      "start_line": 496,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 507,
+      "id": "E1P20Dem_17",
+      "part": 1,
+      "start_line": 504,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 537,
+      "id": "E1App",
+      "part": 1,
+      "start_line": 508,
+      "title": "APPENDIX",
+      "type": "appendix"
+    },
+    {
+      "end_line": 543,
+      "id": "E2",
+      "part": 2,
+      "start_line": 538,
+      "title": "Source part page: <https://la.wikisource.org/wiki/Ethica%2FPars_secunda_-_De_natura_et_origine_mentis>",
+      "type": "part"
+    },
+    {
+      "end_line": 545,
+      "id": "E2DefSection",
+      "part": 2,
+      "start_line": 544,
+      "title": "DEFINITIONES",
+      "type": "definition_section"
+    },
+    {
+      "end_line": 547,
+      "id": "E2D1",
+      "part": 2,
+      "start_line": 546,
+      "title": "I. Per corpus intelligo modum, qui Dei essentiam, quatenus ut res extensa consideratur, certo et determinato modo exprimit; *vid. Coroll. Prop.* 25 *p. I*.",
+      "type": "definition"
+    },
+    {
+      "end_line": 549,
+      "id": "E2D2",
+      "part": 2,
+      "start_line": 548,
+      "title": "II. Ad essentiam alicujus rei id pertinere dico, quo dato res necessario ponitur, et quo sublato res necessario tollitur ; vel id, sine quo res, et vice versa quod sine re, nec esse nec concipi potest.",
+      "type": "definition"
+    },
+    {
+      "end_line": 555,
+      "id": "E2D3",
+      "part": 2,
+      "start_line": 550,
+      "title": "III. Per ideam intelligo Mentis conceptum, quem Mens format propterea quod res est cogitans.",
+      "type": "definition"
+    },
+    {
+      "end_line": 561,
+      "id": "E2D4",
+      "part": 2,
+      "start_line": 556,
+      "title": "IV. Per ideam adæquatam intelligo ideam, quae, quatenus in se sine relatione ad objectum consideratur, omnes veræ ideæ proprietates sive denominationes intrinsecas habet.",
+      "type": "definition"
+    },
+    {
+      "end_line": 567,
+      "id": "E2D5",
+      "part": 2,
+      "start_line": 562,
+      "title": "V. Duratio est indefinita existendi continuatio.",
+      "type": "definition"
+    },
+    {
+      "end_line": 569,
+      "id": "E2D6",
+      "part": 2,
+      "start_line": 568,
+      "title": "VI. Per realitatem et perfectionem idem intelligo.",
+      "type": "definition"
+    },
+    {
+      "end_line": 571,
+      "id": "E2D7",
+      "part": 2,
+      "start_line": 570,
+      "title": "VII. Per res singulares intelligo res, quæ finitæ sunt, et determinatam habent existentiam. Quod si plura individua in una actione ita concurrant, ut omnia simul unius effectus sint causa, eadem omnia eatenus ut unam rem singularem considero.",
+      "type": "definition"
+    },
+    {
+      "end_line": 573,
+      "id": "E2AxiomSection",
+      "part": 2,
+      "start_line": 572,
+      "title": "AXIOMATA",
+      "type": "axiom_section"
+    },
+    {
+      "end_line": 575,
+      "id": "E2A1",
+      "part": 2,
+      "start_line": 574,
+      "title": "I. Hominis essentia non involvit necessariam existentiam, hoc est, ex Naturæ ordine tam fieri potest, ut hic et ille homo existat, quam ut non existat.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 577,
+      "id": "E2A2",
+      "part": 2,
+      "start_line": 576,
+      "title": "II. Homo cogitat.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 579,
+      "id": "E2A3",
+      "part": 2,
+      "start_line": 578,
+      "title": "III. Modi cogitandi, ut amor, cupiditas, vel quicunque nomine affectus animi insigniuntur, non dantur, nisi in eodem Individuo detur idea rei amatæ, desideratæ, etc. At idea dari potest, quamvis nullus alius detur cogitandi modus.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 581,
+      "id": "E2A4",
+      "part": 2,
+      "start_line": 580,
+      "title": "IV. Nos corpus quoddam multis modis affici sentimus.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 585,
+      "id": "E2A5",
+      "part": 2,
+      "start_line": 582,
+      "title": "V. Nullas res singulares, præter corpora et cogitandi modos, sentimus nec percipimus.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 589,
+      "id": "E2P1",
+      "part": 2,
+      "start_line": 586,
+      "title": "PROPOSITIO I",
+      "type": "proposition"
+    },
+    {
+      "end_line": 593,
+      "id": "E2P1Dem",
+      "part": 2,
+      "start_line": 590,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 597,
+      "id": "E2P1Schol",
+      "part": 2,
+      "start_line": 594,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 601,
+      "id": "E2P2",
+      "part": 2,
+      "start_line": 598,
+      "title": "PROPOSITIO II",
+      "type": "proposition"
+    },
+    {
+      "end_line": 605,
+      "id": "E2P2Dem",
+      "part": 2,
+      "start_line": 602,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 609,
+      "id": "E2P3",
+      "part": 2,
+      "start_line": 606,
+      "title": "PROPOSITIO III",
+      "type": "proposition"
+    },
+    {
+      "end_line": 613,
+      "id": "E2P3Dem",
+      "part": 2,
+      "start_line": 610,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 617,
+      "id": "E2P3Schol",
+      "part": 2,
+      "start_line": 614,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 621,
+      "id": "E2P4",
+      "part": 2,
+      "start_line": 618,
+      "title": "PROPOSITIO IV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 625,
+      "id": "E2P4Dem",
+      "part": 2,
+      "start_line": 622,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 629,
+      "id": "E2P5",
+      "part": 2,
+      "start_line": 626,
+      "title": "PROPOSITIO V",
+      "type": "proposition"
+    },
+    {
+      "end_line": 633,
+      "id": "E2P5Dem",
+      "part": 2,
+      "start_line": 630,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 637,
+      "id": "E2P6",
+      "part": 2,
+      "start_line": 634,
+      "title": "PROPOSITIO VI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 641,
+      "id": "E2P6Dem",
+      "part": 2,
+      "start_line": 638,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 645,
+      "id": "E2P6Cor",
+      "part": 2,
+      "start_line": 642,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 649,
+      "id": "E2P7",
+      "part": 2,
+      "start_line": 646,
+      "title": "PROPOSITIO VII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 653,
+      "id": "E2P7Dem",
+      "part": 2,
+      "start_line": 650,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 657,
+      "id": "E2P7Cor",
+      "part": 2,
+      "start_line": 654,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 661,
+      "id": "E2P7Schol",
+      "part": 2,
+      "start_line": 658,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 665,
+      "id": "E2P8",
+      "part": 2,
+      "start_line": 662,
+      "title": "PROPOSITIO VIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 669,
+      "id": "E2P8Dem",
+      "part": 2,
+      "start_line": 666,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 673,
+      "id": "E2P8Cor",
+      "part": 2,
+      "start_line": 670,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 677,
+      "id": "E2P8Schol",
+      "part": 2,
+      "start_line": 674,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 681,
+      "id": "E2P9",
+      "part": 2,
+      "start_line": 678,
+      "title": "PROPOSITIO IX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 685,
+      "id": "E2P9Dem",
+      "part": 2,
+      "start_line": 682,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 689,
+      "id": "E2P9Cor",
+      "part": 2,
+      "start_line": 686,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 693,
+      "id": "E2P9Dem_2",
+      "part": 2,
+      "start_line": 690,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 697,
+      "id": "E2P10",
+      "part": 2,
+      "start_line": 694,
+      "title": "PROPOSITIO X",
+      "type": "proposition"
+    },
+    {
+      "end_line": 701,
+      "id": "E2P10Dem",
+      "part": 2,
+      "start_line": 698,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 705,
+      "id": "E2P10Schol",
+      "part": 2,
+      "start_line": 702,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 709,
+      "id": "E2P10Cor",
+      "part": 2,
+      "start_line": 706,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 713,
+      "id": "E2P10Schol_2",
+      "part": 2,
+      "start_line": 710,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 717,
+      "id": "E2P11",
+      "part": 2,
+      "start_line": 714,
+      "title": "PROPOSITIO XI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 721,
+      "id": "E2P11Dem",
+      "part": 2,
+      "start_line": 718,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 725,
+      "id": "E2P11Cor",
+      "part": 2,
+      "start_line": 722,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 729,
+      "id": "E2P11Schol",
+      "part": 2,
+      "start_line": 726,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 733,
+      "id": "E2P12",
+      "part": 2,
+      "start_line": 730,
+      "title": "PROPOSITIO XII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 737,
+      "id": "E2P12Dem",
+      "part": 2,
+      "start_line": 734,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 741,
+      "id": "E2P12Schol",
+      "part": 2,
+      "start_line": 738,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 745,
+      "id": "E2P13",
+      "part": 2,
+      "start_line": 742,
+      "title": "PROPOSITIO XIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 749,
+      "id": "E2P13Dem",
+      "part": 2,
+      "start_line": 746,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 753,
+      "id": "E2P13Cor",
+      "part": 2,
+      "start_line": 750,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 757,
+      "id": "E2P13Schol",
+      "part": 2,
+      "start_line": 754,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 761,
+      "id": "E2A1_2",
+      "part": 2,
+      "start_line": 758,
+      "title": "AXIOMA I",
+      "type": "axiom"
+    },
+    {
+      "end_line": 765,
+      "id": "E2A2_2",
+      "part": 2,
+      "start_line": 762,
+      "title": "AXIOMA II",
+      "type": "axiom"
+    },
+    {
+      "end_line": 769,
+      "id": "E2L1",
+      "part": 2,
+      "start_line": 766,
+      "title": "LEMMA I",
+      "type": "lemma"
+    },
+    {
+      "end_line": 773,
+      "id": "E2P13Dem_2",
+      "part": 2,
+      "start_line": 770,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 777,
+      "id": "E2L2",
+      "part": 2,
+      "start_line": 774,
+      "title": "LEMMA II",
+      "type": "lemma"
+    },
+    {
+      "end_line": 781,
+      "id": "E2P13Dem_3",
+      "part": 2,
+      "start_line": 778,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 785,
+      "id": "E2L3",
+      "part": 2,
+      "start_line": 782,
+      "title": "LEMMA III",
+      "type": "lemma"
+    },
+    {
+      "end_line": 789,
+      "id": "E2P13Dem_4",
+      "part": 2,
+      "start_line": 786,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 793,
+      "id": "E2P13Cor2",
+      "part": 2,
+      "start_line": 790,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 797,
+      "id": "E2A1_3",
+      "part": 2,
+      "start_line": 794,
+      "title": "AXIOMA I",
+      "type": "axiom"
+    },
+    {
+      "end_line": 807,
+      "id": "E2A2_3",
+      "part": 2,
+      "start_line": 798,
+      "title": "AXIOMA II",
+      "type": "axiom"
+    },
+    {
+      "end_line": 811,
+      "id": "E2A3_2",
+      "part": 2,
+      "start_line": 808,
+      "title": "AXIOMA III",
+      "type": "axiom"
+    },
+    {
+      "end_line": 815,
+      "id": "E2L4",
+      "part": 2,
+      "start_line": 812,
+      "title": "LEMMA IV",
+      "type": "lemma"
+    },
+    {
+      "end_line": 819,
+      "id": "E2P13Dem_5",
+      "part": 2,
+      "start_line": 816,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 823,
+      "id": "E2L5",
+      "part": 2,
+      "start_line": 820,
+      "title": "LEMMA V",
+      "type": "lemma"
+    },
+    {
+      "end_line": 827,
+      "id": "E2P13Dem_6",
+      "part": 2,
+      "start_line": 824,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 831,
+      "id": "E2L6",
+      "part": 2,
+      "start_line": 828,
+      "title": "LEMMA VI",
+      "type": "lemma"
+    },
+    {
+      "end_line": 835,
+      "id": "E2P13Dem_7",
+      "part": 2,
+      "start_line": 832,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 839,
+      "id": "E2L7",
+      "part": 2,
+      "start_line": 836,
+      "title": "LEMMA VII",
+      "type": "lemma"
+    },
+    {
+      "end_line": 843,
+      "id": "E2P13Dem_8",
+      "part": 2,
+      "start_line": 840,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 847,
+      "id": "E2P13Schol_2",
+      "part": 2,
+      "start_line": 844,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 849,
+      "id": "E2PostSection",
+      "part": 2,
+      "start_line": 848,
+      "title": "POSTULATA",
+      "type": "postulate_section"
+    },
+    {
+      "end_line": 851,
+      "id": "E2Post1",
+      "part": 2,
+      "start_line": 850,
+      "title": "I. Corpus humanum componitur ex plurimis (diversæ naturæ) individuis, quorum unumquodque valde compositum est.",
+      "type": "postulate"
+    },
+    {
+      "end_line": 853,
+      "id": "E2Post2",
+      "part": 2,
+      "start_line": 852,
+      "title": "II. Individuorum, ex quibus Corpus humanum componitur, quædam fluida, quædam mollia, et quædam denique dura sunt.",
+      "type": "postulate"
+    },
+    {
+      "end_line": 855,
+      "id": "E2Post3",
+      "part": 2,
+      "start_line": 854,
+      "title": "III. Individua Corpus humanum componentia, et consequenter ipsum humanum Corpus a corporibus externis plurimis modis afficitur.",
+      "type": "postulate"
+    },
+    {
+      "end_line": 857,
+      "id": "E2Post4",
+      "part": 2,
+      "start_line": 856,
+      "title": "IV. Corpus humanum indiget, ut conservetur, plurimis aliis corporibus, a quibus continuo quasi regeneratur.",
+      "type": "postulate"
+    },
+    {
+      "end_line": 859,
+      "id": "E2Post5",
+      "part": 2,
+      "start_line": 858,
+      "title": "V. Cum Corporis humani pars fluida a corpore externo determinatur, ut in aliam mollem sæpe impingat, ejus planum mutat, et veluti quædam corporis externi impellentis vestigia eidem imprimit. VI. Corpus humanum potest corpora externa plurimis modis movere, plurimisque modis disponere.",
+      "type": "postulate"
+    },
+    {
+      "end_line": 863,
+      "id": "E2P14",
+      "part": 2,
+      "start_line": 860,
+      "title": "PROPOSITIO XIV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 867,
+      "id": "E2P14Dem",
+      "part": 2,
+      "start_line": 864,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 871,
+      "id": "E2P15",
+      "part": 2,
+      "start_line": 868,
+      "title": "PROPOSITIO XV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 875,
+      "id": "E2P15Dem",
+      "part": 2,
+      "start_line": 872,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 879,
+      "id": "E2P16",
+      "part": 2,
+      "start_line": 876,
+      "title": "PROPOSITIO XVI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 889,
+      "id": "E2P16Dem",
+      "part": 2,
+      "start_line": 880,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 891,
+      "id": "E2App",
+      "part": 2,
+      "start_line": 890,
+      "title": "Sequitur secundo, quod ideæ, quas corporum externorum habemus magis nostri corporis constitutionem quam corporum externorum naturam indicant ; quod in Appendice partis primæ multis exemplis explicuit.",
+      "type": "appendix"
+    },
+    {
+      "end_line": 895,
+      "id": "E2P17",
+      "part": 2,
+      "start_line": 892,
+      "title": "PROPOSITIO XVII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 899,
+      "id": "E2P17Dem",
+      "part": 2,
+      "start_line": 896,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 903,
+      "id": "E2P17Cor",
+      "part": 2,
+      "start_line": 900,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 907,
+      "id": "E2P17Dem_2",
+      "part": 2,
+      "start_line": 904,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 911,
+      "id": "E2P17Schol",
+      "part": 2,
+      "start_line": 908,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 915,
+      "id": "E2P18",
+      "part": 2,
+      "start_line": 912,
+      "title": "PROPOSITIO XVIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 919,
+      "id": "E2P18Dem",
+      "part": 2,
+      "start_line": 916,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 923,
+      "id": "E2P18Schol",
+      "part": 2,
+      "start_line": 920,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 927,
+      "id": "E2P19",
+      "part": 2,
+      "start_line": 924,
+      "title": "PROPOSITIO XIX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 931,
+      "id": "E2P19Dem",
+      "part": 2,
+      "start_line": 928,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 935,
+      "id": "E2P20",
+      "part": 2,
+      "start_line": 932,
+      "title": "PROPOSITIO XX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 943,
+      "id": "E2P20Dem",
+      "part": 2,
+      "start_line": 936,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 947,
+      "id": "E2P20Dem_2",
+      "part": 2,
+      "start_line": 944,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 955,
+      "id": "E2P20Schol",
+      "part": 2,
+      "start_line": 948,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 957,
+      "id": "E2P20Dem_3",
+      "part": 2,
+      "start_line": 956,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 963,
+      "id": "E2P20_2",
+      "part": 2,
+      "start_line": 958,
+      "title": "Affectionum idearum ideæ in Deo eodem modo sequuntur, et ad Deum eodem modo referuntur, ac ipsæ affectionum ideæ ; quod eodem modo demonstratur ac Propositio 20 hujus. At ideæ affectionum Corporis in Mente humana sunt (*per Prop.* 12 *hujus*), hoc est (*per Coroll. Prop.* 11 *hujus*) in Deo, quatenus humanæ Mentis essentiam constituit ; ergo harum idearum ideæ in Deo erunt, quatenus humanæ Mentis cognitionem sive ideam habet, hoc est (*per Prop.* 21 *hujus*) in ipsa Mente humana, quæ propterea non tantum Corporis affectiones, sed earum etiam ideas percipit. *Q. E. D.*",
+      "type": "proposition"
+    },
+    {
+      "end_line": 971,
+      "id": "E2P20Dem_4",
+      "part": 2,
+      "start_line": 964,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 979,
+      "id": "E2P20Dem_5",
+      "part": 2,
+      "start_line": 972,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 987,
+      "id": "E2P20Dem_6",
+      "part": 2,
+      "start_line": 980,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 991,
+      "id": "E2P20Dem_7",
+      "part": 2,
+      "start_line": 988,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 995,
+      "id": "E2P20Cor",
+      "part": 2,
+      "start_line": 992,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1003,
+      "id": "E2P20Dem_8",
+      "part": 2,
+      "start_line": 996,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1011,
+      "id": "E2P20Dem_9",
+      "part": 2,
+      "start_line": 1004,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1015,
+      "id": "E2P20Dem_10",
+      "part": 2,
+      "start_line": 1012,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1023,
+      "id": "E2P20Schol_2",
+      "part": 2,
+      "start_line": 1016,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1027,
+      "id": "E2P20Dem_11",
+      "part": 2,
+      "start_line": 1024,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1031,
+      "id": "E2P20Cor2",
+      "part": 2,
+      "start_line": 1028,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1039,
+      "id": "E2P20Schol_3",
+      "part": 2,
+      "start_line": 1032,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1047,
+      "id": "E2P20Dem_12",
+      "part": 2,
+      "start_line": 1040,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1051,
+      "id": "E2P20Dem_13",
+      "part": 2,
+      "start_line": 1048,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1059,
+      "id": "E2P20Cor3",
+      "part": 2,
+      "start_line": 1052,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1067,
+      "id": "E2P20Dem_14",
+      "part": 2,
+      "start_line": 1060,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1075,
+      "id": "E2P20Dem_15",
+      "part": 2,
+      "start_line": 1068,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1083,
+      "id": "E2P20Dem_16",
+      "part": 2,
+      "start_line": 1076,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1087,
+      "id": "E2P20Dem_17",
+      "part": 2,
+      "start_line": 1084,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1095,
+      "id": "E2P20Schol_4",
+      "part": 2,
+      "start_line": 1088,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1101,
+      "id": "E2P20Dem_18",
+      "part": 2,
+      "start_line": 1096,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1103,
+      "id": "E2L2_2",
+      "part": 2,
+      "start_line": 1102,
+      "title": "*Id, quod omnibus commune *(de his vide supra Lemma 2)*, quodque æque in parte ac in toto est, nullius rei singularis essentiam constituit.*",
+      "type": "lemma"
+    },
+    {
+      "end_line": 1111,
+      "id": "E2P20Dem_19",
+      "part": 2,
+      "start_line": 1104,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1115,
+      "id": "E2P20Dem_20",
+      "part": 2,
+      "start_line": 1112,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1123,
+      "id": "E2P20Cor4",
+      "part": 2,
+      "start_line": 1116,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1127,
+      "id": "E2P20Dem_21",
+      "part": 2,
+      "start_line": 1124,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1135,
+      "id": "E2P20Cor5",
+      "part": 2,
+      "start_line": 1128,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1151,
+      "id": "E2P20Dem_22",
+      "part": 2,
+      "start_line": 1136,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1159,
+      "id": "E2P20Dem_23",
+      "part": 2,
+      "start_line": 1152,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1167,
+      "id": "E2P20Dem_24",
+      "part": 2,
+      "start_line": 1160,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1171,
+      "id": "E2P20Dem_25",
+      "part": 2,
+      "start_line": 1168,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1179,
+      "id": "E2P20Schol_5",
+      "part": 2,
+      "start_line": 1172,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1187,
+      "id": "E2P20Dem_26",
+      "part": 2,
+      "start_line": 1180,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1195,
+      "id": "E2P20Schol_6",
+      "part": 2,
+      "start_line": 1188,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1203,
+      "id": "E2P20Dem_27",
+      "part": 2,
+      "start_line": 1196,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1207,
+      "id": "E2P20Dem_28",
+      "part": 2,
+      "start_line": 1204,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1215,
+      "id": "E2P20Schol_7",
+      "part": 2,
+      "start_line": 1208,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1223,
+      "id": "E2P20Dem_29",
+      "part": 2,
+      "start_line": 1216,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1227,
+      "id": "E2P20Dem_30",
+      "part": 2,
+      "start_line": 1224,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1235,
+      "id": "E2P20Schol_8",
+      "part": 2,
+      "start_line": 1228,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1239,
+      "id": "E2P20Dem_31",
+      "part": 2,
+      "start_line": 1236,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1241,
+      "id": "E2P20Schol_9",
+      "part": 2,
+      "start_line": 1240,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1247,
+      "id": "E2App_2",
+      "part": 2,
+      "start_line": 1242,
+      "title": "Eodem hoc modo demonstratur, in Mente nullam dari facultatem absolutam intelligendi, cupiendi, amandi, etc. Unde sequitur, has et similes facultates vel prorsus fictitias, vel nihil esse præter entia Metaphysica, sive universalia, quæ ex particularibus formare solemus. Adeo ut intellectus et voluntas ad hanc et illam ideam, vel ad hanc et illam volitionem eodem modo sese habeant, ac lapideitas ad hunc et illum lapidem, vel ut homo ad Petrum et Paulum. Causam autem, cur homines se liberos esse putent, explicuimus in Appendice Partis primæ. Verum antequam ulterius pergam, venit hic notandum, me per voluntatem affirmandi et negandi facultatem, non autem cupiditatem intelligere ; facultatem, inquam, intelligo, qua Mens, quid verum quidve falsum sit, affirmat vel negat, et non cupiditatem, qua Mens res appetit vel aversatur. At postquam demonstravimus, has facultates notiones esse universales, quæ a singularibus, ex quibus easdem formamus, non distinguuntur, inquirendum jam est, an ipsæ volitiones aliquid sint præter ipsas rerum ideas. Inquirendum, inquam, est, an in Mente alia affirmatio et negatio detur præter illam quam idea, quatenus idea est, involvit, qua de re vide sequentem Propositionem, ut et Definitionem 3 hujus, ne cogitatio in picturas incidat. Non enim per ideas imagines, quales in fundo oculi, et, si placet, in medio cerebro formantur, sed Cogitationis conceptus intelligo.",
+      "type": "appendix"
+    },
+    {
+      "end_line": 1251,
+      "id": "E2P20Dem_32",
+      "part": 2,
+      "start_line": 1248,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1255,
+      "id": "E2P20Cor6",
+      "part": 2,
+      "start_line": 1252,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1259,
+      "id": "E2P20Dem_33",
+      "part": 2,
+      "start_line": 1256,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1297,
+      "id": "E2P20Schol_10",
+      "part": 2,
+      "start_line": 1260,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1303,
+      "id": "E3",
+      "part": 3,
+      "start_line": 1298,
+      "title": "Source part page: <https://la.wikisource.org/wiki/Ethica%2FPars_tertia_-_De_origine_et_natura_affectuum>",
+      "type": "part"
+    },
+    {
+      "end_line": 1305,
+      "id": "E3DefSection",
+      "part": 3,
+      "start_line": 1304,
+      "title": "DEFINITIONES",
+      "type": "definition_section"
+    },
+    {
+      "end_line": 1307,
+      "id": "E3D1",
+      "part": 3,
+      "start_line": 1306,
+      "title": "I. Causam adæquatam appello eam, cujus effectus potest clare et distincte per eandem percipi, Inadæquatam autem, seu partialem, illam voco, cujus effectus per ipsam solam intelligi nequit.",
+      "type": "definition"
+    },
+    {
+      "end_line": 1309,
+      "id": "E3D2",
+      "part": 3,
+      "start_line": 1308,
+      "title": "II. Nos tum agere dico, cum aliquid in nobis aut extra nos fit, cujus adæquata sumus causa, hoc est (*per Defin. præced.*) cum ex nostra natura aliquid in nobis aut extra nos sequitur, quod per eandem solam potest clare et distincte intelligi. At contra nos pati dico, cum in nobis aliquid fit, vel ex nostra natura aliquid sequitur, cujus nos non nisi partialis sumus causa.",
+      "type": "definition"
+    },
+    {
+      "end_line": 1313,
+      "id": "E3D3",
+      "part": 3,
+      "start_line": 1310,
+      "title": "III. Per Affectus intelligo Corporis affectiones, quibus ipsius Corporis agendi potentia augetur vel minuitur, juvatur vel coërcetur, et simul harum affectionum ideas.",
+      "type": "definition"
+    },
+    {
+      "end_line": 1315,
+      "id": "E3PostSection",
+      "part": 3,
+      "start_line": 1314,
+      "title": "POSTULATA",
+      "type": "postulate_section"
+    },
+    {
+      "end_line": 1319,
+      "id": "E3Post1",
+      "part": 3,
+      "start_line": 1316,
+      "title": "I. Corpus humanum potest multis affici modis, quibus ipsius agendi potentia augetur vel minuitur, et etiam aliis, qui ejusdem agendi potentiam nec majorem nec minorem reddunt.",
+      "type": "postulate"
+    },
+    {
+      "end_line": 1321,
+      "id": "E3Post2",
+      "part": 3,
+      "start_line": 1320,
+      "title": "II. Corpus humanum multas pati potest mutationes et nihilominus retinere objectorum impressiones seu vestigia (*de quibus vide Post.* 5 *p. II*), et consequenter easdem rerum imagines (*quarum Defin. vide Schol. Prop.* 17 *p. II*).",
+      "type": "postulate"
+    },
+    {
+      "end_line": 1325,
+      "id": "E3P1",
+      "part": 3,
+      "start_line": 1322,
+      "title": "PROPOSITIO I",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1329,
+      "id": "E3P1Dem",
+      "part": 3,
+      "start_line": 1326,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1333,
+      "id": "E3P1Cor",
+      "part": 3,
+      "start_line": 1330,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1337,
+      "id": "E3P2",
+      "part": 3,
+      "start_line": 1334,
+      "title": "PROPOSITIO II",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1341,
+      "id": "E3P2Dem",
+      "part": 3,
+      "start_line": 1338,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1345,
+      "id": "E3P2Schol",
+      "part": 3,
+      "start_line": 1342,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1349,
+      "id": "E3P3",
+      "part": 3,
+      "start_line": 1346,
+      "title": "PROPOSITIO III",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1353,
+      "id": "E3P3Dem",
+      "part": 3,
+      "start_line": 1350,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1357,
+      "id": "E3P3Schol",
+      "part": 3,
+      "start_line": 1354,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1361,
+      "id": "E3P4",
+      "part": 3,
+      "start_line": 1358,
+      "title": "PROPOSITIO IV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1365,
+      "id": "E3P4Dem",
+      "part": 3,
+      "start_line": 1362,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1369,
+      "id": "E3P5",
+      "part": 3,
+      "start_line": 1366,
+      "title": "PROPOSITIO V",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1373,
+      "id": "E3P5Dem",
+      "part": 3,
+      "start_line": 1370,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1377,
+      "id": "E3P6",
+      "part": 3,
+      "start_line": 1374,
+      "title": "PROPOSITIO VI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1381,
+      "id": "E3P6Dem",
+      "part": 3,
+      "start_line": 1378,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1385,
+      "id": "E3P7",
+      "part": 3,
+      "start_line": 1382,
+      "title": "PROPOSITIO VII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1389,
+      "id": "E3P7Dem",
+      "part": 3,
+      "start_line": 1386,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1393,
+      "id": "E3P8",
+      "part": 3,
+      "start_line": 1390,
+      "title": "PROPOSITIO VIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1397,
+      "id": "E3P8Dem",
+      "part": 3,
+      "start_line": 1394,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1401,
+      "id": "E3P9",
+      "part": 3,
+      "start_line": 1398,
+      "title": "PROPOSITIO IX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1405,
+      "id": "E3P9Dem",
+      "part": 3,
+      "start_line": 1402,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1409,
+      "id": "E3P9Schol",
+      "part": 3,
+      "start_line": 1406,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1413,
+      "id": "E3P10",
+      "part": 3,
+      "start_line": 1410,
+      "title": "PROPOSITIO X",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1417,
+      "id": "E3P10Dem",
+      "part": 3,
+      "start_line": 1414,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1421,
+      "id": "E3P11",
+      "part": 3,
+      "start_line": 1418,
+      "title": "PROPOSITIO XI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1425,
+      "id": "E3P11Dem",
+      "part": 3,
+      "start_line": 1422,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1431,
+      "id": "E3P11Schol",
+      "part": 3,
+      "start_line": 1426,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1435,
+      "id": "E3P12",
+      "part": 3,
+      "start_line": 1432,
+      "title": "PROPOSITIO XII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1439,
+      "id": "E3P12Dem",
+      "part": 3,
+      "start_line": 1436,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1443,
+      "id": "E3P13",
+      "part": 3,
+      "start_line": 1440,
+      "title": "PROPOSITIO XIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1447,
+      "id": "E3P13Dem",
+      "part": 3,
+      "start_line": 1444,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1451,
+      "id": "E3P13Cor",
+      "part": 3,
+      "start_line": 1448,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1455,
+      "id": "E3P13Schol",
+      "part": 3,
+      "start_line": 1452,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1459,
+      "id": "E3P14",
+      "part": 3,
+      "start_line": 1456,
+      "title": "PROPOSITIO XIV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1463,
+      "id": "E3P14Dem",
+      "part": 3,
+      "start_line": 1460,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1467,
+      "id": "E3P15",
+      "part": 3,
+      "start_line": 1464,
+      "title": "PROPOSITIO XV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1471,
+      "id": "E3P15Dem",
+      "part": 3,
+      "start_line": 1468,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1475,
+      "id": "E3P15Cor",
+      "part": 3,
+      "start_line": 1472,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1479,
+      "id": "E3P15Dem_2",
+      "part": 3,
+      "start_line": 1476,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1483,
+      "id": "E3P15Schol",
+      "part": 3,
+      "start_line": 1480,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1487,
+      "id": "E3P16",
+      "part": 3,
+      "start_line": 1484,
+      "title": "PROPOSITIO XVI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1491,
+      "id": "E3P16Dem",
+      "part": 3,
+      "start_line": 1488,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1495,
+      "id": "E3P17",
+      "part": 3,
+      "start_line": 1492,
+      "title": "PROPOSITIO XVII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1499,
+      "id": "E3P17Dem",
+      "part": 3,
+      "start_line": 1496,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1503,
+      "id": "E3P17Schol",
+      "part": 3,
+      "start_line": 1500,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1507,
+      "id": "E3P18",
+      "part": 3,
+      "start_line": 1504,
+      "title": "PROPOSITIO XVIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1519,
+      "id": "E3P18Dem",
+      "part": 3,
+      "start_line": 1508,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1523,
+      "id": "E3P19",
+      "part": 3,
+      "start_line": 1520,
+      "title": "PROPOSITIO XIX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1527,
+      "id": "E3P19Dem",
+      "part": 3,
+      "start_line": 1524,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1531,
+      "id": "E3P20",
+      "part": 3,
+      "start_line": 1528,
+      "title": "PROPOSITIO XX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1539,
+      "id": "E3P20Dem",
+      "part": 3,
+      "start_line": 1532,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1547,
+      "id": "E3P20Dem_2",
+      "part": 3,
+      "start_line": 1540,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1551,
+      "id": "E3P20Dem_3",
+      "part": 3,
+      "start_line": 1548,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1553,
+      "id": "E3P20Schol",
+      "part": 3,
+      "start_line": 1552,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1559,
+      "id": "E3P21",
+      "part": 3,
+      "start_line": 1554,
+      "title": "Propositio 21 nobis explicat, quid sit *Commiseratio*, quam definire possumus, quod *sit Tristitia orta ex alterius damno*. Quo autem nomine appellanda sit Lætitia, quæ ex alterius bono oritur, nescio. Porro *Amorem erga illum, qui alteri bene fecit, Favorem*, et contra *Odium erga illum, qui alteri male fecit, Indignationem* appellabimus. Denique notandum, nos non tantum misereri rei, quam amavimus (*ut in Prop.* 21 *ostendimus*) : Sed etiam ejus, quam antea nullo affectu prosecuti sumus, modo eam nobis similem judicemus (et infra ostendam) ; Atque adeo ei etiam favere, qui simili bene fecit, et contra id eum indignari, qui simili damnum intulit.",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1563,
+      "id": "E3P21Dem",
+      "part": 3,
+      "start_line": 1560,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1571,
+      "id": "E3P21Schol",
+      "part": 3,
+      "start_line": 1564,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1573,
+      "id": "E3P21Dem_2",
+      "part": 3,
+      "start_line": 1572,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1575,
+      "id": "E3P22",
+      "part": 3,
+      "start_line": 1574,
+      "title": "Demonstratur eodem modo hæc Propositio, ac Propositio 22 hujus, quam vide.",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1583,
+      "id": "E3P22Schol",
+      "part": 3,
+      "start_line": 1576,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1591,
+      "id": "E3P22Dem",
+      "part": 3,
+      "start_line": 1584,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1595,
+      "id": "E3P22Dem_2",
+      "part": 3,
+      "start_line": 1592,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1603,
+      "id": "E3P22Schol_2",
+      "part": 3,
+      "start_line": 1596,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1607,
+      "id": "E3P22Dem_3",
+      "part": 3,
+      "start_line": 1604,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1615,
+      "id": "E3P22Schol_3",
+      "part": 3,
+      "start_line": 1608,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1617,
+      "id": "E3P22Dem_4",
+      "part": 3,
+      "start_line": 1616,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1623,
+      "id": "E3P22_2",
+      "part": 3,
+      "start_line": 1618,
+      "title": "Hoc eodem modo ex Propositione præcedente demonstratur, ac Propositio 22 hujus ex Propositione 21.",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1631,
+      "id": "E3P22Dem_5",
+      "part": 3,
+      "start_line": 1624,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1635,
+      "id": "E3P22Dem_6",
+      "part": 3,
+      "start_line": 1632,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1643,
+      "id": "E3P22Schol_4",
+      "part": 3,
+      "start_line": 1636,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1651,
+      "id": "E3P22Dem_7",
+      "part": 3,
+      "start_line": 1644,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1655,
+      "id": "E3P22Dem_8",
+      "part": 3,
+      "start_line": 1652,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1663,
+      "id": "E3P22Schol_5",
+      "part": 3,
+      "start_line": 1656,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1667,
+      "id": "E3P22Dem_9",
+      "part": 3,
+      "start_line": 1664,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1675,
+      "id": "E3P22Schol_6",
+      "part": 3,
+      "start_line": 1668,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1679,
+      "id": "E3P22Dem_10",
+      "part": 3,
+      "start_line": 1676,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1687,
+      "id": "E3P22Cor",
+      "part": 3,
+      "start_line": 1680,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1695,
+      "id": "E3P22Schol_7",
+      "part": 3,
+      "start_line": 1688,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1699,
+      "id": "E3P22Dem_11",
+      "part": 3,
+      "start_line": 1696,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1707,
+      "id": "E3P22Schol_8",
+      "part": 3,
+      "start_line": 1700,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1715,
+      "id": "E3P22Dem_12",
+      "part": 3,
+      "start_line": 1708,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1723,
+      "id": "E3P22Dem_13",
+      "part": 3,
+      "start_line": 1716,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1727,
+      "id": "E3P22Dem_14",
+      "part": 3,
+      "start_line": 1724,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1735,
+      "id": "E3P22Schol_9",
+      "part": 3,
+      "start_line": 1728,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1739,
+      "id": "E3P22Dem_15",
+      "part": 3,
+      "start_line": 1736,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1743,
+      "id": "E3P22Cor2",
+      "part": 3,
+      "start_line": 1740,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1747,
+      "id": "E3P22Dem_16",
+      "part": 3,
+      "start_line": 1744,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1755,
+      "id": "E3P22Schol_10",
+      "part": 3,
+      "start_line": 1748,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1763,
+      "id": "E3P22Dem_17",
+      "part": 3,
+      "start_line": 1756,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1771,
+      "id": "E3P22Dem_18",
+      "part": 3,
+      "start_line": 1764,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1775,
+      "id": "E3P22Dem_19",
+      "part": 3,
+      "start_line": 1772,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1783,
+      "id": "E3P22Schol_11",
+      "part": 3,
+      "start_line": 1776,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1787,
+      "id": "E3P22Dem_20",
+      "part": 3,
+      "start_line": 1784,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1799,
+      "id": "E3P22Schol_12",
+      "part": 3,
+      "start_line": 1788,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1803,
+      "id": "E3P22Dem_21",
+      "part": 3,
+      "start_line": 1800,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1811,
+      "id": "E3P22Schol_13",
+      "part": 3,
+      "start_line": 1804,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1815,
+      "id": "E3P22Dem_22",
+      "part": 3,
+      "start_line": 1812,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1819,
+      "id": "E3P22Schol_14",
+      "part": 3,
+      "start_line": 1816,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1823,
+      "id": "E3P22Cor3",
+      "part": 3,
+      "start_line": 1820,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1831,
+      "id": "E3P22Schol_15",
+      "part": 3,
+      "start_line": 1824,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1839,
+      "id": "E3P22Dem_23",
+      "part": 3,
+      "start_line": 1832,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1847,
+      "id": "E3P22Dem_24",
+      "part": 3,
+      "start_line": 1840,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1851,
+      "id": "E3P22Dem_25",
+      "part": 3,
+      "start_line": 1848,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1859,
+      "id": "E3P22Schol_16",
+      "part": 3,
+      "start_line": 1852,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1867,
+      "id": "E3P22Dem_26",
+      "part": 3,
+      "start_line": 1860,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1875,
+      "id": "E3P22Dem_27",
+      "part": 3,
+      "start_line": 1868,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1879,
+      "id": "E3P22Dem_28",
+      "part": 3,
+      "start_line": 1876,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1887,
+      "id": "E3P22Schol_17",
+      "part": 3,
+      "start_line": 1880,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1895,
+      "id": "E3P22Dem_29",
+      "part": 3,
+      "start_line": 1888,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1899,
+      "id": "E3P22Dem_30",
+      "part": 3,
+      "start_line": 1896,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1907,
+      "id": "E3P22Schol_18",
+      "part": 3,
+      "start_line": 1900,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1909,
+      "id": "E3P22Dem_31",
+      "part": 3,
+      "start_line": 1908,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1911,
+      "id": "E3P15_2",
+      "part": 3,
+      "start_line": 1910,
+      "title": "Hæc Propositio eadem via demonstratur, qua Propositio 15 hujus quam vide una cum Schol. 2 Propositionis 18 hujus.",
+      "type": "proposition"
+    },
+    {
+      "end_line": 1919,
+      "id": "E3P15Schol_2",
+      "part": 3,
+      "start_line": 1912,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1921,
+      "id": "E3P15Dem_3",
+      "part": 3,
+      "start_line": 1920,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1923,
+      "id": "E3L3",
+      "part": 3,
+      "start_line": 1922,
+      "title": "Corpus humanum (*per Post.* 3 *p. II*) a corporibus externis plurimis modis afficitur. Possunt igitur eodem tempore duo homines diversimode esse affecti ; atque adeo (*per Axiom.* 1, *quod est post Lemma 3, quod vide post Prop.* 13 *p. II*) ab uno eodemque objecto possunt diversimode affici. Deinde (*per idem Postul.*) Corpus humanum potest jam hoc jam alio modo esse affectum ; et consequenter (*per idem Axiom.*) ab uno eodemque objecto diversis temporibus diversimode affici. *Q. E. D.*",
+      "type": "lemma"
+    },
+    {
+      "end_line": 1931,
+      "id": "E3P15Schol_3",
+      "part": 3,
+      "start_line": 1924,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1935,
+      "id": "E3P15Dem_4",
+      "part": 3,
+      "start_line": 1932,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1945,
+      "id": "E3P15Schol_4",
+      "part": 3,
+      "start_line": 1936,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1949,
+      "id": "E3P15Dem_5",
+      "part": 3,
+      "start_line": 1946,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1957,
+      "id": "E3P15Cor_2",
+      "part": 3,
+      "start_line": 1950,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1965,
+      "id": "E3P15Dem_6",
+      "part": 3,
+      "start_line": 1958,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1969,
+      "id": "E3P15Dem_7",
+      "part": 3,
+      "start_line": 1966,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1973,
+      "id": "E3P15Cor2",
+      "part": 3,
+      "start_line": 1970,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1977,
+      "id": "E3P15Schol_5",
+      "part": 3,
+      "start_line": 1974,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1981,
+      "id": "E3P15Cor3",
+      "part": 3,
+      "start_line": 1978,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 1985,
+      "id": "E3P15Dem_8",
+      "part": 3,
+      "start_line": 1982,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 1993,
+      "id": "E3P15Schol_6",
+      "part": 3,
+      "start_line": 1986,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 1997,
+      "id": "E3P15Dem_9",
+      "part": 3,
+      "start_line": 1994,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2005,
+      "id": "E3P15Schol_7",
+      "part": 3,
+      "start_line": 1998,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2011,
+      "id": "E3P15Dem_10",
+      "part": 3,
+      "start_line": 2006,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2019,
+      "id": "E3P15Schol_8",
+      "part": 3,
+      "start_line": 2012,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2027,
+      "id": "E3P15Dem_11",
+      "part": 3,
+      "start_line": 2020,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2031,
+      "id": "E3P15Dem_12",
+      "part": 3,
+      "start_line": 2028,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2071,
+      "id": "E3P15Schol_9",
+      "part": 3,
+      "start_line": 2032,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2383,
+      "id": "E3D5",
+      "part": 3,
+      "start_line": 2072,
+      "title": "Definitiones Venerationis et Dedignationis missas hic facio, quia nulli, quod sciam, affectus ex his nomen trahunt.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2397,
+      "id": "E4",
+      "part": 4,
+      "start_line": 2384,
+      "title": "Source part page: <https://la.wikisource.org/wiki/Ethica%2FPars_quarta_-_De_servitute_humana_seu_de_affectuum_viribus>",
+      "type": "part"
+    },
+    {
+      "end_line": 2401,
+      "id": "E4App",
+      "part": 4,
+      "start_line": 2398,
+      "title": "*Qui rem aliquam facere constituit, eamque perfecit, rem suam perfectam esse, non tantum ipse, sed etiam unusquisque, qui mentem Auctoris illius operis et scopum recte noverit, aut se novisse crediderit, dicet. Ex. gr. si quis aliquod opus (quod suppono nondum esse peractum) viderit, noveritque scopum Auctoris illius operis esse domum ædificare, is domum imperfectam esse dicet, et contra perfectam, simulatque opus ad finem, quem hujus Auctor eidem dare constituerat, perductum viderit. Verum si quis opus aliquod videt, cujus simile nunquam viderat, nec mentem opificis novit, is sane scire non poterit, opusne illud perfectum an imperfectum sit. Atque hæc videtur prima fuisse horum vocabulorum significatio. Sed postquam homines ideas* *universales formare, et domuum, ædificiorum, turrium, etc. exemplaria excogitare, et alia rerum exemplaria aliis præferre inceperunt, factum est, ut unusquisque id perfectum vocaret, quod cum universali idea, quam ejusmodi rei formaverat, videret convenire, et id contra imperfectum, quod cum concepto suo exemplari minus convenire videret, quanquam ex opificis sententia consummatum plane esset. Nec alia videtur esse ratio, cur res naturales etiam, quæ scilicet humana manu non sunt factæ, perfectas aut imperfectas vulgo appellent ; solent namque homines tam rerum naturalium quam artificialium ideas formare universales, quas rerum veluti exemplaria habent, et quas Naturam (quam nihil nisi alicujus finis causa agere existimant) intueri credunt sibique exemplaria proponere. Cum itaque aliquid in Natura fieri vident, quod cum concepto exemplari, quod rei ejusmodi habent, minus convenit, ipsam Naturam tum defecisse vel peccavisse* *remque illam imperfectam reliquisse credunt. Videmus itaque homines consuevisse, res naturales perfectas aut imperfectas vocare, magis ex præjudicio quam ex earum vera cognitione. Ostendimus enim in Primæ Partis Appendice, Naturam propter finem non agere ; æternum namque illud et infinitum Ens, quod Deum seu. Naturam appellamus eadem, qua existit, necessitate agit. Ex qua enim naturæ necessitate existit, ex eadem ipsum ageire ostendimus* (Prop. 16 p. I). *Ratio igitur, seu causa, cur Deus seu Natura agit, et cur existit, una eademque est. Ut ergo nullius finis causa existit, nullius etiam finis causa agit ; sed ut existendi, sic et agendi principium, vel finem, habet nullum. Causa autem, quæ finalis dicitur, nihil est præter ipsum humanum appetitum, quatenus is alicujus rei veluti principium seu causa primaria consideratur. Ex. gr. cum dicimus habitationem causam fuisse finalem hujus aut illius domus, nihil tum sane intelligimus aliud, quam quod homo ex eo, quod vitæ domesticæ commoda imaginatus est, * *appetitum habuit ædificandi domum. Quare habitatio, quatenus ut finalis causa consideratur, nihil est præter hunc singularem appetitum, qui revera causa est efficiens ; quæ ut prima consideratur, quia homines suorum appetituum causas communiter ignorant. Sunt namque, ut jam sæpe dixi, suarum quidem actionum ut appetituum conscii, sed ignari causarum, a quibus ad aliquid appetendum determinantur. Quod præterea vulgo ajunt, Naturam aliquando deficere vel peccare, resque interea imperfectas producere, inter commenta numero, de quibus in Appendice Partis Primæ egi. Perfectio igitur et imperfectio revera modi solummodo cogitandi sunt, nempe notiones, quas fingere solemus ex eo, quod ejusdem speciei aut generis individua ad invicem comparamus : et hac de causa supra* (Defin. 6 p. II) *dixi, me per realitatem et perfectionem idem intelligere. Solemus enim omnia Naturæ individua ad unum genus, quod generalissimum appellatur, revocare ; nempe ad notionem* *Entis, quæ ad omnia absolute Naturæ individua pertinet. Quatenus itaque Naturæ individua ad hoc genus revocamus, et ad invicem comparamus, et alia plus entitatis seu realitatis quam alia habere comperimus, eatenus alia aliis perfectiora esse dicimus ; et quatenus iisdem aliquid tribuimus, quod negationem involvit, ut terminus, finis, impotentia, etc., eatenus ipsa imperfecta appellamus, quia nostram Mentem non æque afficiunt ac illa, quæ perfecta vocamus, et non quod ipsis aliquid, quod suum sit, deficiat, vel quod Natura peccaverit. Nihil enim naturæ alicujus rei competit, nisi id, quod ex necessitate naturæ causæ efficientis sequitur, et quicquid ex necessitate naturæ causæ efficientis sequitur, id necessario fit.*",
+      "type": "appendix"
+    },
+    {
+      "end_line": 2403,
+      "id": "E4DefSection",
+      "part": 4,
+      "start_line": 2402,
+      "title": "DEFINITIONES",
+      "type": "definition_section"
+    },
+    {
+      "end_line": 2405,
+      "id": "E4D1",
+      "part": 4,
+      "start_line": 2404,
+      "title": "I. Per bonum id intelligam, quod certo scimus nobis esse utile.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2409,
+      "id": "E4D2",
+      "part": 4,
+      "start_line": 2406,
+      "title": "II. Per malum autem id, quod certo scimus impedire, quo minus boni alicujus simus compotes.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2411,
+      "id": "E4D3",
+      "part": 4,
+      "start_line": 2410,
+      "title": "III. Res singulares voco contingentes, quatenus dum ad earum solam essentiam attendimus, nihil invenimus, quod earum existentiam necessario ponat, vel quod ipsam necessario secludat.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2415,
+      "id": "E4D4",
+      "part": 4,
+      "start_line": 2412,
+      "title": "IV. Easdem res singulares voco possibiles, quatenus, dum ad causas, ex quibus produci debent, attendimus, nescimus, an ipsæ determinatæ sint ad easdem producendum.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2417,
+      "id": "E4D5",
+      "part": 4,
+      "start_line": 2416,
+      "title": "V. Per contrarios affectus in seqq. intelligam eos, qui hominem diversum trahunt, quamvis ejusdem sint generis, ut luxuries et avaritia, quæ amoris sunt species ; nec natura, sed per accidens sunt contrarii.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2421,
+      "id": "E4D6",
+      "part": 4,
+      "start_line": 2418,
+      "title": "VI. Quid per affectum erga rem futuram, præsentem, et præteritam, intelligam, explicui in Schol. 1 et 2 Prop. 18 p. III, quod vide.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2423,
+      "id": "E4D7",
+      "part": 4,
+      "start_line": 2422,
+      "title": "VII. Per finem, cujus causa aliquid facimus, appetitum intelligo.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2429,
+      "id": "E4D8",
+      "part": 4,
+      "start_line": 2424,
+      "title": "VIII. Per virtutem et potentiam idem intelligo ; hoc est (per Prop. 7 p. III), virtus, quatenus ad hominem refertur, est ipsa hominis essentia seu natura, quatenus potestatem habet quædam efficiendi, quæ per solas ipsius naturæ leges possunt intelligi.",
+      "type": "definition"
+    },
+    {
+      "end_line": 2433,
+      "id": "E4P1",
+      "part": 4,
+      "start_line": 2430,
+      "title": "PROPOSITIO I",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2437,
+      "id": "E4P1Dem",
+      "part": 4,
+      "start_line": 2434,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2441,
+      "id": "E4P1Schol",
+      "part": 4,
+      "start_line": 2438,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2445,
+      "id": "E4P2",
+      "part": 4,
+      "start_line": 2442,
+      "title": "PROPOSITIO II",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2449,
+      "id": "E4P2Dem",
+      "part": 4,
+      "start_line": 2446,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2453,
+      "id": "E4P3",
+      "part": 4,
+      "start_line": 2450,
+      "title": "PROPOSITIO III",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2457,
+      "id": "E4P3Dem",
+      "part": 4,
+      "start_line": 2454,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2461,
+      "id": "E4P4",
+      "part": 4,
+      "start_line": 2458,
+      "title": "PROPOSITIO IV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2465,
+      "id": "E4P4Dem",
+      "part": 4,
+      "start_line": 2462,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2469,
+      "id": "E4P4Cor",
+      "part": 4,
+      "start_line": 2466,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2473,
+      "id": "E4P5",
+      "part": 4,
+      "start_line": 2470,
+      "title": "PROPOSITIO V",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2477,
+      "id": "E4P5Dem",
+      "part": 4,
+      "start_line": 2474,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2481,
+      "id": "E4P6",
+      "part": 4,
+      "start_line": 2478,
+      "title": "PROPOSITIO VI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2485,
+      "id": "E4P6Dem",
+      "part": 4,
+      "start_line": 2482,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2489,
+      "id": "E4P7",
+      "part": 4,
+      "start_line": 2486,
+      "title": "PROPOSITIO VII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2493,
+      "id": "E4P7Dem",
+      "part": 4,
+      "start_line": 2490,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2497,
+      "id": "E4P7Cor",
+      "part": 4,
+      "start_line": 2494,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2501,
+      "id": "E4P8",
+      "part": 4,
+      "start_line": 2498,
+      "title": "PROPOSITIO VIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2505,
+      "id": "E4P8Dem",
+      "part": 4,
+      "start_line": 2502,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2509,
+      "id": "E4P9",
+      "part": 4,
+      "start_line": 2506,
+      "title": "PROPOSITIO IX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2513,
+      "id": "E4P9Dem",
+      "part": 4,
+      "start_line": 2510,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2517,
+      "id": "E4P9Schol",
+      "part": 4,
+      "start_line": 2514,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2521,
+      "id": "E4P9Cor",
+      "part": 4,
+      "start_line": 2518,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2525,
+      "id": "E4P10",
+      "part": 4,
+      "start_line": 2522,
+      "title": "PROPOSITIO X",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2529,
+      "id": "E4P10Dem",
+      "part": 4,
+      "start_line": 2526,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2533,
+      "id": "E4P10Schol",
+      "part": 4,
+      "start_line": 2530,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2537,
+      "id": "E4P11",
+      "part": 4,
+      "start_line": 2534,
+      "title": "PROPOSITIO XI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2541,
+      "id": "E4P11Dem",
+      "part": 4,
+      "start_line": 2538,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2545,
+      "id": "E4P12",
+      "part": 4,
+      "start_line": 2542,
+      "title": "PROPOSITIO XII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2549,
+      "id": "E4P12Dem",
+      "part": 4,
+      "start_line": 2546,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2553,
+      "id": "E4P12Cor",
+      "part": 4,
+      "start_line": 2550,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2557,
+      "id": "E4P12Dem_2",
+      "part": 4,
+      "start_line": 2554,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2561,
+      "id": "E4P13",
+      "part": 4,
+      "start_line": 2558,
+      "title": "PROPOSITIO XIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2565,
+      "id": "E4P13Dem",
+      "part": 4,
+      "start_line": 2562,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2569,
+      "id": "E4P14",
+      "part": 4,
+      "start_line": 2566,
+      "title": "PROPOSITIO XIV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2573,
+      "id": "E4P14Dem",
+      "part": 4,
+      "start_line": 2570,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2577,
+      "id": "E4P15",
+      "part": 4,
+      "start_line": 2574,
+      "title": "PROPOSITIO XV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2581,
+      "id": "E4P15Dem",
+      "part": 4,
+      "start_line": 2578,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2585,
+      "id": "E4P16",
+      "part": 4,
+      "start_line": 2582,
+      "title": "PROPOSITIO XVI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2589,
+      "id": "E4P16Dem",
+      "part": 4,
+      "start_line": 2586,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2593,
+      "id": "E4P17",
+      "part": 4,
+      "start_line": 2590,
+      "title": "PROPOSITIO XVII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2597,
+      "id": "E4P17Dem",
+      "part": 4,
+      "start_line": 2594,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2601,
+      "id": "E4P17Schol",
+      "part": 4,
+      "start_line": 2598,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2605,
+      "id": "E4P18",
+      "part": 4,
+      "start_line": 2602,
+      "title": "PROPOSITIO XVIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2609,
+      "id": "E4P18Dem",
+      "part": 4,
+      "start_line": 2606,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2615,
+      "id": "E4P18Schol",
+      "part": 4,
+      "start_line": 2610,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2619,
+      "id": "E4P19",
+      "part": 4,
+      "start_line": 2616,
+      "title": "PROPOSITIO XIX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2623,
+      "id": "E4P19Dem",
+      "part": 4,
+      "start_line": 2620,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2627,
+      "id": "E4P20",
+      "part": 4,
+      "start_line": 2624,
+      "title": "PROPOSITIO XX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2631,
+      "id": "E4P20Dem",
+      "part": 4,
+      "start_line": 2628,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2639,
+      "id": "E4P20Schol",
+      "part": 4,
+      "start_line": 2632,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2647,
+      "id": "E4P20Dem_2",
+      "part": 4,
+      "start_line": 2640,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2651,
+      "id": "E4P20Dem_3",
+      "part": 4,
+      "start_line": 2648,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2659,
+      "id": "E4P20Cor",
+      "part": 4,
+      "start_line": 2652,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2667,
+      "id": "E4P20Dem_4",
+      "part": 4,
+      "start_line": 2660,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2675,
+      "id": "E4P20Dem_5",
+      "part": 4,
+      "start_line": 2668,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2683,
+      "id": "E4P20Dem_6",
+      "part": 4,
+      "start_line": 2676,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2691,
+      "id": "E4P20Dem_7",
+      "part": 4,
+      "start_line": 2684,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2699,
+      "id": "E4P20Dem_8",
+      "part": 4,
+      "start_line": 2692,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2707,
+      "id": "E4P20Dem_9",
+      "part": 4,
+      "start_line": 2700,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2715,
+      "id": "E4P20Dem_10",
+      "part": 4,
+      "start_line": 2708,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2723,
+      "id": "E4P20Dem_11",
+      "part": 4,
+      "start_line": 2716,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2727,
+      "id": "E4P20Dem_12",
+      "part": 4,
+      "start_line": 2724,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2735,
+      "id": "E4P20Cor2",
+      "part": 4,
+      "start_line": 2728,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2739,
+      "id": "E4P20Dem_13",
+      "part": 4,
+      "start_line": 2736,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2747,
+      "id": "E4P20Schol_2",
+      "part": 4,
+      "start_line": 2740,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2755,
+      "id": "E4P20Dem_14",
+      "part": 4,
+      "start_line": 2748,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2759,
+      "id": "E4P20Dem_15",
+      "part": 4,
+      "start_line": 2756,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2761,
+      "id": "E4P20Schol_3",
+      "part": 4,
+      "start_line": 2760,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2767,
+      "id": "E4P30",
+      "part": 4,
+      "start_line": 2762,
+      "title": "Dixi, quod Paulus odio Petrum habeat, quia imaginatur, id eundem possidere, quod ipse Paulus etiam amat ; unde prima fronte videtur sequi, quod hi duo ex eo, quod idem amant, et consequenter ex eo, quod natura conveniunt, sibi invicem damno sint ; atque adeo, si hoc verum est, falsæ essent Propositio 30 et 31 hujus Partis. Sed si rem æqua lance examinare velimus, hæc omnia convenire omnino videbimus. Nam hi duo non sunt invicem molesti, quatenus natura conveniunt, hoc est quatenus uterque idem amat, sed quatenus ab invicem discrepant. Nam quatenus uterque idem amat, eo ipso utriusque amor fovetur (*per Prop.* 31 *p. III*), hoc est (*per Defin.* 6 *Affect.*), eo ipso utriusque Lætitia fovetur. Quare longe abest, ut quatenus idem amant, et natura conveniunt, invicem molesti sint. Sed hujus rei causa, ut dixi, nulla alia est, quam quia natura discrepare supponuntur. Supponimus namque, Petrum ideam habere rei amatæ jam possessæ, et Paulum contra ideam rei amatæ amissæ. Unde fit ut hic Tristitia, et ille contra Lætitia afficiatur, atque eatenus invicem contrarii sint. Et ad hunc modum ostendere facile possumus, reliquas odii causas ab hoc solo pendere, quod homines natura discrepant, et non ab eo, in quo conveniunt.",
+      "type": "proposition"
+    },
+    {
+      "end_line": 2779,
+      "id": "E4P30Dem",
+      "part": 4,
+      "start_line": 2768,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2787,
+      "id": "E4P30Schol",
+      "part": 4,
+      "start_line": 2780,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2791,
+      "id": "E4P30Dem_2",
+      "part": 4,
+      "start_line": 2788,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2799,
+      "id": "E4P30Schol_2",
+      "part": 4,
+      "start_line": 2792,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2813,
+      "id": "E4P30Dem_3",
+      "part": 4,
+      "start_line": 2800,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2821,
+      "id": "E4App_2",
+      "part": 4,
+      "start_line": 2814,
+      "title": "In appendice Partis primæ explicare promisi, quid laus et vituperium, quid meritum et peccatum, quid justum et injustum sit. Laudem et vituperium quod attinet, in Scholio Propositionis 29 partis III explicui ; de reliquis autem hic jam erit dicendi locus. Sed prius pauca de *statu hominis naturali et civili* dicenda sunt.",
+      "type": "appendix"
+    },
+    {
+      "end_line": 2829,
+      "id": "E4P30Dem_4",
+      "part": 4,
+      "start_line": 2822,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2833,
+      "id": "E4P30Dem_5",
+      "part": 4,
+      "start_line": 2830,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2841,
+      "id": "E4P30Schol_3",
+      "part": 4,
+      "start_line": 2834,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2849,
+      "id": "E4P30Dem_6",
+      "part": 4,
+      "start_line": 2842,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2857,
+      "id": "E4P30Dem_7",
+      "part": 4,
+      "start_line": 2850,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2865,
+      "id": "E4P30Dem_8",
+      "part": 4,
+      "start_line": 2858,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2873,
+      "id": "E4P30Dem_9",
+      "part": 4,
+      "start_line": 2866,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2877,
+      "id": "E4P30Dem_10",
+      "part": 4,
+      "start_line": 2874,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2885,
+      "id": "E4P30Schol_4",
+      "part": 4,
+      "start_line": 2878,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2889,
+      "id": "E4P30Dem_11",
+      "part": 4,
+      "start_line": 2886,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2901,
+      "id": "E4P30Schol_5",
+      "part": 4,
+      "start_line": 2890,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2909,
+      "id": "E4P30Schol_6",
+      "part": 4,
+      "start_line": 2902,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2913,
+      "id": "E4P30Dem_12",
+      "part": 4,
+      "start_line": 2910,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2921,
+      "id": "E4P30Schol_7",
+      "part": 4,
+      "start_line": 2914,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2925,
+      "id": "E4P30Dem_13",
+      "part": 4,
+      "start_line": 2922,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2933,
+      "id": "E4P30Schol_8",
+      "part": 4,
+      "start_line": 2926,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2941,
+      "id": "E4P30Dem_14",
+      "part": 4,
+      "start_line": 2934,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2949,
+      "id": "E4P30Dem_15",
+      "part": 4,
+      "start_line": 2942,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2953,
+      "id": "E4P30Dem_16",
+      "part": 4,
+      "start_line": 2950,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2957,
+      "id": "E4P30Cor",
+      "part": 4,
+      "start_line": 2954,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 2965,
+      "id": "E4P30Schol_9",
+      "part": 4,
+      "start_line": 2958,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2973,
+      "id": "E4P30Dem_17",
+      "part": 4,
+      "start_line": 2966,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2981,
+      "id": "E4P30Schol_10",
+      "part": 4,
+      "start_line": 2974,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 2985,
+      "id": "E4P30Dem_18",
+      "part": 4,
+      "start_line": 2982,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 2993,
+      "id": "E4P30Schol_11",
+      "part": 4,
+      "start_line": 2986,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3001,
+      "id": "E4P30Dem_19",
+      "part": 4,
+      "start_line": 2994,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3005,
+      "id": "E4P30Dem_20",
+      "part": 4,
+      "start_line": 3002,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3013,
+      "id": "E4P30Schol_12",
+      "part": 4,
+      "start_line": 3006,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3021,
+      "id": "E4P30Dem_21",
+      "part": 4,
+      "start_line": 3014,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3025,
+      "id": "E4P30Dem_22",
+      "part": 4,
+      "start_line": 3022,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3029,
+      "id": "E4P30Cor2",
+      "part": 4,
+      "start_line": 3026,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3037,
+      "id": "E4P30Schol_13",
+      "part": 4,
+      "start_line": 3030,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3041,
+      "id": "E4P30Dem_23",
+      "part": 4,
+      "start_line": 3038,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3051,
+      "id": "E4P30Schol_14",
+      "part": 4,
+      "start_line": 3042,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3055,
+      "id": "E4P30Dem_24",
+      "part": 4,
+      "start_line": 3052,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3065,
+      "id": "E4P30Schol_15",
+      "part": 4,
+      "start_line": 3056,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3073,
+      "id": "E4P30Dem_25",
+      "part": 4,
+      "start_line": 3066,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3081,
+      "id": "E4P30Schol_16",
+      "part": 4,
+      "start_line": 3074,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3085,
+      "id": "E4P30Dem_26",
+      "part": 4,
+      "start_line": 3082,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3093,
+      "id": "E4P30Schol_17",
+      "part": 4,
+      "start_line": 3086,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3101,
+      "id": "E4P30Dem_27",
+      "part": 4,
+      "start_line": 3094,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3105,
+      "id": "E4P30Dem_28",
+      "part": 4,
+      "start_line": 3102,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3113,
+      "id": "E4P30Schol_18",
+      "part": 4,
+      "start_line": 3106,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3117,
+      "id": "E4P30Dem_29",
+      "part": 4,
+      "start_line": 3114,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3121,
+      "id": "E4P30Schol_19",
+      "part": 4,
+      "start_line": 3118,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3125,
+      "id": "E4P30Cor3",
+      "part": 4,
+      "start_line": 3122,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3129,
+      "id": "E4P30Dem_30",
+      "part": 4,
+      "start_line": 3126,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3137,
+      "id": "E4P30Schol_20",
+      "part": 4,
+      "start_line": 3130,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3141,
+      "id": "E4P30Dem_31",
+      "part": 4,
+      "start_line": 3138,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3149,
+      "id": "E4P30Cor4",
+      "part": 4,
+      "start_line": 3142,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3153,
+      "id": "E4P30Dem_32",
+      "part": 4,
+      "start_line": 3150,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3161,
+      "id": "E4P30Cor5",
+      "part": 4,
+      "start_line": 3154,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3165,
+      "id": "E4P30Dem_33",
+      "part": 4,
+      "start_line": 3162,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3169,
+      "id": "E4P30Cor6",
+      "part": 4,
+      "start_line": 3166,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3177,
+      "id": "E4P30Schol_21",
+      "part": 4,
+      "start_line": 3170,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3185,
+      "id": "E4P30Dem_34",
+      "part": 4,
+      "start_line": 3178,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3189,
+      "id": "E4P30Dem_35",
+      "part": 4,
+      "start_line": 3186,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3197,
+      "id": "E4P30Schol_22",
+      "part": 4,
+      "start_line": 3190,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3201,
+      "id": "E4P30Dem_36",
+      "part": 4,
+      "start_line": 3198,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3205,
+      "id": "E4P30Cor7",
+      "part": 4,
+      "start_line": 3202,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3213,
+      "id": "E4P30Schol_23",
+      "part": 4,
+      "start_line": 3206,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3217,
+      "id": "E4P30Dem_37",
+      "part": 4,
+      "start_line": 3214,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3225,
+      "id": "E4P30Schol_24",
+      "part": 4,
+      "start_line": 3218,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3229,
+      "id": "E4P30Dem_38",
+      "part": 4,
+      "start_line": 3226,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3237,
+      "id": "E4P30Schol_25",
+      "part": 4,
+      "start_line": 3230,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3241,
+      "id": "E4P30Dem_39",
+      "part": 4,
+      "start_line": 3238,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3249,
+      "id": "E4P30Schol_26",
+      "part": 4,
+      "start_line": 3242,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3253,
+      "id": "E4P30Dem_40",
+      "part": 4,
+      "start_line": 3250,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3257,
+      "id": "E4P30Schol_27",
+      "part": 4,
+      "start_line": 3254,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3439,
+      "id": "E4App_3",
+      "part": 4,
+      "start_line": 3258,
+      "title": "APPENDIX",
+      "type": "appendix"
+    },
+    {
+      "end_line": 3453,
+      "id": "E5",
+      "part": 5,
+      "start_line": 3440,
+      "title": "Source part page: <https://la.wikisource.org/wiki/Ethica%2FPars_quinta_-_De_potentia_intellectus_seu_de_libertate_humana>",
+      "type": "part"
+    },
+    {
+      "end_line": 3455,
+      "id": "E5AxiomSection",
+      "part": 5,
+      "start_line": 3454,
+      "title": "AXIOMATA",
+      "type": "axiom_section"
+    },
+    {
+      "end_line": 3457,
+      "id": "E5A1",
+      "part": 5,
+      "start_line": 3456,
+      "title": "I. Si in eodem subjecto duæ contrariæ actiones excitentur, debebit necessario vel in utraque, vel in una sola mutatio fieri, donec desinant contrariæ esse.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 3461,
+      "id": "E5A2",
+      "part": 5,
+      "start_line": 3458,
+      "title": "II. Effectus potentia definitur potentia ipsius causæ quatenus ejus essentia per ipsius causæ essentiam explicatur vel definitur.",
+      "type": "axiom"
+    },
+    {
+      "end_line": 3465,
+      "id": "E5P1",
+      "part": 5,
+      "start_line": 3462,
+      "title": "PROPOSITIO I",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3469,
+      "id": "E5P1Dem",
+      "part": 5,
+      "start_line": 3466,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3473,
+      "id": "E5P2",
+      "part": 5,
+      "start_line": 3470,
+      "title": "PROPOSITIO II",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3477,
+      "id": "E5P2Dem",
+      "part": 5,
+      "start_line": 3474,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3481,
+      "id": "E5P3",
+      "part": 5,
+      "start_line": 3478,
+      "title": "PROPOSITIO III",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3485,
+      "id": "E5P3Dem",
+      "part": 5,
+      "start_line": 3482,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3489,
+      "id": "E5P3Cor",
+      "part": 5,
+      "start_line": 3486,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3493,
+      "id": "E5P4",
+      "part": 5,
+      "start_line": 3490,
+      "title": "PROPOSITIO IV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3495,
+      "id": "E5P4Dem",
+      "part": 5,
+      "start_line": 3494,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3497,
+      "id": "E5L2",
+      "part": 5,
+      "start_line": 3496,
+      "title": "Quæ omnibus communia sunt, non possunt concipi nisi adæquate (*per Prop.* 38 *p. II*) ; adeoque (*per Prop.* 12 *et Lemma 2, quod habetur post Schol. Prop.* 13 *p. II*) nulla est Corporis affectio, cujus aliquem clarum et distinctum non possumus formare conceptum. *Q. E. D.*",
+      "type": "lemma"
+    },
+    {
+      "end_line": 3501,
+      "id": "E5P4Cor",
+      "part": 5,
+      "start_line": 3498,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3505,
+      "id": "E5P4Schol",
+      "part": 5,
+      "start_line": 3502,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3509,
+      "id": "E5P5",
+      "part": 5,
+      "start_line": 3506,
+      "title": "PROPOSITIO V",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3513,
+      "id": "E5P5Dem",
+      "part": 5,
+      "start_line": 3510,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3517,
+      "id": "E5P6",
+      "part": 5,
+      "start_line": 3514,
+      "title": "PROPOSITIO VI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3521,
+      "id": "E5P6Dem",
+      "part": 5,
+      "start_line": 3518,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3525,
+      "id": "E5P6Schol",
+      "part": 5,
+      "start_line": 3522,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3529,
+      "id": "E5P7",
+      "part": 5,
+      "start_line": 3526,
+      "title": "PROPOSITIO VII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3533,
+      "id": "E5P7Dem",
+      "part": 5,
+      "start_line": 3530,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3537,
+      "id": "E5P8",
+      "part": 5,
+      "start_line": 3534,
+      "title": "PROPOSITIO VIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3541,
+      "id": "E5P8Dem",
+      "part": 5,
+      "start_line": 3538,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3545,
+      "id": "E5P8Schol",
+      "part": 5,
+      "start_line": 3542,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3549,
+      "id": "E5P9",
+      "part": 5,
+      "start_line": 3546,
+      "title": "PROPOSITIO IX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3553,
+      "id": "E5P9Dem",
+      "part": 5,
+      "start_line": 3550,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3557,
+      "id": "E5P10",
+      "part": 5,
+      "start_line": 3554,
+      "title": "PROPOSITIO X",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3561,
+      "id": "E5P10Dem",
+      "part": 5,
+      "start_line": 3558,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3565,
+      "id": "E5P10Schol",
+      "part": 5,
+      "start_line": 3562,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3569,
+      "id": "E5P11",
+      "part": 5,
+      "start_line": 3566,
+      "title": "PROPOSITIO XI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3573,
+      "id": "E5P11Dem",
+      "part": 5,
+      "start_line": 3570,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3577,
+      "id": "E5P12",
+      "part": 5,
+      "start_line": 3574,
+      "title": "PROPOSITIO XII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3581,
+      "id": "E5P12Dem",
+      "part": 5,
+      "start_line": 3578,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3585,
+      "id": "E5P13",
+      "part": 5,
+      "start_line": 3582,
+      "title": "PROPOSITIO XIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3589,
+      "id": "E5P13Dem",
+      "part": 5,
+      "start_line": 3586,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3593,
+      "id": "E5P14",
+      "part": 5,
+      "start_line": 3590,
+      "title": "PROPOSITIO XIV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3597,
+      "id": "E5P14Dem",
+      "part": 5,
+      "start_line": 3594,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3601,
+      "id": "E5P15",
+      "part": 5,
+      "start_line": 3598,
+      "title": "PROPOSITIO XV",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3605,
+      "id": "E5P15Dem",
+      "part": 5,
+      "start_line": 3602,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3609,
+      "id": "E5P16",
+      "part": 5,
+      "start_line": 3606,
+      "title": "PROPOSITIO XVI",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3613,
+      "id": "E5P16Dem",
+      "part": 5,
+      "start_line": 3610,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3617,
+      "id": "E5P17",
+      "part": 5,
+      "start_line": 3614,
+      "title": "PROPOSITIO XVII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3621,
+      "id": "E5P17Dem",
+      "part": 5,
+      "start_line": 3618,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3625,
+      "id": "E5P17Cor",
+      "part": 5,
+      "start_line": 3622,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3629,
+      "id": "E5P18",
+      "part": 5,
+      "start_line": 3626,
+      "title": "PROPOSITIO XVIII",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3633,
+      "id": "E5P18Dem",
+      "part": 5,
+      "start_line": 3630,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3637,
+      "id": "E5P18Cor",
+      "part": 5,
+      "start_line": 3634,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3641,
+      "id": "E5P18Schol",
+      "part": 5,
+      "start_line": 3638,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3645,
+      "id": "E5P19",
+      "part": 5,
+      "start_line": 3642,
+      "title": "PROPOSITIO XIX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3649,
+      "id": "E5P19Dem",
+      "part": 5,
+      "start_line": 3646,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3653,
+      "id": "E5P20",
+      "part": 5,
+      "start_line": 3650,
+      "title": "PROPOSITIO XX",
+      "type": "proposition"
+    },
+    {
+      "end_line": 3657,
+      "id": "E5P20Dem",
+      "part": 5,
+      "start_line": 3654,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3667,
+      "id": "E5P20Schol",
+      "part": 5,
+      "start_line": 3658,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3675,
+      "id": "E5P20Dem_2",
+      "part": 5,
+      "start_line": 3668,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3683,
+      "id": "E5P20Dem_3",
+      "part": 5,
+      "start_line": 3676,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3687,
+      "id": "E5P20Dem_4",
+      "part": 5,
+      "start_line": 3684,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3695,
+      "id": "E5P20Schol_2",
+      "part": 5,
+      "start_line": 3688,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3703,
+      "id": "E5P20Dem_5",
+      "part": 5,
+      "start_line": 3696,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3711,
+      "id": "E5P20Dem_6",
+      "part": 5,
+      "start_line": 3704,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3719,
+      "id": "E5P20Dem_7",
+      "part": 5,
+      "start_line": 3712,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3727,
+      "id": "E5P20Dem_8",
+      "part": 5,
+      "start_line": 3720,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3735,
+      "id": "E5P20Dem_9",
+      "part": 5,
+      "start_line": 3728,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3739,
+      "id": "E5P20Dem_10",
+      "part": 5,
+      "start_line": 3736,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3747,
+      "id": "E5P20Schol_3",
+      "part": 5,
+      "start_line": 3740,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3755,
+      "id": "E5P20Dem_11",
+      "part": 5,
+      "start_line": 3748,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3759,
+      "id": "E5P20Dem_12",
+      "part": 5,
+      "start_line": 3756,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3767,
+      "id": "E5P20Schol_4",
+      "part": 5,
+      "start_line": 3760,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3771,
+      "id": "E5P20Dem_13",
+      "part": 5,
+      "start_line": 3768,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3779,
+      "id": "E5P20Cor",
+      "part": 5,
+      "start_line": 3772,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3783,
+      "id": "E5P20Dem_14",
+      "part": 5,
+      "start_line": 3780,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3791,
+      "id": "E5P20Schol_5",
+      "part": 5,
+      "start_line": 3784,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3795,
+      "id": "E5P20Dem_15",
+      "part": 5,
+      "start_line": 3792,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3799,
+      "id": "E5P20Cor2",
+      "part": 5,
+      "start_line": 3796,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3807,
+      "id": "E5P20Schol_6",
+      "part": 5,
+      "start_line": 3800,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3815,
+      "id": "E5P20Dem_16",
+      "part": 5,
+      "start_line": 3808,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3819,
+      "id": "E5P20Dem_17",
+      "part": 5,
+      "start_line": 3816,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3823,
+      "id": "E5P20Cor3",
+      "part": 5,
+      "start_line": 3820,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3831,
+      "id": "E5P20Schol_7",
+      "part": 5,
+      "start_line": 3824,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3835,
+      "id": "E5P20Dem_18",
+      "part": 5,
+      "start_line": 3832,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3843,
+      "id": "E5P20Schol_8",
+      "part": 5,
+      "start_line": 3836,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3847,
+      "id": "E5P20Dem_19",
+      "part": 5,
+      "start_line": 3844,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3855,
+      "id": "E5P20Schol_9",
+      "part": 5,
+      "start_line": 3848,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3859,
+      "id": "E5P20Dem_20",
+      "part": 5,
+      "start_line": 3856,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3867,
+      "id": "E5P20Schol_10",
+      "part": 5,
+      "start_line": 3860,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3871,
+      "id": "E5P20Dem_21",
+      "part": 5,
+      "start_line": 3868,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3875,
+      "id": "E5P20Cor4",
+      "part": 5,
+      "start_line": 3872,
+      "title": "COROLLARIUM",
+      "type": "corollary"
+    },
+    {
+      "end_line": 3883,
+      "id": "E5P20Schol_11",
+      "part": 5,
+      "start_line": 3876,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3887,
+      "id": "E5P20Dem_22",
+      "part": 5,
+      "start_line": 3884,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3895,
+      "id": "E5P20Schol_12",
+      "part": 5,
+      "start_line": 3888,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    },
+    {
+      "end_line": 3899,
+      "id": "E5P20Dem_23",
+      "part": 5,
+      "start_line": 3896,
+      "title": "DEMONSTRATIO",
+      "type": "demonstration"
+    },
+    {
+      "end_line": 3916,
+      "id": "E5P20Schol_13",
+      "part": 5,
+      "start_line": 3900,
+      "title": "SCHOLIUM",
+      "type": "scholium"
+    }
+  ],
+  "generated_at": "2026-06-10T16:48:40+00:00",
+  "source_markdown": "spinoza_md/latin/ethica.md",
+  "structured_markdown": "spinoza_md/latin/ethica-structured.md"
+}

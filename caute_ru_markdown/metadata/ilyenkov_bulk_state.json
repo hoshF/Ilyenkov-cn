@@ -1,0 +1,973 @@
+{
+  "items": {
+    "dialogi-i-intervyu-klub-filosofov-i-filosofy-v-klube": {
+      "bytes": 51141,
+      "hash": "af4020f76eb3983bb98c0c897658b8bea69c56669254ceb481be0ba3bf0422aa",
+      "output_path": "ilyenkov_md/dialogi-i-intervyu/dialogi-i-intervyu-klub-filosofov-i-filosofy-v-klube.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:43+00:00"
+    },
+    "dialogi-i-intervyu-muzhestvo-mysli": {
+      "bytes": 31434,
+      "hash": "b4a8d8e3935ad8cd260f75183f4d32d2100fd530b49d08fbfd20f0533ea0c70f",
+      "output_path": "ilyenkov_md/dialogi-i-intervyu/dialogi-i-intervyu-muzhestvo-mysli.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:03:17+00:00"
+    },
+    "dialogi-i-intervyu-pravo-na-tvorchestvo": {
+      "bytes": 30478,
+      "hash": "f683770fbb8cd0a2ca12aa6072a9535c672f4eada5efddefb85564aa71a3f22b",
+      "output_path": "ilyenkov_md/dialogi-i-intervyu/dialogi-i-intervyu-pravo-na-tvorchestvo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:47+00:00"
+    },
+    "dialogi-i-intervyu-solo-dlya-aleshi": {
+      "bytes": 17643,
+      "hash": "e6ba04ec9c799c2c17c1e585765d615e9062fee507250758550f3ac63b824364",
+      "output_path": "ilyenkov_md/dialogi-i-intervyu/dialogi-i-intervyu-solo-dlya-aleshi.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:44+00:00"
+    },
+    "dialogi-i-intervyu-za-god-do-sovershennoletiya": {
+      "bytes": 25007,
+      "hash": "c99917ccc99b79ffb715e4bcfa2ae49a9d18188dc3e8728e478d0eafbf00c875",
+      "output_path": "ilyenkov_md/dialogi-i-intervyu/dialogi-i-intervyu-za-god-do-sovershennoletiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:46+00:00"
+    },
+    "dissertatsii-i-avtoreferaty-avtoreferat-doktorskoi-dissertatsii": {
+      "bytes": 88548,
+      "hash": "98711fc52d6d2db9c2a81144d199c6f25bd9ab2577e24aa6ac204cb78055711d",
+      "output_path": "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-avtoreferat-doktorskoi-dissertatsii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:40+00:00"
+    },
+    "dissertatsii-i-avtoreferaty-avtoreferat-kandidatskoi-dissertatsii": {
+      "bytes": 66200,
+      "hash": "f8e32d86a03bfba8c12c813b892d6fd1815371875293e9b07535782735688b29",
+      "output_path": "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-avtoreferat-kandidatskoi-dissertatsii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:27+00:00"
+    },
+    "dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya": {
+      "bytes": 564229,
+      "chapter_count": 8,
+      "chapter_files": [
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch000.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch001.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch002.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch003.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch004.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch005.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch006.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya-ch007.md"
+      ],
+      "hash": "0986666946cf0ff78e081f7f056edf9a70bf2bca5ffa1ed3f34013463ccac04b",
+      "output_path": "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:38+00:00",
+      "work_manifest": "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-k-voprosu-o-prirode-myshleniya/work_manifest.json"
+    },
+    "dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma": {
+      "bytes": 860709,
+      "chapter_count": 10,
+      "chapter_files": [
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch000.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch001.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch002.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch003.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch004.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch005.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch006.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch007.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch008.md",
+        "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma-ch009.md"
+      ],
+      "hash": "d275976a5cca7d610d00d1f72760ddeca37492dcae1edcddd902842a7e6b4a35",
+      "output_path": "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:25+00:00",
+      "work_manifest": "ilyenkov_md/dissertatsii-i-avtoreferaty/dissertatsii-i-avtoreferaty-nekotorye-voprosy-materialisticheskoi-dialektiki-v-rabote-k-ma/work_manifest.json"
+    },
+    "glavy-i-stati-v-knigah-dialektika-esteticheskogo-kak-teoriya-chuvstvennogo-poznaniya": {
+      "bytes": 5618,
+      "hash": "8b54f7776662f3538e6bd7bdd335107ba2a80e4c567f47253c1700c70a366da8",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-dialektika-esteticheskogo-kak-teoriya-chuvstvennogo-poznaniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:26+00:00"
+    },
+    "glavy-i-stati-v-knigah-dialektika-i-germenevtika": {
+      "bytes": 118067,
+      "hash": "693b2db3dc2c583ca126eb7c7a71a7f7dae38ff22efa8e8bedf2904b4b4738cf",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-dialektika-i-germenevtika.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:30+00:00"
+    },
+    "glavy-i-stati-v-knigah-dialektika-i-mirovozzrenie": {
+      "bytes": 60578,
+      "hash": "a112a3272baf7e55562e7e12d28e9f8cee75a4d3304fb60059be21512a81d0f4",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-dialektika-i-mirovozzrenie.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:22+00:00"
+    },
+    "glavy-i-stati-v-knigah-dialektika-i-mirovozzrenie-2": {
+      "bytes": 39309,
+      "hash": "f21529b9ade54eadf6d3bd774275bd8333d6dab40b83b07677240519371275de",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-dialektika-i-mirovozzrenie-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:28+00:00"
+    },
+    "glavy-i-stati-v-knigah-dumat-myslit": {
+      "bytes": 92786,
+      "hash": "be18653a42b0c95703af096fc858306f4ed12f6f493fb1d5f448605cf173bec1",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-dumat-myslit.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:13+00:00"
+    },
+    "glavy-i-stati-v-knigah-gegel-i-problema-predmeta-logiki": {
+      "bytes": 96426,
+      "hash": "8741954573731d5e55a9e3c53e664bd51c93b835467652af842b88af7cddfbfa",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-gegel-i-problema-predmeta-logiki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:15+00:00"
+    },
+    "glavy-i-stati-v-knigah-k-otsenke-gegelevskoi-kontseptsii-otnosheniya-istiny-k-krasote": {
+      "bytes": 28249,
+      "hash": "07be2aac1da609a149e14b4ab97324bd9989188b3ed3103c09966154df38155a",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-k-otsenke-gegelevskoi-kontseptsii-otnosheniya-istiny-k-krasote.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:04+00:00"
+    },
+    "glavy-i-stati-v-knigah-leninskaya-ideya-sovpadeniya-logiki-teorii-poznaniya-i-dialektiki": {
+      "bytes": 96526,
+      "hash": "7f3531c99c598d0a04b11f92061313b9185559bd484a7d1fb974dfc110f28d34",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-leninskaya-ideya-sovpadeniya-logiki-teorii-poznaniya-i-dialektiki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:20+00:00"
+    },
+    "glavy-i-stati-v-knigah-logicheskoe-i-istoricheskoe": {
+      "bytes": 120167,
+      "hash": "b9eb987e88d3bf12cce39497f12d24d70afdf34666f1ee1c3f70346ed71a2c5c",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-logicheskoe-i-istoricheskoe.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:01+00:00"
+    },
+    "glavy-i-stati-v-knigah-mashina-i-chelovek-kibernetika-i-filosofiya": {
+      "bytes": 73994,
+      "hash": "c8cd7bd23f7b19085284dca00fc2d377204ea14505c6e9af5261c3f445e241c2",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-mashina-i-chelovek-kibernetika-i-filosofiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:06+00:00"
+    },
+    "glavy-i-stati-v-knigah-myshlenie-i-yazyk-u-gegelya-1974": {
+      "bytes": 38499,
+      "hash": "10f3453ea8051a68285f9bc511df10c9be16b48a631761b9fea0bdfa0d457cfa",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-myshlenie-i-yazyk-u-gegelya-1974.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:18+00:00"
+    },
+    "glavy-i-stati-v-knigah-o-materialnosti-soznaniya-i-o-transtsendentalnyh-koshkah": {
+      "bytes": 52065,
+      "hash": "6f33bfc43ba08682d798dc4ae7d773cb0f643705bedd9c2841cf91d549a70311",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-o-materialnosti-soznaniya-i-o-transtsendentalnyh-koshkah.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:25+00:00"
+    },
+    "glavy-i-stati-v-knigah-o-roli-protivorechiya-v-poznanii": {
+      "bytes": 61593,
+      "hash": "f5a8deb24047816a2c22c5c22e8e6ad2ba1985c002a7b8960705d748da0443c9",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-o-roli-protivorechiya-v-poznanii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:03:14+00:00"
+    },
+    "glavy-i-stati-v-knigah-o-vseobschem": {
+      "bytes": 115063,
+      "hash": "b66b2c1bdf71276120d65c3080b05037ae118aade9ab509c5f4861e49af980ce",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-o-vseobschem.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:17+00:00"
+    },
+    "glavy-i-stati-v-knigah-ob-esteticheskoi-prirode-fantazii-2": {
+      "bytes": 76414,
+      "hash": "9fb418ff0664aa6d58322220ec953c39e82b33edf3cc875ddd9849a13e888fd1",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-ob-esteticheskoi-prirode-fantazii-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:08+00:00"
+    },
+    "glavy-i-stati-v-knigah-ponyatie-abstraktnogo-idealnogo-obekta": {
+      "bytes": 56516,
+      "hash": "9f32c444b9e39fa475c8c191c7eecacdb589ee6769aea48ceb58ae5def1dd5a3",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-ponyatie-abstraktnogo-idealnogo-obekta.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:09+00:00"
+    },
+    "glavy-i-stati-v-knigah-problema-abstraktnogo-i-konkretnogo-v-svete-kapitala-marksa": {
+      "bytes": 117267,
+      "hash": "6f611d2b00591d70f5b14fe440ad7cad88a9a1d40050f06a6d9bd6e784a28934",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-problema-abstraktnogo-i-konkretnogo-v-svete-kapitala-marksa.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:11:44+00:00"
+    },
+    "glavy-i-stati-v-knigah-problema-protivorechiya-v-logike": {
+      "bytes": 58941,
+      "hash": "bba9502a8e017ef635fb5584ffdba8443f758aa0ae446a862330b0c0c30d69fc",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-problema-protivorechiya-v-logike.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:23+00:00"
+    },
+    "glavy-i-stati-v-knigah-vopros-o-tozhdestve-myshleniya-i-bytiya-v-domarksistskoi-filosofii": {
+      "bytes": 149352,
+      "hash": "d9d76531646582ca21ecee456b1e7e1de1c0db10d37a6b6d8294df1fa2ab7ee0",
+      "output_path": "ilyenkov_md/glavy-i-stati-v-knigah/glavy-i-stati-v-knigah-vopros-o-tozhdestve-myshleniya-i-bytiya-v-domarksistskoi-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:03+00:00"
+    },
+    "knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2": {
+      "bytes": 1306062,
+      "chapter_count": 20,
+      "chapter_files": [
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch000.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch001.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch002.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch003.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch004.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch005.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch006.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch007.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch008.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch009.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch010.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch011.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch012.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch013.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch014.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch015.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch016.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch017.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch018.md",
+        "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2-ch019.md"
+      ],
+      "hash": "11215b25a14ed55437d594e3209ea29cc84b359dcff30d7785b86c7bf355e135",
+      "output_path": "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:22:06+00:00",
+      "work_manifest": "ilyenkov_md/knigi/knigi-dialekticheskaya-logika-ocherki-istorii-i-teorii-2/work_manifest.json"
+    },
+    "knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii": {
+      "bytes": 1734867,
+      "chapter_count": 42,
+      "chapter_files": [
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch000.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch001.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch002.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch003.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch004.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch005.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch006.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch007.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch008.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch009.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch010.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch011.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch012.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch013.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch014.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch015.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch016.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch017.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch018.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch019.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch020.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch021.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch022.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch023.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch024.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch025.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch026.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch027.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch028.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch029.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch030.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch031.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch032.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch033.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch034.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch035.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch036.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch037.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch038.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch039.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch040.md",
+        "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii-ch041.md"
+      ],
+      "hash": "cb202504ea9f04dd25d17f4a0d17e67fe1b0a23a7d7db8a718e8f3fdb0fcaa96",
+      "output_path": "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:06:45+00:00",
+      "work_manifest": "ilyenkov_md/knigi/knigi-dialektika-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-myshlenii/work_manifest.json"
+    },
+    "knigi-filosofiya-i-kultura": {
+      "bytes": 2615464,
+      "chapter_count": 32,
+      "chapter_files": [
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch000.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch001.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch002.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch003.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch004.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch005.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch006.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch007.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch008.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch009.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch010.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch011.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch012.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch013.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch014.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch015.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch016.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch017.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch018.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch019.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch020.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch021.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch022.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch023.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch024.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch025.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch026.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch027.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch028.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch029.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch030.md",
+        "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/knigi-filosofiya-i-kultura-ch031.md"
+      ],
+      "hash": "b57124bc11b78ae9f7473be46508495876ad28ed4d2a1f0de000f776a038bd4d",
+      "output_path": "ilyenkov_md/knigi/knigi-filosofiya-i-kultura.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:05:39+00:00",
+      "work_manifest": "ilyenkov_md/knigi/knigi-filosofiya-i-kultura/work_manifest.json"
+    },
+    "knigi-iskusstvo-i-kommunisticheskii-ideal": {
+      "bytes": 1366427,
+      "chapter_count": 13,
+      "chapter_files": [
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch000.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch001.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch002.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch003.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch004.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch005.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch006.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch007.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch008.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch009.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch010.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch011.md",
+        "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/knigi-iskusstvo-i-kommunisticheskii-ideal-ch012.md"
+      ],
+      "hash": "20a5eb18c7435fe11483a0dc7423ea305accb19d3384d6a858b33d134a4eabf2",
+      "output_path": "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:12:38+00:00",
+      "work_manifest": "ilyenkov_md/knigi/knigi-iskusstvo-i-kommunisticheskii-ideal/work_manifest.json"
+    },
+    "knigi-leninskaya-dialektika-i-metafizika-pozitivizma": {
+      "bytes": 425231,
+      "hash": "79abc3b963eae0aeb8b97646acc3d9fd1030030b3b91c5d9cc94c2c5b674ad4a",
+      "output_path": "ilyenkov_md/knigi/knigi-leninskaya-dialektika-i-metafizika-pozitivizma.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:02:51+00:00"
+    },
+    "knigi-ob-idolah-i-idealah": {
+      "bytes": 852875,
+      "chapter_count": 12,
+      "chapter_files": [
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch000.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch001.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch002.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch003.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch004.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch005.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch006.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch007.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch008.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch009.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch010.md",
+        "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/knigi-ob-idolah-i-idealah-ch011.md"
+      ],
+      "hash": "a1df51716e0a9c269d48381cf637ba0fa1b12662a58aa3606cdbeebfc77e149e",
+      "output_path": "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:02:33+00:00",
+      "work_manifest": "ilyenkov_md/knigi/knigi-ob-idolah-i-idealah/work_manifest.json"
+    },
+    "knigi-shkola-dolzhna-uchit-myslit": {
+      "bytes": 374404,
+      "hash": "9bdeb1c00ed8d63b195ca0a219add116bd9196971c3ee73551e607bcfbdff7f9",
+      "output_path": "ilyenkov_md/knigi/knigi-shkola-dolzhna-uchit-myslit.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:06:59+00:00"
+    },
+    "knigi-uchites-myslit-smolodu": {
+      "bytes": 234610,
+      "hash": "13ee0b8a52000db114833acbcc7a3efbca72c276d8f68ec963f11d7f3d181697",
+      "output_path": "ilyenkov_md/knigi/knigi-uchites-myslit-smolodu.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:02:40+00:00"
+    },
+    "perevody-g-lukach-ekonomicheskie-vzglyady-gegelya-v-ienskii-period": {
+      "bytes": 99658,
+      "hash": "4b5f29e09164a023768cc1f44e8d3bf81a542e6e9c9e55e03dfd38992e760096",
+      "output_path": "ilyenkov_md/perevody/perevody-g-lukach-ekonomicheskie-vzglyady-gegelya-v-ienskii-period.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:03:21+00:00"
+    },
+    "perevody-g-v-f-gegel-kto-myslit-abstraktno": {
+      "bytes": 24098,
+      "hash": "933924ae8f75f637fd551fefd1bb2fc26bfeec9823c67c6a7f087f51af0b53b1",
+      "output_path": "ilyenkov_md/perevody/perevody-g-v-f-gegel-kto-myslit-abstraktno.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:59+00:00"
+    },
+    "perevody-g-v-f-gegel-kto-myslit-abstraktno-2": {
+      "bytes": 19828,
+      "hash": "e18badc74c1a882784e4391b693fd8e85bac7fc2b188d40d6258575578924504",
+      "output_path": "ilyenkov_md/perevody/perevody-g-v-f-gegel-kto-myslit-abstraktno-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:03+00:00"
+    },
+    "perevody-g-v-f-gegel-kto-myslit-abstraktno-3": {
+      "duplicate_of": "stati-v-zhurnalah-tak-kto-zhe-myslit-abstraktno-neobrazovannyi-chelovek-a-vovse-ne-prosves",
+      "hash": "820fb59ebbc1077cec939526a7f5f0538b3cc99abad02ee2b7c2552a9083e68f",
+      "status": "duplicate",
+      "updated_at": "2026-06-09T00:28:38+00:00"
+    },
+    "perevody-g-v-f-gegel-o-kartochnoi-igre": {
+      "bytes": 3768,
+      "hash": "a1401f4dfa45ddcad0dc8f126ecf53ccf3927e09efac20b23657fe93cfeb2348",
+      "output_path": "ilyenkov_md/perevody/perevody-g-v-f-gegel-o-kartochnoi-igre.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:02+00:00"
+    },
+    "perevody-i-g-fihte-osnovy-estestvennogo-prava-soglasno-printsipam-naukoucheniya": {
+      "bytes": 24422,
+      "hash": "679b233b0d37241674533704428d505b3e9639c62e829b2b993d16758f5bccef",
+      "output_path": "ilyenkov_md/perevody/perevody-i-g-fihte-osnovy-estestvennogo-prava-soglasno-printsipam-naukoucheniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:06+00:00"
+    },
+    "perevody-k-marks-zametki-po-povodu-knigi-dzhemsa-millya": {
+      "bytes": 99994,
+      "hash": "e0421d7e02b1273c69dd06aebd55888254c1882535201afd7606960ab6685d69",
+      "output_path": "ilyenkov_md/perevody/perevody-k-marks-zametki-po-povodu-knigi-dzhemsa-millya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:01+00:00"
+    },
+    "pisma-o-polozhenii-s-filosofiei-pismo-v-tsk-partii": {
+      "bytes": 33801,
+      "hash": "0475e9448ab8a823c95dfaa6fcc2838d7de15b750c5e407c7d8628553f0166af",
+      "output_path": "ilyenkov_md/pisma/pisma-o-polozhenii-s-filosofiei-pismo-v-tsk-partii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:08+00:00"
+    },
+    "pisma-pisma-s-fronta": {
+      "bytes": 18289,
+      "hash": "671af71034db7e71eb8ff987c204edfc0b646663e325860cd6320ca0cf5086d0",
+      "output_path": "ilyenkov_md/pisma/pisma-pisma-s-fronta.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:03:19+00:00"
+    },
+    "pisma-yu-a-zhdanovu": {
+      "bytes": 15003,
+      "hash": "7239ecaa8e1cb94ae819989a3bcf26f34e1db451e0aeb5afed4b16eda514603a",
+      "output_path": "ilyenkov_md/pisma/pisma-yu-a-zhdanovu.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:09+00:00"
+    },
+    "pisma-yu-a-zhdanovu-2": {
+      "bytes": 30188,
+      "hash": "2d6c50a9e658c7fa4a6542a32ae32385ab564164585b36eb0e31dbedaeb9c959",
+      "output_path": "ilyenkov_md/pisma/pisma-yu-a-zhdanovu-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:10:11+00:00"
+    },
+    "retsenzii-dialekticheskaya-logika-v-ekonomicheskom-issledovanii": {
+      "bytes": 28255,
+      "hash": "13d81dbb851193f71d06fad002348be571973fb10329250d9c2217e2135160b2",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-dialekticheskaya-logika-v-ekonomicheskom-issledovanii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:47+00:00"
+    },
+    "retsenzii-issledovanie-dialektiki-i-logiki-poznaniya": {
+      "bytes": 22900,
+      "hash": "1ecc748b36e968dcec78b061605e01414c37e6ff71670f0b59f69f979ea5c6d6",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-issledovanie-dialektiki-i-logiki-poznaniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:48+00:00"
+    },
+    "retsenzii-kniga-o-marksistskoi-estetike": {
+      "bytes": 20855,
+      "hash": "98205430b5415bc5163f0fd61b09aa4007ebbf58f48e87927f6741feb4537b62",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-kniga-o-marksistskoi-estetike.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:54+00:00"
+    },
+    "retsenzii-mir-cheloveka": {
+      "bytes": 25433,
+      "hash": "f954d3e7517fa72b25ce4ef3b22b37c54fe548eebfa86980a77aaf3995e198a5",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-mir-cheloveka.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:52+00:00"
+    },
+    "retsenzii-molodoi-gegel": {
+      "bytes": 37673,
+      "hash": "786341f44eddb32fa06f93028063236f0f536bd5dbd8a0d4c2edb81e3c5b878c",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-molodoi-gegel.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:42+00:00"
+    },
+    "retsenzii-obyknovennoe-chudo": {
+      "bytes": 7766,
+      "hash": "803bdbaaf5ed0b7031afcd2ad55bedafe9951f22beb075aa0d01ebad8ec118e4",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-obyknovennoe-chudo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:56+00:00"
+    },
+    "retsenzii-pervyi-tom-istorii-filosofii": {
+      "bytes": 50699,
+      "hash": "caaefdb59879a7610c5c8f262a0d2b5f67666ee5f74b81f3714b805401cf9169",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-pervyi-tom-istorii-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:43+00:00"
+    },
+    "retsenzii-podlinnaya-populyarnost-soyuznitsa-strogoi-nauchnosti": {
+      "bytes": 32247,
+      "hash": "532c5b6317fde21cb7c984297f3fde64230370337c45c5d1c0d5f9d4229e4d5f",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-podlinnaya-populyarnost-soyuznitsa-strogoi-nauchnosti.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:45+00:00"
+    },
+    "retsenzii-predislovie-k-state-s-averintseva-pohvalnoe-slovo-filologii": {
+      "bytes": 53308,
+      "hash": "86b7367ae073253788961a08a632de5283f80d8687f64002dbc3576d6aeefb83",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-predislovie-k-state-s-averintseva-pohvalnoe-slovo-filologii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:50+00:00"
+    },
+    "retsenzii-vstupitelnoe-slovo-k-knige-p-s-zabotina-preodolenie-zabluzhdeniya-v-nauchnom-poz": {
+      "bytes": 8642,
+      "hash": "099da6067997d385cf3fc6a587e813a89a3d74e7bafffa4e64cce40e1b77b8d4",
+      "output_path": "ilyenkov_md/retsenzii/retsenzii-vstupitelnoe-slovo-k-knige-p-s-zabotina-preodolenie-zabluzhdeniya-v-nauchnom-poz.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:57+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-chto-zhe-takoe-lichnost": {
+      "bytes": 164814,
+      "hash": "d2a27fbe844a2d384eb905d1d1c55f4fe1488ba72dd5e0ff336eda73fb7db8a8",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-chto-zhe-takoe-lichnost.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:07+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-k-dokladu-o-spinoze": {
+      "bytes": 54999,
+      "hash": "c299dee44e82b1d0d30b9818fdfca5bcde8f907b0bd510311082a9edce5b2c97",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-k-dokladu-o-spinoze.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:51+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-k-dokladu-u-n-p-dubinina": {
+      "bytes": 8682,
+      "hash": "2b9bc45ad2a4a23d9ae1be9d0ac7abe5409045fe739550276a54f4b45a12e651",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-k-dokladu-u-n-p-dubinina.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:10+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-k-ponyatiyu-telo-cheloveka-chelovecheskoe-telo": {
+      "bytes": 42965,
+      "hash": "ed3183840f809139c6531d402c5ae485cf319ef517ac4b475a5d98edf8dacc15",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-k-ponyatiyu-telo-cheloveka-chelovecheskoe-telo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:05+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-nauka-logiki": {
+      "bytes": 188969,
+      "hash": "e60115738a478f360cbff9bfe9881c555eaef76f18fea8c152c410ce46a811b5",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-nauka-logiki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:59+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-o-tak-nazyvaemoi-spetsifike-myshleniya-k-voprosu-o-pred": {
+      "bytes": 56706,
+      "hash": "75faba822097dd621bf65f3f77ed72a28cbf53b07f24794f593c0682a6bdca41",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-o-tak-nazyvaemoi-spetsifike-myshleniya-k-voprosu-o-pred.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:03+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-problema-edinstva-bytiya-i-myshleniya-v-antichnoi-filos": {
+      "bytes": 85153,
+      "hash": "9144c149eb5f508b487e129dc54df7c4cf955b64b5e16504a2e880c1fdbb7ea1",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-problema-edinstva-bytiya-i-myshleniya-v-antichnoi-filos.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:57+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-problema-predmetnosti-soznaniya": {
+      "bytes": 71475,
+      "hash": "44c1d902ecb7fc77b004c56e27f31f9af18f63dfc4f1f9126bdc07d51e9c75d8",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-problema-predmetnosti-soznaniya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:49+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-problema-protivorechiya-v-logike": {
+      "bytes": 70899,
+      "hash": "352af857473e92de3ef63a2cdb2819bc82329752950057274aeb4deacd5d22e7",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-problema-protivorechiya-v-logike.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:54+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-psihika-i-mozg": {
+      "bytes": 9637,
+      "hash": "ce40f544ccdf11a5e22c3443fc8b7e4efbc39adb56a7961a22a077d92b3a2eaf",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-psihika-i-mozg.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:56+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-psihologiya": {
+      "bytes": 88627,
+      "hash": "d3af5d1b974e15200071b8b6459bc825bbf870909b265afd94207f7754a86b12",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-psihologiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:12:40+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-spinoza-materialy-k-knige": {
+      "bytes": 207950,
+      "hash": "a36101354be5642ff8b80b44b587f5084e77d644dabe8a634974e05c43cd2967",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-spinoza-materialy-k-knige.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:53+00:00"
+    },
+    "rukopisi-i-stenogrammy-vystuplenii-u-istokov-filosofii": {
+      "bytes": 37819,
+      "hash": "004288f1b6cdef1caca1607ab74dc1e51a7c99f62203cc7168665549f3b429e8",
+      "output_path": "ilyenkov_md/rukopisi-i-stenogrammy-vystuplenii/rukopisi-i-stenogrammy-vystuplenii-u-istokov-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:09:09+00:00"
+    },
+    "stati-v-entsiklopediyah-abstraktsiya": {
+      "bytes": 5447,
+      "hash": "dcc82ffce96bd4bd416c5b97499ec05b2ad063a71b5e18d42466b0f33e2260a6",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-abstraktsiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:15+00:00"
+    },
+    "stati-v-entsiklopediyah-dei-stvitelnost": {
+      "bytes": 39780,
+      "hash": "b627074efc8e05770767ecd60ade5ebccbe68189d1f7cdd6440aff391536e75b",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-dei-stvitelnost.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:21+00:00"
+    },
+    "stati-v-entsiklopediyah-edinichnoe": {
+      "bytes": 18891,
+      "hash": "822198a2376f9288efdf8f11cdb61fdf4b111865a5fddff9d82227fb226b4b4d",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-edinichnoe.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:22+00:00"
+    },
+    "stati-v-entsiklopediyah-edinstvo": {
+      "bytes": 29230,
+      "hash": "896bfb1c85fc3f899711d6119f3933eda0e4ea09b56e9674a406840bcaa6c8cb",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-edinstvo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:24+00:00"
+    },
+    "stati-v-entsiklopediyah-filosofiya": {
+      "bytes": 11423,
+      "hash": "7d622d08506dedf8859a1b3e08d3d061069825e885913ae2cbda1e390bb675fe",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-filosofiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:35+00:00"
+    },
+    "stati-v-entsiklopediyah-gegel": {
+      "bytes": 21799,
+      "hash": "356b8bb26622e0956ad9b5f8c7ba701a6d0fc0f4ffdfce538c534cf7079cafd4",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-gegel.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:38+00:00"
+    },
+    "stati-v-entsiklopediyah-gegel-2": {
+      "bytes": 16976,
+      "hash": "e27f20b3d8e4bf924f5505638e960e418bfcd0a5b45fcc739af7968331b9b14d",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-gegel-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:41+00:00"
+    },
+    "stati-v-entsiklopediyah-ideal-2": {
+      "bytes": 13185,
+      "hash": "d96589849ae7a75b3e945a415406d8e0f31aa746a6202192a4c0ca8bbdc7bda7",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-ideal-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:40+00:00"
+    },
+    "stati-v-entsiklopediyah-idealnoe": {
+      "bytes": 113283,
+      "hash": "61de233a38238d22dca99c5dfd5b432dc2fad1365d253eb73c4d52995edf5ca2",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-idealnoe.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:27+00:00"
+    },
+    "stati-v-entsiklopediyah-kapital-logika-kapitala": {
+      "bytes": 43854,
+      "hash": "fdac39e130faedd874cd762b35f517e25b2649e1a0dc276af38eb4928d24b357",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-kapital-logika-kapitala.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:29+00:00"
+    },
+    "stati-v-entsiklopediyah-kolichestvo": {
+      "bytes": 141942,
+      "hash": "52bc2b18d320748b6c76930f69a835a64325f7bdc5c3c07adcac21ddf7c92484",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-kolichestvo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:31+00:00"
+    },
+    "stati-v-entsiklopediyah-konkretnoe": {
+      "bytes": 16937,
+      "hash": "f3790b37fc903a89ded83bbc07535e44a4e886988d67276e892cb21ff0d1ddf2",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-konkretnoe.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:32+00:00"
+    },
+    "stati-v-entsiklopediyah-logicheskoe-i-istoricheskoe": {
+      "bytes": 39310,
+      "hash": "a8ef03e09f4061cfd9e3b9b4a607c653a117e9273343335cbd23b34497bc15b8",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-logicheskoe-i-istoricheskoe.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:34+00:00"
+    },
+    "stati-v-entsiklopediyah-subekt-i-obekt": {
+      "bytes": 5216,
+      "hash": "02761e6ddad25785814dd24e402360405b3c0240c44966698e2f0c933b7a6ae0",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-subekt-i-obekt.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:03:15+00:00"
+    },
+    "stati-v-entsiklopediyah-vseobschee": {
+      "bytes": 38090,
+      "hash": "067758dd4c3b86f74088a251aabe8ba0f904de4570f661d6629fad4fbc6bc906",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-vseobschee.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:19+00:00"
+    },
+    "stati-v-entsiklopediyah-vseobschee-2": {
+      "bytes": 12403,
+      "hash": "92dbbb20e4b65cb001a8d7888d4ce5912f3a4d1ec04bc81e3e683f5434d7b29c",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-vseobschee-2.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:37+00:00"
+    },
+    "stati-v-entsiklopediyah-vzaimodei-stvie": {
+      "bytes": 9414,
+      "hash": "1c1265a87d5393c5dd5e2d96ed6b257f74ca0f7e1be74b22390f764688cb9cd9",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-vzaimodei-stvie.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:16+00:00"
+    },
+    "stati-v-entsiklopediyah-vzaimosvyaz": {
+      "bytes": 5094,
+      "hash": "d17fb4113f286f443deba97e1175624f222b4fa475b516cb8f7f59e852ea791f",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-vzaimosvyaz.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:18+00:00"
+    },
+    "stati-v-entsiklopediyah-zabluzhdenie": {
+      "bytes": 51010,
+      "hash": "98c7742db991c2f5ad09fba6e50636cf59c52f90780c8270764c6cfeb3249f56",
+      "output_path": "ilyenkov_md/stati-v-entsiklopediyah/stati-v-entsiklopediyah-zabluzhdenie.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:25+00:00"
+    },
+    "stati-v-zhurnalah-aleksandr-ivanovich-mescheryakov-i-ego-pedagogika": {
+      "bytes": 30365,
+      "hash": "e68cb41685b1f49a6ddb168af5218ea3dc54a6f658f0bc6cbdfd6d7563c04d67",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-aleksandr-ivanovich-mescheryakov-i-ego-pedagogika.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:02+00:00"
+    },
+    "stati-v-zhurnalah-dialektika-ili-eklektika-polemicheskie-zametki-o-maoistskom-ponimanii-i-": {
+      "bytes": 57263,
+      "hash": "b131826f57b6611d3ca4043a3b563d63ad61da2b7df5528424da2e919f170acd",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-dialektika-ili-eklektika-polemicheskie-zametki-o-maoistskom-ponimanii-i-.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:47+00:00"
+    },
+    "stati-v-zhurnalah-didaktika-i-dialektika": {
+      "bytes": 29586,
+      "hash": "cf5f1ea5e81d7a5f8f090789ba41c8f519196a34744dc29b1e3f215b1e633390",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-didaktika-i-dialektika.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:00+00:00"
+    },
+    "stati-v-zhurnalah-falsifikatsiya-marksistskoi-dialektiki-v-ugodu-maoistskoi-politike": {
+      "bytes": 79799,
+      "hash": "bb99a061e75ec1696226749646c8c4f5f52275eed36b795c1a0ef9995070e60e",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-falsifikatsiya-marksistskoi-dialektiki-v-ugodu-maoistskoi-politike.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:57+00:00"
+    },
+    "stati-v-zhurnalah-gegel-i-germenevtika": {
+      "bytes": 79890,
+      "hash": "a764932bbf360c47319b948575a0b4992b3bce5af889192af2bf035b9c4fd4f7",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-gegel-i-germenevtika.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:59+00:00"
+    },
+    "stati-v-zhurnalah-k-istorii-voprosa-o-predmete-logiki-kak-nauki": {
+      "bytes": 77628,
+      "hash": "849b3c1eb8b60b0df4c92023f245256179a22b3bf871e0dbdde65e607063fbfd",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-k-istorii-voprosa-o-predmete-logiki-kak-nauki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:42+00:00"
+    },
+    "stati-v-zhurnalah-k-voprosu-o-protivorechii-v-myshlenii": {
+      "bytes": 62179,
+      "hash": "961f3c22bd6c70f8c23d04111926fb1678b52626367876ce32a4cb233faa8b2d",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-k-voprosu-o-protivorechii-v-myshlenii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:33+00:00"
+    },
+    "stati-v-zhurnalah-materializm-voinstvuyuschii-znachit-dialekticheskii": {
+      "bytes": 87677,
+      "hash": "3a4b7319bfbc224a764fc9ccfc847f715dc41d92075ebbaade0d0be658c14140",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-materializm-voinstvuyuschii-znachit-dialekticheskii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:14+00:00"
+    },
+    "stati-v-zhurnalah-o-dialektike-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-poznani": {
+      "bytes": 96495,
+      "hash": "bb27db15f5df3105df982f0848128bd5c195313c7438186d54e9f430b560a5ed",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-o-dialektike-abstraktnogo-i-konkretnogo-v-nauchno-teoreticheskom-poznani.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:32+00:00"
+    },
+    "stati-v-zhurnalah-o-voobrazhenii": {
+      "bytes": 89546,
+      "hash": "6a8f1a6ed5e8322d5299d93df3bc137b9cfaeeb784a72008824dd1026897f461",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-o-voobrazhenii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:45+00:00"
+    },
+    "stati-v-zhurnalah-partii-naya-pozitsiya-teoretika": {
+      "bytes": 19945,
+      "hash": "13810641b33f7a874f898c813aab3174dd1ecf54e587639c7020b8a97ee7a120",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-partii-naya-pozitsiya-teoretika.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:05+00:00"
+    },
+    "stati-v-zhurnalah-predmet-logiki-kak-nauki-v-novoi-filosofii": {
+      "bytes": 77733,
+      "hash": "76186591d9b4e82746bbc5c87fe6e58e1512c452742740b2f3428768e07e12fb",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-predmet-logiki-kak-nauki-v-novoi-filosofii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:40+00:00"
+    },
+    "stati-v-zhurnalah-problema-abstraktnogo-i-konkretnogo": {
+      "bytes": 72105,
+      "hash": "cf5e1641568acfe3afbee597769eeea00e6d832b5a8e531df089b70677e47b70",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-problema-abstraktnogo-i-konkretnogo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:44+00:00"
+    },
+    "stati-v-zhurnalah-problema-ideala-v-filosofii-i": {
+      "bytes": 77963,
+      "hash": "43674f5de6704a8dec48c2267c9f7e9944a17aad3ae03e917a18ba39d817796d",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-problema-ideala-v-filosofii-i.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:37+00:00"
+    },
+    "stati-v-zhurnalah-problema-ideala-v-filosofii-ii": {
+      "bytes": 84146,
+      "hash": "5840d028c3f6837d83e35b677f0899b43599daa91e286bf7be56cf5330a6876e",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-problema-ideala-v-filosofii-ii.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:38+00:00"
+    },
+    "stati-v-zhurnalah-problema-idealnogo": {
+      "bytes": 127340,
+      "hash": "c6a1558888fdccf3c4a57b51cd7a18f3ea9a4073af7fa17980805eb969dd98bb",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-problema-idealnogo.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:12+00:00"
+    },
+    "stati-v-zhurnalah-psihika-cheloveka-pod-lupoi-vremeni": {
+      "bytes": 40415,
+      "hash": "4953f3a47744d00a27d8673c7af7b319d3ab804fc6a6711788246bdd0050398c",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-psihika-cheloveka-pod-lupoi-vremeni.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:52+00:00"
+    },
+    "stati-v-zhurnalah-psihika-i-mozg-otvet-d-i-dubrovskomu": {
+      "bytes": 70530,
+      "hash": "fe098f9a4e15e9b23366d4cb7c53c87bf0f286a92071608f2af5fa1643046e89",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-psihika-i-mozg-otvet-d-i-dubrovskomu.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:49+00:00"
+    },
+    "stati-v-zhurnalah-soobrazheniya-po-voprosu-ob-otnoshenii-myshleniya-i-yazyka-rechi": {
+      "bytes": 26072,
+      "hash": "334720314895d655cac7abfd937b029ed8a93322f231351f24a44498a4d74323",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-soobrazheniya-po-voprosu-ob-otnoshenii-myshleniya-i-yazyka-rechi.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:10+00:00"
+    },
+    "stati-v-zhurnalah-stanovlenie-lichnosti-k-itogam-nauchnogo-eksperimenta": {
+      "bytes": 80044,
+      "hash": "e1663dd24b474b14b10a57d37c30fca24b46b773351260075bf4e153c70d02f6",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-stanovlenie-lichnosti-k-itogam-nauchnogo-eksperimenta.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:09+00:00"
+    },
+    "stati-v-zhurnalah-tak-kto-zhe-myslit-abstraktno-neobrazovannyi-chelovek-a-vovse-ne-prosves": {
+      "bytes": 36857,
+      "hash": "820fb59ebbc1077cec939526a7f5f0538b3cc99abad02ee2b7c2552a9083e68f",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-tak-kto-zhe-myslit-abstraktno-neobrazovannyi-chelovek-a-vovse-ne-prosves.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:55+00:00"
+    },
+    "stati-v-zhurnalah-tri-veka-bessmertiya": {
+      "bytes": 69956,
+      "hash": "4136c438d37bcf3b7011ba2e908375fc947f3b613da1f60ed4dd8445a9e8186a",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-tri-veka-bessmertiya.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:07+00:00"
+    },
+    "stati-v-zhurnalah-truslivyi-nigilizm-geroicheskogo-pozitivista": {
+      "bytes": 76713,
+      "hash": "007cd69952a85b45634b4276f33ef2e92a81a87465ebf69b9db2f5c00714cd82",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-truslivyi-nigilizm-geroicheskogo-pozitivista.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:35+00:00"
+    },
+    "stati-v-zhurnalah-tsentralnyi-vopros-dialektiki": {
+      "bytes": 49103,
+      "hash": "765097eea6519640ea8a5f52c36dd5a475de51f7cbd8eed848e782dab0b31371",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-tsentralnyi-vopros-dialektiki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:54+00:00"
+    },
+    "stati-v-zhurnalah-v-i-lenin-i-aktualnye-problemy-dialekticheskoi-logiki": {
+      "bytes": 72829,
+      "hash": "114ba1bf4efb4a6035545d4ebaf4e5c4b15508c49b97f1ef65dae3e8d46915bc",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-v-i-lenin-i-aktualnye-problemy-dialekticheskoi-logiki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:07:51+00:00"
+    },
+    "stati-v-zhurnalah-vydayuscheesya-dostizhenie-sovetskoi-nauki": {
+      "bytes": 92574,
+      "hash": "3ac7605320863897a98c6c7dbd184d3e2b60db20a09f9a40e494f73a280bf3d5",
+      "output_path": "ilyenkov_md/stati-v-zhurnalah/stati-v-zhurnalah-vydayuscheesya-dostizhenie-sovetskoi-nauki.md",
+      "status": "done",
+      "updated_at": "2026-06-09T00:08:04+00:00"
+    }
+  }
+}

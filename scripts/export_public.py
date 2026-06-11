@@ -1,0 +1,240 @@
+#!/usr/bin/env python3
+"""Build a public export tree with metadata-based redistribution gates."""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import shutil
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from prepare_gbrain_markdown import is_corpus_markdown, parse_front_matter
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_OUTPUT = ROOT / "dist" / "public"
+SKIP_PARTS = {".git", ".obsidian", ".codex", "node_modules", "__pycache__", "cache", "dist"}
+CONTROLLED_BINARY_SUFFIXES = {".pdf", ".djvu", ".djv", ".epub"}
+CONTROLLED_TEXT_SUFFIXES = {".tex", ".txt", ".html", ".htm", ".xhtml", ".fb2", ".rtf"}
+CONTROLLED_ASSET_SUFFIXES = {
+    ".avif", ".bmp", ".gif", ".heic", ".jpeg", ".jpg", ".png", ".svg", ".tif", ".tiff", ".webp",
+    ".aac", ".flac", ".m4a", ".mp3", ".ogg", ".wav",
+    ".avi", ".m4v", ".mkv", ".mov", ".mp4", ".webm",
+}
+REPOSITORY_METADATA_NAMES = {".DS_Store", "Thumbs.db"}
+CORPUS_ASSET_PREFIXES = (
+    "caute_ru_markdown/ilyenkov_md/",
+    "caute_ru_markdown/maidansky_md/",
+    "spinoza_markdown/spinoza_md/",
+    "kedrov_markdown/kedrov_md/",
+)
+
+
+def sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def source_scan_approvals(root: Path) -> dict[str, bool]:
+    approvals: dict[str, bool] = {}
+    required = {
+        "title", "author", "publication_year", "source_url", "download_date",
+        "pages", "bytes", "sha256", "source_format", "source_license",
+        "redistribution_approved", "rights_review_status", "text_status", "local_path",
+    }
+    for manifest_path in root.glob("*_markdown/metadata/source_scans_manifest.json"):
+        data = json.loads(manifest_path.read_text(encoding="utf-8"))
+        author_root = manifest_path.parents[1]
+        for item in data.get("items", []):
+            missing = sorted(required - item.keys())
+            if missing:
+                raise ValueError(f"{manifest_path}: source scan entry missing {missing}")
+            local_path = item.get("local_path")
+            file_path = author_root / local_path
+            if not file_path.is_file():
+                raise ValueError(f"{manifest_path}: missing source scan {local_path}")
+            if file_path.stat().st_size != int(item["bytes"]):
+                raise ValueError(f"{manifest_path}: byte count mismatch for {local_path}")
+            if sha256(file_path) != str(item["sha256"]):
+                raise ValueError(f"{manifest_path}: SHA-256 mismatch for {local_path}")
+            expected_suffix = "." + str(item["source_format"]).lower()
+            if file_path.suffix.lower() != expected_suffix:
+                raise ValueError(f"{manifest_path}: source format mismatch for {local_path}")
+            if item.get("text_status") != "source_scan_unprocessed":
+                raise ValueError(f"{manifest_path}: invalid text_status for {local_path}")
+            if str(item.get("core_corpus_eligible", "false")).lower() != "false":
+                raise ValueError(f"{manifest_path}: source scan cannot enter core corpus: {local_path}")
+            if str(item.get("llm_wiki_eligible", "false")).lower() != "false":
+                raise ValueError(f"{manifest_path}: source scan cannot enter GBrain: {local_path}")
+            rel_path = file_path.relative_to(root).as_posix()
+            approvals[rel_path] = str(item.get("redistribution_approved", "false")).lower() == "true"
+    return approvals
+
+
+def markdown_approval(path: Path, root: Path) -> tuple[bool, str] | None:
+    text = path.read_text(encoding="utf-8")
+    metadata = parse_front_matter(text)
+    controlled = is_corpus_markdown(path, root) or "text_role" in metadata
+    if not controlled:
+        return None
+    approved = metadata.get("redistribution_approved") == "true"
+    reason = "redistribution_approved=true" if approved else "redistribution_not_approved"
+    return approved, reason
+
+
+def export_decision(path: Path, root: Path, scan_approvals: dict[str, bool]) -> tuple[bool, str]:
+    rel = path.relative_to(root).as_posix()
+    if path.name in REPOSITORY_METADATA_NAMES:
+        return False, "repository_metadata"
+    if path.suffix.lower() == ".md":
+        approval = markdown_approval(path, root)
+        if approval is not None:
+            return approval
+        if rel.startswith(CORPUS_ASSET_PREFIXES):
+            return False, "corpus_markdown_without_redistribution_approval"
+    if path.suffix.lower() in CONTROLLED_BINARY_SUFFIXES:
+        approved = scan_approvals.get(rel, False)
+        return approved, "scan_manifest_approved" if approved else "binary_without_redistribution_approval"
+    if rel.startswith(CORPUS_ASSET_PREFIXES) and path.suffix.lower() != ".md":
+        return False, "corpus_asset_without_redistribution_approval"
+    if path.suffix.lower() in CONTROLLED_TEXT_SUFFIXES:
+        return False, "text_without_redistribution_approval"
+    if path.suffix.lower() in CONTROLLED_ASSET_SUFFIXES:
+        return False, "asset_without_redistribution_approval"
+    return True, "project_file"
+
+
+def source_files(root: Path) -> list[Path]:
+    return sorted(
+        path
+        for path in root.rglob("*")
+        if path.is_file()
+        and not path.is_symlink()
+        and not SKIP_PARTS.intersection(path.relative_to(root).parts)
+    )
+
+
+def build_export(root: Path, output: Path, *, write: bool = True) -> dict:
+    scan_approvals = source_scan_approvals(root)
+    records: list[dict[str, object]] = []
+    staging = output.parent / f".{output.name}-build"
+    if write:
+        if staging.exists():
+            shutil.rmtree(staging)
+        staging.mkdir(parents=True)
+
+    for path in source_files(root):
+        approved, reason = export_decision(path, root, scan_approvals)
+        rel = path.relative_to(root)
+        record = {
+            "path": rel.as_posix(),
+            "included": approved,
+            "reason": reason,
+            "bytes": path.stat().st_size,
+            "sha256": sha256(path),
+        }
+        records.append(record)
+        if approved and write:
+            target = staging / rel
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(path, target)
+
+    audit = {
+        "schema_version": 1,
+        "policy": "Corpus, source binaries, non-Markdown text, and media assets require explicit redistribution approval; project code and documentation use the static project-file rule.",
+        "included": sum(1 for item in records if item["included"]),
+        "excluded": sum(1 for item in records if not item["included"]),
+        "files": records,
+    }
+    if write:
+        (staging / "PUBLIC_EXPORT_AUDIT.json").write_text(
+            json.dumps(audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
+        output.mkdir(parents=True, exist_ok=True)
+        git_pointer = output / ".git"
+        if git_pointer.exists() and not git_pointer.is_file():
+            raise ValueError(f"public worktree .git must be a separate-git-dir pointer file: {git_pointer}")
+        for child in output.iterdir():
+            if child.name == ".git":
+                continue
+            if child.is_dir():
+                shutil.rmtree(child)
+            else:
+                child.unlink()
+        for child in staging.iterdir():
+            target = output / child.name
+            if child.is_dir():
+                shutil.copytree(child, target)
+            else:
+                shutil.copy2(child, target)
+        shutil.rmtree(staging)
+        verify_export_tree(audit, root, output)
+    return audit
+
+
+def verify_export_tree(audit: dict, root: Path, output: Path) -> None:
+    expected = {
+        item["path"]: item["sha256"]
+        for item in audit["files"]
+        if item["included"]
+    }
+    actual = {
+        path.relative_to(output).as_posix(): sha256(path)
+        for path in output.rglob("*")
+        if path.is_file() and path.name != ".git"
+    }
+    audit_path = output / "PUBLIC_EXPORT_AUDIT.json"
+    if not audit_path.is_file():
+        raise ValueError("public export audit is missing")
+    actual.pop("PUBLIC_EXPORT_AUDIT.json", None)
+    if set(actual) != set(expected):
+        missing = sorted(set(expected) - set(actual))
+        unexpected = sorted(set(actual) - set(expected))
+        raise ValueError(f"public export tree mismatch: missing={missing} unexpected={unexpected}")
+    mismatched = sorted(path for path, digest in expected.items() if actual[path] != digest)
+    if mismatched:
+        raise ValueError(f"public export SHA-256 mismatch: {mismatched}")
+    forbidden = [
+        path for path in actual
+        if "source_scans/" in path or path.endswith(".snapshot")
+    ]
+    if forbidden:
+        raise ValueError(f"forbidden source material in public export: {forbidden}")
+    approved_markdown = {
+        path.relative_to(root).as_posix()
+        for path in source_files(root)
+        if path.suffix.lower() == ".md"
+        and markdown_approval(path, root) == (True, "redistribution_approved=true")
+    }
+    if not approved_markdown.issubset(actual):
+        raise ValueError(f"approved Markdown missing from public export: {sorted(approved_markdown - set(actual))}")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument("--check", action="store_true", help="Evaluate rules without writing the export tree")
+    parser.add_argument("--verify", action="store_true", help="Verify an existing export tree against current policy")
+    args = parser.parse_args()
+    output = args.output.resolve()
+    if output == ROOT or ROOT in output.parents and output.relative_to(ROOT).parts[:2] != ("dist", "public"):
+        raise SystemExit("Refusing to replace a repository path outside dist/public")
+    if args.verify:
+        audit_path = output / "PUBLIC_EXPORT_AUDIT.json"
+        audit = json.loads(audit_path.read_text(encoding="utf-8"))
+        verify_export_tree(audit, ROOT, output)
+        print(f"verified={audit['included']} output={output}")
+        return 0
+    audit = build_export(ROOT, output, write=not args.check)
+    print(f"included={audit['included']} excluded={audit['excluded']} output={output}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
