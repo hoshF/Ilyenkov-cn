@@ -2,7 +2,7 @@
   "schema_version": 2,
   "policy": "Corpus, source binaries, non-Markdown text, and media assets require explicit redistribution approval; project assets are approved only through metadata/public_assets_manifest.json with matching bytes and SHA-256; local tool configuration is never exported; project code and documentation use the static project-file rule.",
   "audit_convention": "PUBLIC_EXPORT_AUDIT.json is generated together with the export and does not list itself; the export tree and the public git tree must equal the included paths plus this audit file.",
-  "included": 85,
+  "included": 86,
   "excluded": 757,
   "files": [
     {
@@ -51,8 +51,8 @@
       "path": "README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 7609,
-      "sha256": "a323f8553936f726b9838382baa72d6c275e3b0fd422b52cfc45360c5663ca8c"
+      "bytes": 7766,
+      "sha256": "b9579ff7288ddd552d37aaba2a73946417a2408dec2b2eab93f78ccf1779296b"
     },
     {
       "path": "RESOLVER.md",
@@ -4073,11 +4073,18 @@
       "sha256": "bf891fa5a738b0f946cf60df449ecac52e8ebba6c3f72dc6430dbcfdc33f6f36"
     },
     {
+      "path": "notes/community/RECRUITMENT_PLATFORMS.md",
+      "included": true,
+      "reason": "project_file",
+      "bytes": 8198,
+      "sha256": "784439abb2bf038be67a463fc607749893e24d2daf8e42e1e54b7b708d809fb8"
+    },
+    {
       "path": "notes/community/RECRUITMENT_POST.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 2914,
-      "sha256": "b05409738f900467e4d55cb31b647719cfc3fee5c6e1cb874a5ed1bc12ea265d"
+      "bytes": 3007,
+      "sha256": "7ef377ab4b5440a5402b7e1aa27b61fe9f1b49a54ccefa4664abc40f5252a2a1"
     },
     {
       "path": "notes/contributors/README.md",
