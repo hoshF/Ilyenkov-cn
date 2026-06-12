@@ -15,7 +15,7 @@ gbrain_source: "project-markdown"
 ## 统一信息块（所有文案共用）
 
 - 仓库：<https://github.com/hoshF/Ilyenkov-cn>
-- Telegram 群：<https://t.me/+08chEHSg8nhhZTg1>
+- Telegram 群：<https://t.me/+Bmk9X1lnUY45ZjJl>
 - 微信群：不公开入口，请通过 Telegram 私聊或平台私信维护者获取
 - 署名：一律使用「维护者 / the maintainer (GitHub: hoshF)」
 
@@ -37,14 +37,14 @@ gbrain_source: "project-markdown"
 > 找懂俄语的中文使用者，以及对苏联哲学、维果茨基、活动理论感兴趣的朋友。
 >
 > GitHub: github.com/hoshF/Ilyenkov-cn
-> Telegram: t.me/+08chEHSg8nhhZTg1
+> Telegram: t.me/+Bmk9X1lnUY45ZjJl
 
 ## X（英文版，两条成串）
 
 > 1/ We're building an open, source-traceable archive of the Soviet philosopher Evald Ilyenkov (1924–1979) for Chinese readers: Russian originals, collation of existing Chinese translations, and terminology work (идеальное, деятельность, всеобщее…).
 >
 > 2/ Looking for collaborators: RU/ZH bilinguals, readers of the English translations, anyone from the Vygotsky / activity-theory world. Everything happens in the open — issues, discussions, good-first-tasks.
-> github.com/hoshF/Ilyenkov-cn · t.me/+08chEHSg8nhhZTg1
+> github.com/hoshF/Ilyenkov-cn · t.me/+Bmk9X1lnUY45ZjJl
 
 标签候选（不必全用）：#philosophy #Marxism #Vygotsky #SovietPhilosophy
 
@@ -70,7 +70,7 @@ gbrain_source: "project-markdown"
 > - bibliographic detectives — edition histories, publication data, dead-link archaeology.
 >
 > Repo (issues and discussions open to all, with good-first-issues): https://github.com/hoshF/Ilyenkov-cn
-> Telegram: https://t.me/+08chEHSg8nhhZTg1
+> Telegram: https://t.me/+Bmk9X1lnUY45ZjJl
 >
 > One question for this community, to start an actual discussion: in your language's literature, how is идеальное rendered — "the ideal", "ideality", something else — and does that choice survive Ilyenkov's argument that the ideal is not "in the head" but in activity? Chinese faces the same fork (观念的 vs 理想的), and it changes how the whole essay reads.
 
@@ -88,7 +88,7 @@ gbrain_source: "project-markdown"
 >
 > **Who we're looking for.** The working language is mostly Chinese (the project's first goal is a reliable Chinese point of entry into Ilyenkov), but the terminology and collation work is multilingual by nature. Russian/Chinese bilinguals are the scarcest resource; readers who know the English translations well, or who come to Ilyenkov through Vygotsky, Davydov and activity theory, would be just as valuable — the "concept of the ideal" discussion in particular needs people who can say how the English-language reception handled it.
 >
-> **Where.** GitHub (issues and discussions open to everyone, with beginner-friendly tasks marked): https://github.com/hoshF/Ilyenkov-cn — and a Telegram group for informal discussion: https://t.me/+08chEHSg8nhhZTg1
+> **Where.** GitHub (issues and discussions open to everyone, with beginner-friendly tasks marked): https://github.com/hoshF/Ilyenkov-cn — and a Telegram group for informal discussion: https://t.me/+Bmk9X1lnUY45ZjJl
 >
 > Happy to answer questions here, and genuinely interested in how this community reads Ilyenkov today.
 

@@ -52,7 +52,7 @@
       "included": true,
       "reason": "project_file",
       "bytes": 7766,
-      "sha256": "b9579ff7288ddd552d37aaba2a73946417a2408dec2b2eab93f78ccf1779296b"
+      "sha256": "f9163f1464f6d182491160e3b6108360e5b700769450b4c9659ac7b533f9dc54"
     },
     {
       "path": "RESOLVER.md",
@@ -4077,14 +4077,14 @@
       "included": true,
       "reason": "project_file",
       "bytes": 8198,
-      "sha256": "784439abb2bf038be67a463fc607749893e24d2daf8e42e1e54b7b708d809fb8"
+      "sha256": "78aef6d24d5bbb135c347cd8b32486a3b1d219ad7a753e6070b639ff0f646932"
     },
     {
       "path": "notes/community/RECRUITMENT_POST.md",
       "included": true,
       "reason": "project_file",
       "bytes": 3007,
-      "sha256": "7ef377ab4b5440a5402b7e1aa27b61fe9f1b49a54ccefa4664abc40f5252a2a1"
+      "sha256": "ea02ef469cfc121cd2ddc7eafbcad9b7d750e1e83f0bc1bd46eccbdb5fe12a42"
     },
     {
       "path": "notes/contributors/README.md",
