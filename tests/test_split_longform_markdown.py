@@ -55,6 +55,33 @@ class SplitLongformMarkdownTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "no approved heading boundary"):
                 MODULE.split_bytes(original, source, spec, root=root, max_bytes=350)
 
+    def test_materialize_fulltext_is_byte_identical_and_excluded_dir(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source, original, spec = self.fixture(root)
+            MODULE.split_bytes(original, source, spec, root=root, max_bytes=1000)
+
+            target = MODULE.materialize_fulltext(source, root=root)
+
+            self.assertEqual(target, root / ".fulltext/kedrov_markdown/kedrov_md/work.md")
+            self.assertEqual(target.read_bytes(), original)
+            self.assertIn(".fulltext", target.relative_to(root).parts)
+            MODULE.check_fulltext(source, root=root)
+
+    def test_check_fulltext_detects_missing_and_stale_copy(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source, original, spec = self.fixture(root)
+            MODULE.split_bytes(original, source, spec, root=root, max_bytes=1000)
+
+            with self.assertRaisesRegex(ValueError, "missing full-text"):
+                MODULE.check_fulltext(source, root=root)
+
+            target = MODULE.materialize_fulltext(source, root=root)
+            target.write_bytes(original + b"tampered")
+            with self.assertRaisesRegex(ValueError, "stale"):
+                MODULE.check_fulltext(source, root=root)
+
     def test_refresh_metadata_references_tracks_chapter_set(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

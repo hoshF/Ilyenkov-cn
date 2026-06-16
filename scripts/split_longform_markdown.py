@@ -358,6 +358,38 @@ def verify_work(source_path: Path, *, root: Path = ROOT) -> dict[str, object]:
     return manifest
 
 
+FULLTEXT_DIRNAME = ".fulltext"
+
+
+def fulltext_path_for(source_path: Path, root: Path = ROOT) -> Path:
+    """Mirror the original source path under a dot-directory GBrain never walks."""
+    return root / FULLTEXT_DIRNAME / relative_source(source_path, root)
+
+
+def materialize_fulltext(source_path: Path, *, root: Path = ROOT) -> Path:
+    """Write the full reconstructed work to .fulltext/, byte-identical to its snapshot."""
+    manifest = verify_work(source_path, root=root)
+    data = reconstruct(source_path)
+    if sha256_bytes(data) != manifest["original_sha256"]:
+        raise ValueError(f"full-text reconstruction hash mismatch: {source_path}")
+    target = fulltext_path_for(source_path, root)
+    atomic_write(target, data)
+    return target
+
+
+def check_fulltext(source_path: Path, *, root: Path = ROOT) -> None:
+    """Fail if the committed full-text copy is missing or out of sync with the chapters."""
+    manifest = json.loads(manifest_path_for(source_path).read_text(encoding="utf-8"))
+    target = fulltext_path_for(source_path, root)
+    if not target.is_file():
+        raise ValueError(f"missing full-text reconstruction (run --materialize): {target}")
+    data = target.read_bytes()
+    if sha256_bytes(data) != manifest["original_sha256"]:
+        raise ValueError(f"full-text reconstruction is stale (run --materialize): {target}")
+    if data != reconstruct(source_path):
+        raise ValueError(f"full-text reconstruction does not match chapters: {target}")
+
+
 def materialized_output_exists(source_path: Path, *, root: Path = ROOT) -> bool:
     return manifest_path_for(source_path).is_file() if registered_spec(source_path, root) else source_path.is_file()
 
@@ -486,7 +518,8 @@ def refresh_metadata_references(*, root: Path = ROOT) -> int:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--all", action="store_true", help="Split every registered source that still exists")
-    parser.add_argument("--check", action="store_true", help="Verify every registered work and reconstruction")
+    parser.add_argument("--check", action="store_true", help="Verify every registered work, reconstruction, and full-text copy")
+    parser.add_argument("--materialize", action="store_true", help="Write/refresh full-text reconstructions under .fulltext/")
     parser.add_argument("--path", type=Path, help="Split or check one registered source path")
     parser.add_argument("--refresh-metadata", action="store_true", help="Update JSON source/state references to split works")
     args = parser.parse_args()
@@ -497,26 +530,34 @@ def main() -> int:
         selected = [item for item in works if item["source_path"] == rel]
         if not selected:
             raise SystemExit(f"not registered: {rel}")
-    if not args.all and not args.check and not args.path and not args.refresh_metadata:
-        parser.error("choose --all, --check, --refresh-metadata, or --path")
+    if not args.all and not args.check and not args.path and not args.refresh_metadata and not args.materialize:
+        parser.error("choose --all, --check, --materialize, --refresh-metadata, or --path")
     if args.refresh_metadata:
         print(f"metadata_files_refreshed={refresh_metadata_references()}")
-        if not args.all and not args.check and not args.path:
+        if not args.all and not args.check and not args.path and not args.materialize:
             return 0
     verified = 0
     split = 0
+    materialized = 0
     for spec in selected:
         source_path = ROOT / str(spec["source_path"])
-        if args.check:
+        if args.materialize:
+            materialize_fulltext(source_path)
+            materialized += 1
+        elif args.check:
             verify_work(source_path)
+            check_fulltext(source_path)
             verified += 1
         elif source_path.is_file():
             split_bytes(source_path.read_bytes(), source_path, spec)
+            materialize_fulltext(source_path)
             split += 1
+            materialized += 1
         else:
             verify_work(source_path)
+            check_fulltext(source_path)
             verified += 1
-    print(f"longform_split={split} longform_verified={verified} registered={len(selected)}")
+    print(f"longform_split={split} longform_verified={verified} longform_materialized={materialized} registered={len(selected)}")
     return 0
 
 

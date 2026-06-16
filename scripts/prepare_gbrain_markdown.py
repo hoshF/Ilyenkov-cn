@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SKIP_PARTS = {".git", ".obsidian", ".codex", "node_modules", "dist"}
+SKIP_PARTS = {".git", ".obsidian", ".codex", ".fulltext", "node_modules", "dist"}
 METADATA_DATE = "2026-06-11"
 
 CORPUS_PREFIXES = (

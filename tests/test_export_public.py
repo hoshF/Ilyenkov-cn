@@ -174,6 +174,20 @@ class ExportPublicTests(unittest.TestCase):
                 (False, "corpus_asset_without_redistribution_approval"),
             )
 
+    def test_fulltext_dir_is_never_in_export_universe(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "README.md").write_text("---\ncreated: 2026-06-11\n---\n# Readme\n", encoding="utf-8")
+            full = root / ".fulltext/caute_ru_markdown/ilyenkov_md/work.md"
+            full.parent.mkdir(parents=True)
+            full.write_text(
+                '---\ntext_role: "author_original"\nredistribution_approved: "false"\n---\n# Full corpus text\n',
+                encoding="utf-8",
+            )
+            listed = {path.relative_to(root).as_posix() for path in MODULE.source_files(root)}
+            self.assertNotIn(".fulltext/caute_ru_markdown/ilyenkov_md/work.md", listed)
+            self.assertNotIn(".fulltext", {Path(p).parts[0] for p in listed})
+
     def test_build_exports_manifest_approved_asset(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

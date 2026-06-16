@@ -17,7 +17,7 @@ from prepare_gbrain_markdown import is_corpus_markdown, parse_front_matter
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT = ROOT / "dist" / "public"
-SKIP_PARTS = {".git", ".obsidian", ".codex", "node_modules", "__pycache__", "cache", "dist"}
+SKIP_PARTS = {".git", ".obsidian", ".codex", ".fulltext", "node_modules", "__pycache__", "cache", "dist"}
 CONTROLLED_BINARY_SUFFIXES = {".pdf", ".djvu", ".djv", ".epub"}
 CONTROLLED_TEXT_SUFFIXES = {".tex", ".txt", ".html", ".htm", ".xhtml", ".fb2", ".rtf"}
 CONTROLLED_ASSET_SUFFIXES = {
@@ -255,6 +255,7 @@ def verify_export_tree(audit: dict, root: Path, output: Path) -> None:
         path for path in actual
         if "source_scans/" in path
         or path.endswith(".snapshot")
+        or path.startswith(".fulltext/")
         or is_local_configuration(tuple(path.split("/")))
     ]
     if forbidden:

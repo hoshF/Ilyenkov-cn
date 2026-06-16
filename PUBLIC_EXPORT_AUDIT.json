@@ -4048,8 +4048,8 @@
       "path": "notes/REPOSITORY_STATUS_FOR_CLAUDE.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 17683,
-      "sha256": "f2e0b39e048d909bc5e02711784a5fd35fdd0badb77c88e67c10807ac11163b2"
+      "bytes": 19279,
+      "sha256": "a8e8bf661081a015f3c937d61a8c49c43d129a10a39740db7658ac10cfa577ec"
     },
     {
       "path": "notes/STYLE_GUIDE.md",
@@ -4111,15 +4111,15 @@
       "path": "scripts/export_public.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 14419,
-      "sha256": "97c9461d1c17518f70f55a4b6858e66e62db84f169db364023c58dacfb29e164"
+      "bytes": 14473,
+      "sha256": "91520ae5c938c15fe8b11b699c1fa49f57d830817bca83ab99bf6d190988d812"
     },
     {
       "path": "scripts/prepare_gbrain_markdown.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 18456,
-      "sha256": "5e5e2c9e7d4bf8ba2eee9beea1cd77e2c217c33d90e5a1f8d721f6c4667c0a68"
+      "bytes": 18469,
+      "sha256": "96fcde3d3ec0dc4f6ac693464bd62dd99fc1a4f83b7aca77e8859c7531e2da22"
     },
     {
       "path": "scripts/publish_public.sh",
@@ -4139,8 +4139,8 @@
       "path": "scripts/split_longform_markdown.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 21485,
-      "sha256": "59cf2ce3b0df9b24306f9fd5925c623992a1d3103782177508cc1699b4c2f2af"
+      "bytes": 23501,
+      "sha256": "bad1cac7deaa8127ca97f899f16f7cef3cb8bbed7d41d6a3b2c66b5b7ce7e98f"
     },
     {
       "path": "scripts/verify_corpus_manifests.py",
@@ -5854,8 +5854,8 @@
       "path": "tests/test_export_public.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 12763,
-      "sha256": "2cb5149c27ae5842aa960040a395a797fe3d34fb61dd82c0c5fa6dcaee88d22a"
+      "bytes": 13596,
+      "sha256": "10eb6b29933f7581dc4320dabe27b31cd3f1448d876fee097879c38c934992e8"
     },
     {
       "path": "tests/test_prepare_gbrain_markdown.py",
@@ -5868,8 +5868,8 @@
       "path": "tests/test_split_longform_markdown.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 3728,
-      "sha256": "d0a4a5660c4134df20626f46337f70865524b3ea393ca10eb98b45e1bdc109a4"
+      "bytes": 5052,
+      "sha256": "6ef63d159802dee83e27bfbe4156a3810aa64d6baec5368e657498a4ec8e60f2"
     },
     {
       "path": "translation_workspace/README.md",
