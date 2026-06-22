@@ -26,6 +26,12 @@ CURRENT_DOCS = (
     "LLM_WIKI.md",
     "RESOLVER.md",
     "TRANSLATION_PLAN.md",
+    "caute_ru_markdown/README.md",
+    "maidansky_markdown/README.md",
+    "spinoza_markdown/README.md",
+    "kedrov_markdown/README.md",
+    "oizerman_markdown/README.md",
+    "kopnin_markdown/README.md",
     "notes/COLLECTION_ARCHITECTURE.md",
     "notes/REPOSITORY_STATUS_FOR_CLAUDE.md",
     "notes/KEDROV_COLLECTION_STATUS_FOR_CLAUDE.md",
@@ -40,9 +46,55 @@ CURRENT_DOCS = (
     "translation_workspace/README.md",
 )
 MISSION_REQUIREMENTS = {
-    "README.md": ("## English Summary", "原典数字化与研究平台", "中文翻译与精读计划"),
-    "GOVERNANCE.md": ("面向全球", "原典数字化", "中文翻译"),
-    "CONTRIBUTING.md": ("数字化", "中文翻译", "LLM Wiki"),
+    "README.md": (
+        "# Ilyenkov Philosophy Text Archive",
+        "## Collections",
+        "## Chinese Translation And Close Reading",
+        "## 中文摘要",
+    ),
+    "GOVERNANCE.md": (
+        "# Project Governance",
+        "## Mission",
+        "Chinese translation",
+        "## 中文摘要",
+    ),
+    "CONTRIBUTING.md": (
+        "# Contributing",
+        "## Useful Contributions",
+        "Chinese translation",
+        "## 中文摘要",
+    ),
+    "LLM_WIKI.md": ("# LLM Wiki", "## Operating Principles", "## 中文摘要"),
+    "RESOLVER.md": ("# Corpus Resolver", "## Routing", "## 中文摘要"),
+    "COLLECTION_STATUS.md": (
+        "# Philosopher Text Collection Status",
+        "## Stage Notes",
+        "## 中文说明",
+    ),
+    "caute_ru_markdown/README.md": (
+        "# Ilyenkov / Maidansky Markdown Archive",
+        "## 中文摘要",
+    ),
+    "maidansky_markdown/README.md": (
+        "# Andrey Maidansky Academia.edu Source Archive",
+        "## 中文摘要",
+    ),
+    "spinoza_markdown/README.md": (
+        "# Spinoza Original-Language Markdown Archive",
+        "## 中文摘要",
+    ),
+    "kedrov_markdown/README.md": (
+        "# Bonifaty Kedrov Philosophy Text Archive",
+        "## 中文摘要",
+    ),
+    "oizerman_markdown/README.md": (
+        "# Teodor Oizerman Philosophy Text Archive",
+        "## 中文摘要",
+    ),
+    "kopnin_markdown/README.md": (
+        "# Pavel Kopnin Philosophy Text Archive",
+        "## 中文摘要",
+    ),
     "AGENTS.md": ("原典数字化与研究平台面向全球", "中文翻译与精读计划"),
     "notes/REPOSITORY_STATUS_FOR_CLAUDE.md": (
         "原典数字化与研究平台面向全球",
@@ -82,30 +134,78 @@ METADATA_REQUIREMENTS = {
     },
     "CONTRIBUTING.md": {
         "type": "project",
-        "language": "zh",
+        "language": "en-zh",
         "collection": "project-documentation",
-        "tags": ("project", "documentation"),
+        "tags": ("project", "documentation", "contributing"),
         "updated": True,
     },
     "GOVERNANCE.md": {
         "type": "project",
-        "language": "zh",
+        "language": "en-zh",
         "collection": "project-documentation",
-        "tags": ("project", "documentation"),
+        "tags": ("project", "documentation", "governance"),
         "updated": True,
     },
     "LLM_WIKI.md": {
         "type": "project",
-        "language": "zh",
+        "language": "en-zh",
         "collection": "project-documentation",
         "tags": ("llm-wiki", "gbrain"),
         "updated": True,
     },
     "RESOLVER.md": {
         "type": "project",
-        "language": "zh",
+        "language": "en-zh",
         "collection": "project-documentation",
         "tags": ("corpus", "resolver"),
+        "updated": True,
+    },
+    "COLLECTION_STATUS.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("collections", "status", "corpus"),
+    },
+    "caute_ru_markdown/README.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("project", "documentation"),
+        "updated": True,
+    },
+    "maidansky_markdown/README.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("maidansky", "source-archive"),
+        "updated": True,
+    },
+    "spinoza_markdown/README.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("project", "documentation"),
+        "updated": True,
+    },
+    "kedrov_markdown/README.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("kedrov", "source-archive"),
+        "updated": True,
+    },
+    "oizerman_markdown/README.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("oizerman", "source-archive"),
+        "updated": True,
+    },
+    "kopnin_markdown/README.md": {
+        "type": "project",
+        "language": "en-zh",
+        "collection": "project-documentation",
+        "tags": ("kopnin", "source-archive"),
         "updated": True,
     },
     "RIGHTS.md": {
@@ -276,6 +376,17 @@ def mission_errors(root: Path) -> list[str]:
     return errors
 
 
+def public_entry_errors(root: Path) -> list[str]:
+    errors: list[str] = []
+    readme = root / "README.md"
+    if not readme.is_file():
+        return ["缺少 README.md"]
+    text = readme.read_text(encoding="utf-8")
+    if text.startswith("---\n"):
+        errors.append("README.md 不应包含 front matter")
+    return errors
+
+
 def deprecated_text_errors(
     root: Path,
     documents: tuple[str, ...] = CURRENT_DOCS,
@@ -365,6 +476,7 @@ def check(root: Path = ROOT) -> list[str]:
     errors.extend(terminology_errors(root))
     errors.extend(status_snapshot_errors(root))
     errors.extend(mission_errors(root))
+    errors.extend(public_entry_errors(root))
     errors.extend(deprecated_text_errors(root))
     errors.extend(licensing_errors(root))
     errors.extend(metadata_errors(root))

@@ -108,7 +108,12 @@ class ManageCollectionsTests(unittest.TestCase):
             collection = next(item for item in data["collections"] if item["person_id"] == "new-person")
             self.assertEqual(collection["layout"], "standard")
             self.assertIn("new-person_markdown/", (root / "gbrain.yml").read_text())
-            self.assertIn("新人", (root / "COLLECTION_STATUS.md").read_text())
+            readme = (author_root / "README.md").read_text(encoding="utf-8")
+            self.assertIn("# New Philosopher Philosophy Text Archive", readme)
+            self.assertIn('language: "en-zh"', readme)
+            self.assertIn("## 中文摘要", readme)
+            status = (root / "COLLECTION_STATUS.md").read_text(encoding="utf-8")
+            self.assertIn("New Philosopher / 新人", status)
             self.assertEqual(REGISTRY.validate_registry(root), [])
 
     def test_status_generation_is_deterministic(self):
@@ -118,6 +123,9 @@ class ManageCollectionsTests(unittest.TestCase):
             first = MANAGER.status_markdown(root)
             second = MANAGER.status_markdown(root)
             self.assertEqual(first, second)
+            self.assertIn("# Philosopher Text Collection Status", first)
+            self.assertIn('language: "en-zh"', first)
+            self.assertIn("| Person | Collection | Stage |", first)
 
     def test_digitization_planned_requires_only_project_record(self):
         with tempfile.TemporaryDirectory() as directory:

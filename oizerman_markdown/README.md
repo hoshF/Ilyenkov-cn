@@ -1,46 +1,64 @@
 ---
-title: "T. I. Oizerman Philosophy Text Archive"
+title: "Teodor Oizerman Philosophy Text Archive / 奥伊泽尔曼哲学文本资料库"
 created: "2026-06-16"
+updated: "2026-06-22"
 type: "project"
 tags: ["oizerman", "philosophy", "russian", "source-archive"]
-language: "zh"
+language: "en-zh"
 collection: "project-documentation"
 llm_wiki_eligible: "true"
 gbrain_source: "project-markdown"
 ---
+# Teodor Oizerman Philosophy Text Archive
 
-# 奥伊泽尔曼哲学文本资料库
+This collection preserves bibliography, provenance metadata, and unprocessed source scans for
+Teodor Ilyich Oizerman (Теодор Ильич Ойзерман, 1914-2017).
 
-本目录保存特奥多尔·伊里奇·奥伊泽尔曼（Теодор Ильич Ойзерман，Т. И. Ойзерман，1914—2017）的著作书目、来源元数据，以及（在权利审查通过后）转换正文与未处理源扫描件。
+See the repository [Source Policy](../notes/PHILOSOPHY_SOURCE_FORMAT_POLICY.md) and
+[Oizerman Source Survey](../notes/OIZERMAN_SOURCE_SURVEY.md).
 
-收集与处理遵循仓库统一的[哲学文本来源、OCR 准入与发布政策](../notes/PHILOSOPHY_SOURCE_FORMAT_POLICY.md)，来源调查见 [`notes/OIZERMAN_SOURCE_SURVEY.md`](../notes/OIZERMAN_SOURCE_SURVEY.md)。
-
-## 目录结构
+## Layout
 
 ```text
 oizerman_markdown/
 ├── README.md
-├── bibliography/                         # 俄罗斯科学院哲学研究所官方书目（PDF + 提取文本）
+├── bibliography/
 │   ├── iphras_official_bibliography.pdf
 │   └── iphras_official_bibliography.txt
 ├── metadata/
-│   ├── works_master.json                 # 主要著作主表（俄文题名、年份、版次、责任形式、来源线索）
-│   └── source_scans_manifest.json        # 未处理源扫描件登记表
-├── source_scans/                         # 自由下载的 PDF/DjVu 原样保存；不提取文本、不进 GBrain
-└── oizerman_md/                          # （暂未创建）真实 HTML/原生 EPUB 转换正文
+│   ├── works_master.json
+│   └── source_scans_manifest.json
+├── source_scans/
+└── oizerman_md/                 # created only when eligible source text exists
 ```
 
-## 当前状态（2026-06-21）
+## Current Status
 
-- 已下载并登记 35 份未处理源扫描件（20 份 DjVu、15 份 PDF），总计 265,146,055 字节。
-- 已收录列克托尔斯基与奥伊泽尔曼共同主编的四卷本《Теория познания》：第 1、2 卷（1991）、第 3 卷（1993）、第 4 卷（1995），仅保存原始 PDF，不提取正文。
-- 奥伊泽尔曼 2017 年去世，著作仍受版权保护；所有来源默认 `source_license: "not_stated"`、`rights_review_status: "unreviewed"`、`redistribution_approved: "false"`。
-- 2014 年《Избранные труды: в 5 томах》（莫斯科：Наука）为五卷本选集，由此前代表作改编重排，**不应**与早期单行本视为同一数字文件。
+- 35 unprocessed source scans are registered: 20 DjVu and 15 PDF files, totaling 265,146,055 bytes.
+- The four-volume `Теория познания`, edited by Vladislav Lektorsky and Teodor Oizerman, is preserved
+  as source PDF: volumes 1 and 2 from 1991, volume 3 from 1993, and volume 4 from 1995.
+- The 2014 `Избранные труды: в 5 томах` (Moscow: Наука) is a five-volume selected-works edition. It
+  must not be treated as digitally identical to the earlier individual books.
+- The collection currently contains bibliography and scans, not searchable Oizerman body text.
 
-## 权利与处理纪律
+## Rights And Handling
 
-- 官方书目（`bibliography/`）是事实性书目工具，可保存与提取文本用于建表，**不等于**奥伊泽尔曼著作全文。
-- 自由直接下载的 PDF/DjVu 只按 `source_scan_unprocessed` 原样保存到 `source_scans/<provider>/`，登记完整 manifest，不提取文本层、不 OCR、不进入 GBrain 或公开导出。
-- 受控借阅、加密、`printdisabled` 等材料只登记书目，不下载、不绕过。
-- 外文（英、德、中等）译本不混入俄文原著主表，另行处理。
-- 合著与主编著作必须明确记录奥伊泽尔曼的责任形式，不一律标为个人专著。
+Oizerman died in 2017 and his works remain protected. Source files default to
+`source_license: "not_stated"`, `rights_review_status: "unreviewed"`, and
+`redistribution_approved: "false"`.
+
+- The official bibliography is a factual research tool, not Oizerman's full text.
+- PDF/DjVu files remain `source_scan_unprocessed`: no text-layer extraction, OCR, GBrain ingestion,
+  or public export.
+- Controlled loans, encrypted files, and `printdisabled` materials are bibliography only.
+- Translations in English, German, Chinese, or other languages remain separate from the Russian
+  works registry.
+- Co-authored and edited works record Oizerman's actual responsibility rather than treating every
+  title as a sole-authored monograph.
+
+## 中文摘要
+
+本目录保存奥伊泽尔曼的书目、来源元数据和 35 份未处理扫描件，其中包括列克托尔斯基与
+奥伊泽尔曼共同主编的四卷本《Теория познания》（1991、1991、1993、1995）。这些扫描件
+不等于已数字化正文，不进行 OCR、不进入 GBrain 或公开导出。2014 年五卷本选集与早期单行本
+必须保持版本区分。

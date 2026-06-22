@@ -107,18 +107,18 @@ scripts/run_gbrain_without_dist.sh gbrain lint .
 
 **Git 进度（提交时刷新，可能滞后一个提交）**
 
-- 领先 `origin/main` 0 个提交，落后 0 个
-- HEAD：82b87f4  corpus: approve public-domain Spinoza sources
-- 工作区：12 个已改跟踪文件，0 个未跟踪文件未提交
+- 领先 `origin/main` 1 个提交，落后 0 个
+- HEAD：4910fe9  docs: make public project guides English-first
+- 工作区：10 个已改跟踪文件，0 个未跟踪文件未提交
 
 **最近提交**
 
+- `4910fe9` docs: make public project guides English-first
+- `92c540e` docs: align metadata and recruitment guidance
 - `82b87f4` corpus: approve public-domain Spinoza sources
 - `001094e` rights: enforce auditable public release policy
 - `73b525a` legal: add layered project licensing
 - `09e5e22` test: enforce current project documentation
-- `9c81bfd` docs: revise global collaboration invitations
-- `3687448` docs: define digitization platform and translation program
 
 <!-- AGENTS-LIVE:END -->
 

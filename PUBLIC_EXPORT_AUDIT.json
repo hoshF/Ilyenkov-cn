@@ -37,8 +37,8 @@
       "path": "AGENTS.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 6099,
-      "sha256": "292160b97e0e725767169ea896fa72f949de983ae638f30d4f127205a1206858"
+      "bytes": 6088,
+      "sha256": "22b0edea9f43dd515a593a31309d1a48a3c7b5af62978699ec6544d118e0f12c"
     },
     {
       "path": "CLAUDE.md",
@@ -51,22 +51,22 @@
       "path": "COLLECTION_STATUS.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 1975,
-      "sha256": "1e432fbb72fdfe705573f32a1c3c84d24a29116115fb07087b890beb4d7cb170"
+      "bytes": 2409,
+      "sha256": "b0da958feebf53a7b0a335300ac33b4b1dffabe9510f63d8cd4926b8a70fa0b4"
     },
     {
       "path": "CONTRIBUTING.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 4698,
-      "sha256": "847dcb0d6dc32105ca4abb78a785f3df71cc5ee73d0b957833ef711f9c133b7b"
+      "bytes": 4782,
+      "sha256": "426e868b6275f861eae09c8fe6194d0ad1e84701fdcb18b92bed5ca447ecbc89"
     },
     {
       "path": "GOVERNANCE.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 6026,
-      "sha256": "8e9b13a5958eb7a7bdc66b5bd20acfe861466523f85b967fa5e21f3d88155352"
+      "bytes": 5219,
+      "sha256": "b54fd0d4b8d3cbcfa3e8a250fb213a5d6adb87c5d4b4bc2e279908470e22c739"
     },
     {
       "path": "LICENSE",
@@ -100,22 +100,22 @@
       "path": "LLM_WIKI.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 4253,
-      "sha256": "7e767b74f7b6f4b84e632481fe0fb8e7943bbe4c3b33ceca4d784012b5c85941"
+      "bytes": 3762,
+      "sha256": "bf28aaa5b2b8bd0a6f5b4374d17fa08898351863a9a2729d4245867a03b73e57"
     },
     {
       "path": "README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 9658,
-      "sha256": "94235c3d74e1f64e949b225d34aca777a8b7bf9236319083700baae36993ad12"
+      "bytes": 8106,
+      "sha256": "d022dcf8bb2f8f7307b9770b18294b0558ca5e9f03da5e12fb46f51b33261c81"
     },
     {
       "path": "RESOLVER.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 3076,
-      "sha256": "a34328625c5fc41070f87ca8ad52fdbe2a6a5b3c19a38c784a7dacc2cc68fab7"
+      "bytes": 2996,
+      "sha256": "c98549c77f450f5e7b0cc1504a6fb3e81d74992e3c8cdd47dce6b2b08ee8519a"
     },
     {
       "path": "RIGHTS.md",
@@ -142,8 +142,8 @@
       "path": "caute_ru_markdown/README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 1818,
-      "sha256": "9d6940b05d5f5f01ab138204ca50a614c9eae776ad214ec74b46a0efa06419e9"
+      "bytes": 2677,
+      "sha256": "b5b4ea68cee2578e252e915d04523ab0702789046dc336ac0f6aa559ded5768c"
     },
     {
       "path": "caute_ru_markdown/ilyenkov_md/already-done/dialectical_logic_ilyenkov_ru/README.md",
@@ -3334,8 +3334,8 @@
       "path": "kedrov_markdown/README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 2039,
-      "sha256": "fbc16bc53cba3f391621508e95b402a33144e7b70ba097a96c922202d2d16ee2"
+      "bytes": 2358,
+      "sha256": "a329a5b73e67d1faf4d1f775b122054598dde5ac29fe37724a0bcbe977624924"
     },
     {
       "path": "kedrov_markdown/kedrov_md/russian_web/royallib/assets/o_tvorchestve_v_nauke_i_tehnike/i_002.png",
@@ -4041,8 +4041,8 @@
       "path": "kopnin_markdown/README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 2648,
-      "sha256": "f21c15871e72909d4ffc7cb69d89cc4e78200f9b892258ef9f4c1757c83b1ab6"
+      "bytes": 2580,
+      "sha256": "8ee60a47963125a2fe75d78fe23a1dffd1b6296ce8415e84c6a436221202b43b"
     },
     {
       "path": "kopnin_markdown/metadata/source_scans_manifest.json",
@@ -4104,8 +4104,8 @@
       "path": "maidansky_markdown/README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 2468,
-      "sha256": "fe9d050866fc3bf60669b20f90e34f100e5ad3dd443d69800b18439ed8cc6f2c"
+      "bytes": 2652,
+      "sha256": "b3777645fc4250f8069f4d694a60e6f0ca2b5b11f7ba140b206eba13bc9fbd85"
     },
     {
       "path": "maidansky_markdown/metadata/academia_manifest.json",
@@ -4769,8 +4769,8 @@
       "path": "oizerman_markdown/README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 2952,
-      "sha256": "d13d8cddc5ec96b1b8479bd81cf8ac128c702237a6c15f07057f413847b81648"
+      "bytes": 2879,
+      "sha256": "317a5952437d2ca325b8262e64daa48f08f672cebc2ec95321fa6ae90abf8795"
     },
     {
       "path": "oizerman_markdown/bibliography/iphras_official_bibliography.pdf",
@@ -5056,8 +5056,8 @@
       "path": "scripts/check_project_docs.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 14112,
-      "sha256": "2d5d4112ee02022fb7c6948819c635b711d53231ec4a57860b1ee7a980a8ea5d"
+      "bytes": 17502,
+      "sha256": "80bedd63d349114cee80682301b66a9e7f3fde873bf034647571c81cc2c079f1"
     },
     {
       "path": "scripts/collection_registry.py",
@@ -5077,8 +5077,8 @@
       "path": "scripts/manage_collections.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 19510,
-      "sha256": "8c069574eee817da564a9f140173039874fb44cd420befacfbf7b3cdbc15f023"
+      "bytes": 20922,
+      "sha256": "b8350e285ca083b1849b787aac03bfb00b84b0ffd746ec384501ee6e96a6bd98"
     },
     {
       "path": "scripts/prepare_gbrain_markdown.py",
@@ -5140,8 +5140,8 @@
       "path": "spinoza_markdown/README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 7347,
-      "sha256": "ff11702ce6865457f8751ac73e770fbac54420a0f7eb7405041fe207ae293dc2"
+      "bytes": 4343,
+      "sha256": "b94173243957075d45e8c21dc10bd9b16d57f985a1e447036a0496c6d95338be"
     },
     {
       "path": "spinoza_markdown/metadata/corpus_policy.json",
@@ -6834,8 +6834,8 @@
       "path": "tests/test_check_project_docs.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 6405,
-      "sha256": "2e172ce396a52a2ab2039e547955d6629f2966940855617ab77f3303bef30713"
+      "bytes": 6875,
+      "sha256": "08771ca8a76ccd6bac02e4452aef3808736452488836a79a0660ed5932b02fcd"
     },
     {
       "path": "tests/test_export_public.py",
@@ -6848,8 +6848,8 @@
       "path": "tests/test_manage_collections.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 10150,
-      "sha256": "4e3c2d299b6722d622724f06a9bbf8a2642d0073dee3fa52f484cb739717ac2b"
+      "bytes": 10671,
+      "sha256": "ab26cdf9bd66fb115f2ed5f5c03f155e4546edd93fc8d37e75b9df250b14f068"
     },
     {
       "path": "tests/test_prepare_gbrain_markdown.py",

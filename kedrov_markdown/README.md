@@ -1,51 +1,57 @@
 ---
-title: "B. M. Kedrov Philosophy Text Archive"
+title: "Bonifaty Kedrov Philosophy Text Archive / 凯德洛夫哲学文本资料库"
 created: "2026-06-11"
+updated: "2026-06-22"
 type: "project"
 tags: ["kedrov", "philosophy", "russian", "source-archive"]
-language: "zh"
+language: "en-zh"
 collection: "project-documentation"
 llm_wiki_eligible: "true"
 gbrain_source: "project-markdown"
 ---
+# Bonifaty Kedrov Philosophy Text Archive
 
-# 凯德洛夫哲学文本资料库
+This collection preserves philosophical texts and provenance metadata for Bonifaty Mikhailovich
+Kedrov (Бонифатий Михайлович Кедров).
 
-本目录保存博尼法季·米哈伊洛维奇·凯德洛夫（Б. М. Кедров）的哲学文本和来源元数据。
+## Contents
 
-## 当前内容
+- `kedrov_md/russian_web/royallib/`: Russian Markdown converted from genuine RoyalLib HTML.
+- `kedrov_md/russian_web/royallib/assets/`: body images from the HTML packages.
+- `source_scans/`: unprocessed, directly downloadable PDF/DjVu files.
+- `metadata/royallib_manifest.json`: source URLs, hashes, outputs, and conversion status.
+- `metadata/source_scans_manifest.json`: scan editions, URLs, hashes, and rights status.
+- `scripts/kedrov_royallib_convert.py`: reproducible HTML acquisition and conversion.
 
-- `kedrov_md/russian_web/royallib/`：从 RoyalLib 真实 HTML 转换的俄文 Markdown。
-- `kedrov_md/russian_web/royallib/assets/`：HTML 压缩包中的正文插图。
-- `source_scans/`：自由直接下载的未处理 PDF/DjVu 源扫描件，不进入正文或 GBrain。
-- `metadata/royallib_manifest.json`：来源 URL、源文件哈希、输出文件和转换状态。
-- `metadata/source_scans_manifest.json`：源扫描件的版本、URL、哈希与权利状态。
-- `scripts/kedrov_royallib_convert.py`：可复现的 HTML 下载和转换脚本。
-
-当前第一批文本：
+The initial Markdown group contains:
 
 - `Беседы о диалектике`
 - `О «Диалектике природы» Энгельса`
 - `О творчестве в науке и технике`
 
-## 来源政策
+## Source And Rights Policy
 
-本目录遵循仓库的[哲学文本来源与格式政策](../notes/PHILOSOPHY_SOURCE_FORMAT_POLICY.md)：
+The collection follows the repository
+[Source Policy](../notes/PHILOSOPHY_SOURCE_FORMAT_POLICY.md):
 
-- 优先从真实 HTML 或原生结构化 EPUB 生成 Markdown。
-- 项目当前不执行新的 OCR，也不使用 DjVuTXT、ABBYY、hOCR 或 PDF 文本层生成正文。
-- 自由可下载的 PDF/DjVu 保存到 `source_scans/` 并标记为未处理；受控借阅只登记书目。
+- prefer genuine HTML or native structured EPUB;
+- do not generate text through new OCR, DjVuTXT, ABBYY, hOCR, or PDF text layers;
+- retain directly downloadable PDF/DjVu as unprocessed scans;
+- record controlled loans as bibliography only.
 
-RoyalLib 页面没有提供明确的开放许可证。生成文件保留 `source_license: "not_stated"` 和 `redistribution_approved: "false"`，当前用于研究、检索和来源评估，不视为校勘定本。
+RoyalLib states no clear open license. Generated files retain `source_license: "not_stated"` and
+`redistribution_approved: "false"`. They may support private research, search, and source
+assessment, but are not presented as a critical edition or approved public text.
 
-## 重新生成
+## Reproduction
 
 ```bash
 python3 kedrov_markdown/scripts/kedrov_royallib_convert.py
-```
-
-检查远端 HTML 是否仍能生成相同正文：
-
-```bash
 python3 kedrov_markdown/scripts/kedrov_royallib_convert.py --check
 ```
+
+## 中文摘要
+
+本目录保存凯德洛夫的俄文 Markdown、未处理扫描件和来源元数据。现有正文来自 RoyalLib
+真实 HTML，但来源未声明开放许可证，因此不自动进入公开导出。PDF/DjVu 只作为版本资料保存，
+不执行 OCR，也不进入正文或 GBrain。

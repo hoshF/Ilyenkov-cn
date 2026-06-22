@@ -58,7 +58,7 @@ class ProjectDocsTests(unittest.TestCase):
             errors = MODULE.status_snapshot_errors(root)
             self.assertTrue(any("GBrain 实时指标" in error for error in errors))
 
-    def test_mission_requires_digitization_platform_and_translation_program(self):
+    def test_mission_requires_english_entry_and_chinese_summary(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             path = root / "README.md"
@@ -66,16 +66,27 @@ class ProjectDocsTests(unittest.TestCase):
             requirements = MODULE.MISSION_REQUIREMENTS
             MODULE.MISSION_REQUIREMENTS = {
                 "README.md": (
-                    "## English Summary",
-                    "原典数字化与研究平台",
-                    "中文翻译与精读计划",
+                    "# Ilyenkov Philosophy Text Archive",
+                    "## Collections",
+                    "## Chinese Translation And Close Reading",
+                    "## 中文摘要",
                 )
             }
             try:
                 errors = MODULE.mission_errors(root)
             finally:
                 MODULE.MISSION_REQUIREMENTS = requirements
-            self.assertEqual(len(errors), 3)
+            self.assertEqual(len(errors), 4)
+
+    def test_root_readme_rejects_front_matter(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "README.md").write_text(
+                '---\ntitle: "Archive"\n---\n# Archive\n',
+                encoding="utf-8",
+            )
+            errors = MODULE.public_entry_errors(root)
+            self.assertEqual(errors, ["README.md 不应包含 front matter"])
 
     def test_deprecated_source_role_and_collection_status_are_rejected(self):
         with tempfile.TemporaryDirectory() as directory:

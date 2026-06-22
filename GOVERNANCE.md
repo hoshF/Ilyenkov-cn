@@ -1,100 +1,112 @@
 ---
-title: "项目章程"
+title: "Project Governance / 项目章程"
 created: "2026-06-12"
 updated: "2026-06-22"
 type: "project"
-tags: ["project", "documentation"]
-language: "zh"
+tags: ["project", "documentation", "governance"]
+language: "en-zh"
 collection: "project-documentation"
 llm_wiki_eligible: "true"
 gbrain_source: "project-markdown"
 ---
-# 项目章程
+# Project Governance
 
-状态：草案 v0.2（2026-06-22）。在核心成员稳定之前，本章程由维护者起草，随讨论修订；修订记录见 Git 历史。
+Status: draft v0.3, June 22, 2026. The maintainer administers this charter until a stable core team
+exists. Git history records all amendments.
 
-## 宗旨
+## Mission
 
-项目以伊里因科夫哲学为中心，建设面向全球的原典数字化与 AI-ready 研究平台；同时持续
-推进以伊里因科夫为优先对象的中文翻译、术语研究和精读。两项工作相互支撑：可靠的原文
-和版本信息是翻译的前提，翻译与精读则形成对数字化成果的持续校验和研究性使用。其他
-哲学家按研究关系选择性翻译，不以全面中文化为目标。
+The project is centered on Ilyenkov and has two linked purposes:
 
-三条底线贯穿一切工作：来源可追溯、版权可审计、过程可复查。
+- build a global, source-traceable digitization and AI-ready research platform for philosophical
+  texts;
+- sustain Chinese translation, terminology research, and close reading focused first on Ilyenkov.
 
-## 成员结构
+Reliable source text and edition metadata are prerequisites for translation. Translation and close
+reading, in turn, provide sustained scholarly use and correction of the digital corpus.
 
-- **维护者**：仓库所有者，负责最终裁定、版权门控和公开发布。
-- **核心成员**：受邀加入私有仓库的协作者，可访问完整工作区，承担书目、校勘、数字化、
-  语言、翻译或技术等持续性工作。
-- **公开贡献者**：通过公开仓库的 issue、pull request 和 Discussions 参与的任何人。
+All work follows three requirements: traceable sources, auditable rights, and reviewable process.
 
-成为核心成员的一般路径：先以公开贡献者身份完成至少一次可追溯的贡献，例如校对、考证、
-数字化质量规则、术语讨论或工具修订，再由维护者邀请加入私有仓库。
+## Roles
 
-## 双仓库结构与版权红线
+- **Maintainer**: final decisions, rights gating, and public release.
+- **Core contributors**: invited private-repository collaborators who sustain bibliographic,
+  collation, digitization, language, translation, or technical work.
+- **Public contributors**: anyone participating through issues, pull requests, or Discussions.
 
-- **私有仓库**（`Ilyenkov-cn-private`）：完整工作区，包含尚未获得再分发许可的扫描件、语料和 LaTeX 工程。
-- **公开仓库**（`Ilyenkov-cn`）：只包含通过版权门控（`scripts/export_public.py`）的内容，是面向公众的讨论和招募入口。
+A typical path to core membership is one verifiable public contribution followed by a maintainer
+invitation. Repository access exists for research and review; it is not redistribution permission.
 
-公开仓库默认包含项目基础设施、原创文档和可审计的事实性元数据。第三方全文、译文、
-扫描件、媒体及含正文的派生数据必须在 `metadata/rights_registry.json` 中完成精确到
-SHA-256 的逐项审核后才能进入公开仓库。
+## Private And Public Repositories
 
-红线，所有成员必须遵守：
+- `Ilyenkov-cn-private` is the complete working repository and may contain materials without public
+  redistribution approval.
+- `Ilyenkov-cn` contains only the rights-gated export produced by `scripts/export_public.py`.
 
-1. 公开发布只能通过 `scripts/publish_public.sh` 进行，任何人不得手工向公开仓库推送内容。
-2. 核心成员不得在项目之外传播私有仓库中未获再分发许可的材料（扫描件、受控文本等）。私有仓库的访问权是为了研究和校订，不是再分发授权。
-3. 对外发布（公众号、论坛转载、印制）属于"对外发布"决策，见下文决策方式。
+Infrastructure, original documentation, and factual metadata are public by default. Third-party
+texts, translations, scans, media, and content-bearing derivatives require exact-path and SHA-256
+approval in `metadata/rights_registry.json`.
 
-## 决策方式
+Hard rules:
 
-- **日常事务**（笔记、草稿、小修订）：谁做谁定，事后可以讨论调整。
-- **术语定版、目录结构调整、对外发布、章程修改**：先在公开仓库 Discussions 或成员群内讨论，求共识；讨论期内无共识时由维护者裁定，并在相应文件中记录理由。
-- 任何决定都应落为仓库中可引用的文字（issue、Discussions 帖、`notes/` 文件），口头或群聊共识不算数，直到它被写下来。
+1. Public release uses `scripts/publish_public.sh`; do not push the private tree to the public repo.
+2. Private controlled materials must not be redistributed outside the project.
+3. External publication, printing, or reposting is a governance decision, not a routine edit.
 
-## 术语定版流程
+## Decisions
 
-1. 在 Discussions「术语讨论」分类提出候选译法，附俄文原词、出现语境和至少一处原文段落。
-2. 讨论期原则上不少于两周；早期成员少，可以从宽。
-3. 定版后写入 `notes/TERMS.md`，注明候选译法、选择理由和保留的异议。
-4. 对已有文本的回溯修改单独提 PR，不与新内容混在一起。
-5. 重要术语允许长期保留多种候选译法，注明各自语境；定版不等于封禁讨论。
+- Routine notes, drafts, and small corrections may be made by the contributor responsible.
+- Terminology decisions, structural changes, external publication, and charter amendments should be
+  discussed publicly or within the core team.
+- When consensus is unavailable, the maintainer decides and records the reason.
+- Decisions are not project memory until recorded in an issue, Discussion, or repository file.
 
-## 署名与许可
+## Terminology
 
-- 研究笔记和感悟放在 `notes/contributors/<署名>/` 下，署名归作者。
-- 译文修订通过 Git 历史追溯，重要修订在文件头或说明文件中注明修订者和依据。
-- 项目原创代码、脚本、测试和 Schema 使用 MIT；项目原创文档、研究笔记和注释使用
-  CC BY-SA 4.0；项目整理的事实性元数据使用 CC0 1.0。完整边界见
-  [LICENSE](LICENSE) 和 [RIGHTS.md](RIGHTS.md)。
-- 第三方原典、译文、扫描件、图片和转录文本不因进入仓库而适用项目许可证。
-- **译文是衍生作品**：项目原创译文原则上按 CC BY-SA 4.0 贡献，但只有在原作和所依据
-  版本允许时才能公开。项目不能单方面授权自己不拥有的底层权利，译者署名权始终保留。
-- 成员退出项目后，已有贡献和署名保留。
+1. Propose a term with the original expression, context, and at least one source passage.
+2. Allow discussion before adopting a preferred form.
+3. Record the result, alternatives, reasoning, and remaining objections in `notes/TERMS.md`.
+4. Apply retrospective translation changes in a separate PR.
+5. Important terms may retain multiple context-dependent translations.
 
-## AI 使用规范
+## Attribution And Licensing
 
-- AI 可用于检索、比较、结构检查、研究辅助和翻译起草，但其输出不是作者原文或学术权威。
-- AI 辅助初译只能放在 `translation_workspace/drafts/`，必须绑定原文路径、版本、来源 URL、
-  源文件哈希、生成方式和人工校订状态。
-- 不提交未经人工检查的大批量机器翻译或 OCR 输出。数字化准入按
-  `notes/PHILOSOPHY_SOURCE_FORMAT_POLICY.md` 和 `notes/SCAN_DIGITIZATION_WORKFLOW.md` 执行。
-- 进入 `reviewed/` 或独立 LaTeX 工程的译文必须经过人工逐句校订。
-- AI-ready 表示文本和元数据适合可审计的计算研究，不表示获得模型训练许可。
+- Contributor notes live under `notes/contributors/<name>/` and retain author attribution.
+- Translation changes remain attributable through Git and significant revisions should state their
+  evidence.
+- Software uses MIT; project-authored documentation uses CC BY-SA 4.0; factual metadata uses CC0.
+- Third-party materials retain their own rights.
+- Project-authored translations may use CC BY-SA 4.0 only when the underlying work and edition
+  permit public redistribution.
+- Existing contributions and attribution remain after a contributor leaves.
 
-## 沟通与沉淀
+See [LICENSE](LICENSE) and [RIGHTS.md](RIGHTS.md).
 
-- **即时讨论**：成员群（微信或 Telegram）。
-- **半正式讨论**：公开仓库 Discussions，分类规划见 `notes/community/DISCUSSIONS.md`。
-- **正式沉淀**：仓库文件与 PR。
-- 铁律：**有结论的讨论必须回流仓库**。术语进 `notes/TERMS.md`，考证进相应 metadata 或笔记，分工和进度进月报。
-- **月报**：每月一篇，放在 `notes/journal/`，格式见该目录 README。
+## AI Use
 
-## 版权与移除请求
+- AI may assist retrieval, comparison, structural checks, research, and translation drafting.
+- AI output is neither authorial text nor scholarly authority.
+- Draft translations must retain source path, version, URL, SHA-256, generation method, and review
+  status.
+- Unreviewed bulk translation and unverified OCR are not accepted as reviewed corpus text.
+- AI-ready does not mean licensed for model training.
 
-与 [CONTRIBUTING.md](CONTRIBUTING.md) 一致：若你是相关材料的权利人、整理者或译者，认为某些内容不宜公开，请通过公开仓库 issue 联系，维护者优先处理。
+## Communication And Record Keeping
 
-## 章程修改
+- Informal coordination: Telegram or other member channels.
+- Open discussion: public GitHub Discussions.
+- Durable decisions: repository files, issues, and pull requests.
+- Conclusions must return to the repository: terminology to `notes/TERMS.md`, source findings to
+  metadata or surveys, and project progress to the journal.
 
-对本章程的修改通过 PR 提出，按"决策方式"一节处理。章程的解释权在讨论中形成，不在任何单独成员手里。
+## Rights Requests And Amendments
+
+Rightsholders, authors, translators, editors, and source providers may request review or removal
+through the public issue tracker. Charter amendments are proposed by pull request and follow the
+decision process above.
+
+## 中文摘要
+
+本项目同时建设面向全球的原典数字化与研究平台，并长期推进以伊里因科夫为优先对象的中文
+翻译、术语研究和精读。项目坚持来源可追溯、权利可审计、过程可复查。完整工作仓库保持私有，
+公开内容只能通过权利门控导出；任何讨论形成结论后都应回流到仓库文件或元数据中。
