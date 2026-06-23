@@ -107,18 +107,18 @@ scripts/run_gbrain_without_dist.sh gbrain lint .
 
 **Git 进度（提交时刷新，可能滞后一个提交）**
 
-- 领先 `origin/main` 1 个提交，落后 0 个
-- HEAD：0b21143  docs: internationalize source and digitization policies
-- 工作区：12 个已改跟踪文件，0 个未跟踪文件未提交
+- 领先 `origin/main` 0 个提交，落后 0 个
+- HEAD：83dacf2  community: add global collaboration and citation metadata
+- 工作区：13 个已改跟踪文件，0 个未跟踪文件未提交
 
 **最近提交**
 
+- `83dacf2` community: add global collaboration and citation metadata
 - `0b21143` docs: internationalize source and digitization policies
 - `ada437b` docs: internationalize collection navigation
 - `4910fe9` docs: make public project guides English-first
 - `92c540e` docs: align metadata and recruitment guidance
 - `82b87f4` corpus: approve public-domain Spinoza sources
-- `001094e` rights: enforce auditable public release policy
 
 <!-- AGENTS-LIVE:END -->
 

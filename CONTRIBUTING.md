@@ -14,7 +14,7 @@ gbrain_source: "project-markdown"
 The archive values reliable sources, careful review, verifiable metadata, and small changes that
 remain traceable through Git history.
 
-Use [Discussions](https://github.com/hoshF/Ilyenkov-cn/discussions) for philosophy, editions,
+Use [Discussions](https://github.com/hoshF/ilyenkov-archive/discussions) for philosophy, editions,
 digitization, multilingual study, terminology, and digital-humanities questions. Use issues for
 specific defects or bounded tasks.
 

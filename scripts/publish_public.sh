@@ -8,8 +8,8 @@ fi
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 PUBLIC_WORKTREE="$ROOT/dist/public"
-PRIVATE_REPO="hoshF/Ilyenkov-cn-private"
-PUBLIC_REPO="hoshF/Ilyenkov-cn"
+PRIVATE_REPO="hoshF/ilyenkov-archive-private"
+PUBLIC_REPO="hoshF/ilyenkov-archive"
 
 cd "$ROOT"
 python3 scripts/manage_collections.py check

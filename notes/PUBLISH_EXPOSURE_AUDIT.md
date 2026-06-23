@@ -64,6 +64,8 @@ llm_wiki_eligible: "true"
 
 2026-06-12 追记：私有仓库由 `ilyenkov-cn-private` 改名为 `Ilyenkov-cn-private`；父仓库与 `dist/public` 的 `origin` URL 以及 `scripts/publish_public.sh` 中的仓库名统一为规范大小写（`hoshF/Ilyenkov-cn-private`、`hoshF/Ilyenkov-cn`），消除 push 时的仓库重定向提示。上表记录的小写 URL 为 2026-06-11 配置时的历史事实。
 
+2026-06-24 追记：为匹配项目当前的哲学文本档案定位，公开仓库由 `hoshF/Ilyenkov-cn` 改名为 `hoshF/ilyenkov-archive`，私有工作仓库由 `hoshF/Ilyenkov-cn-private` 改名为 `hoshF/ilyenkov-archive-private`。旧名称仍保留在本审计中作为历史暴露事实和处置记录。
+
 第三方缓存、下载、副本或存档仍可能存在；“曾公开”事实不因删除重建而消除。
 
 ## 旧公开提交完整路径清单
@@ -353,4 +355,3 @@ llm_wiki_eligible: "true"
 - `translation_workspace/latex_templates/README.md`
 - `translation_workspace/planned/README.md`
 - `translation_workspace/reviewed/README.md`
-

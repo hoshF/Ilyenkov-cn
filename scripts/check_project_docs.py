@@ -578,7 +578,7 @@ def collaboration_errors(root: Path) -> list[str]:
                 errors.append(f"{relative}: 缺少 Issue 表单字段: {value}")
 
     config = (root / ".github/ISSUE_TEMPLATE/config.yml").read_text(encoding="utf-8")
-    for value in ("blank_issues_enabled: false", "https://github.com/hoshF/Ilyenkov-cn/discussions"):
+    for value in ("blank_issues_enabled: false", "https://github.com/hoshF/ilyenkov-archive/discussions"):
         if value not in config:
             errors.append(f"Issue 配置缺少: {value}")
 
@@ -599,7 +599,7 @@ def citation_errors(root: Path) -> list[str]:
         "type: dataset",
         "title: Ilyenkov Philosophy Text Archive",
         "name: Ilyenkov Philosophy Text Archive contributors",
-        "repository-code: https://github.com/hoshF/Ilyenkov-cn",
+        "repository-code: https://github.com/hoshF/ilyenkov-archive",
         "preferred-citation:",
         "original source, edition, provenance metadata",
     )

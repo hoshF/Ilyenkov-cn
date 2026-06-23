@@ -30,8 +30,8 @@
       "path": ".github/ISSUE_TEMPLATE/config.yml",
       "included": true,
       "reason": "project_file",
-      "bytes": 235,
-      "sha256": "d2cc5975ca2d50639b1ded15e8aff1c77fded233051375ceaf6630eed3997ac9"
+      "bytes": 240,
+      "sha256": "d15761c1e3408e03f51dee1f57f020b53a4e56e229a52458a964c77be0ea6381"
     },
     {
       "path": ".github/ISSUE_TEMPLATE/rights-review.yml",
@@ -79,15 +79,15 @@
       "path": "AGENTS.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 6117,
-      "sha256": "8c6dac135c0957c4f45854378fd39ed2699c90ca06f9783e40330101635ded76"
+      "bytes": 6129,
+      "sha256": "6ca059f293ed99d777ed66a7ca2c4dcde636cd227cb656496dc38b7c43b8fa3e"
     },
     {
       "path": "CITATION.cff",
       "included": true,
       "reason": "project_file",
-      "bytes": 950,
-      "sha256": "cecb41bab7e5560ec03e2ecd8ed2bb285037a44f92d394aeb45e23b37ade7f7c"
+      "bytes": 965,
+      "sha256": "7b1963b2c2485ea9ab52502d1e11077aa53f406c421f2e2d94717e64fa7d7a25"
     },
     {
       "path": "CLAUDE.md",
@@ -107,15 +107,15 @@
       "path": "CONTRIBUTING.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 4782,
-      "sha256": "426e868b6275f861eae09c8fe6194d0ad1e84701fdcb18b92bed5ca447ecbc89"
+      "bytes": 4787,
+      "sha256": "c0561a5384fbf6fa0c658325234c134cfa1521be8cdd3e5408967bd5d439ed6a"
     },
     {
       "path": "GOVERNANCE.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 5219,
-      "sha256": "b54fd0d4b8d3cbcfa3e8a250fb213a5d6adb87c5d4b4bc2e279908470e22c739"
+      "bytes": 5229,
+      "sha256": "c4a8550e78bb28418227cd6c691d68488f8c04706537c3e8fac3f3d5ba1b63cd"
     },
     {
       "path": "LICENSE",
@@ -156,8 +156,8 @@
       "path": "README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 8403,
-      "sha256": "65000db0dc95c36e9354c0c3e3c66c1ba1412eeb3a54002db2fd28936e2f1552"
+      "bytes": 8408,
+      "sha256": "fcbc84d24b7f367bc2fc974f2645664b56b3741abd63daca4f7f43364c502a1d"
     },
     {
       "path": "RESOLVER.md",
@@ -4650,8 +4650,8 @@
       "path": "metadata/schemas/rights_review.schema.json",
       "included": true,
       "reason": "project_file",
-      "bytes": 2298,
-      "sha256": "d7898a1fc5069e6dd3c781795dcea885e49f12b229d9c372c4a32f9a9cdc36b0"
+      "bytes": 2303,
+      "sha256": "9f491caa672d92cf6e989a9e16861969edaa0f31a8e27b04cc76464a6ec98b20"
     },
     {
       "path": "metadata/schemas/translation_project.schema.json",
@@ -4734,8 +4734,8 @@
       "path": "notes/PUBLISH_EXPOSURE_AUDIT.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 31161,
-      "sha256": "c4e8d7a84dcfd6f207572c3fb10bcd2b12657d2170c82bc2016c05885935daa8"
+      "bytes": 31476,
+      "sha256": "2efeb3dc96de6860027050bafd7a288c382aea4f50b0c6a1428cd4fdac5dc84d"
     },
     {
       "path": "notes/READING_NOTES.md",
@@ -4776,22 +4776,22 @@
       "path": "notes/community/DISCUSSIONS.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 6151,
-      "sha256": "2080976277f16255537cc70361aba72c0a58338de78e5df6cc84bc3fb7c67b4c"
+      "bytes": 6186,
+      "sha256": "691d6f9d641b8674ebda08f954b988ca2533c6344d7d696871b860e973e8b9cb"
     },
     {
       "path": "notes/community/RECRUITMENT_PLATFORMS.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 8662,
-      "sha256": "abefe76d5434e81322679692d345527ef6aa628f8973f456ed69f3d5099b7afc"
+      "bytes": 8702,
+      "sha256": "d2572f28e742c06e8e870e45188e5e16f5dcd618707fcd996457c76e8eb0b36d"
     },
     {
       "path": "notes/community/RECRUITMENT_POST.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 5197,
-      "sha256": "a7201f2930ea1158459391f76c396d02f6e0bcacd608a618db8f97383c84f188"
+      "bytes": 5207,
+      "sha256": "22c17ec694befe3e8badcdadc33056176bd17c2f9ca33dd0da2eb6c6e797166d"
     },
     {
       "path": "notes/contributors/README.md",
@@ -5105,8 +5105,8 @@
       "path": "scripts/check_project_docs.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 23700,
-      "sha256": "93dc954e994cef48738499e943ba96f49836c31545a3b6de216b7a2d49a5195c"
+      "bytes": 23710,
+      "sha256": "0182780bb3f98f2939c481fee5e383b962dd3f606bb13c08172a9ad31522f1a1"
     },
     {
       "path": "scripts/collection_registry.py",
@@ -5140,8 +5140,8 @@
       "path": "scripts/publish_public.sh",
       "included": true,
       "reason": "project_file",
-      "bytes": 2232,
-      "sha256": "399f08eec350b10d09c4cff2a6ffed85a2bf912a85866d5c35b1240ae69dbb97"
+      "bytes": 2242,
+      "sha256": "dae7406d101adb3866ecf5895ef608c1fdfb90ca705a1c2ea214097911ee689b"
     },
     {
       "path": "scripts/rights_registry.py",
@@ -6883,8 +6883,8 @@
       "path": "tests/test_check_project_docs.py",
       "included": true,
       "reason": "project_file",
-      "bytes": 8760,
-      "sha256": "3d6310091f9f3e1d7a05debe5ac1eb5b40cc40378bb3307bae19f84ccdd00067"
+      "bytes": 8765,
+      "sha256": "f11e7a1b044641a0e75116e1d375bf5c303fb5c810faa26e71bd0a4dbf9475ce"
     },
     {
       "path": "tests/test_export_public.py",

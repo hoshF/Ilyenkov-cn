@@ -71,9 +71,9 @@ Wikisource 与 DBNL 的文本。公开表示这些具体文件具备可记录的
 使用 CC0 1.0；第三方文本保留各自权利状态。权利说明和每项公开文件的审核依据均可在公开
 仓库核查。
 
-项目地址：<https://github.com/hoshF/Ilyenkov-cn>
+项目地址：<https://github.com/hoshF/ilyenkov-archive>
 
-讨论区：<https://github.com/hoshF/Ilyenkov-cn/discussions>
+讨论区：<https://github.com/hoshF/ilyenkov-archive/discussions>
 
 Telegram：<https://t.me/+Bmk9X1lnUY45ZjJl>
 

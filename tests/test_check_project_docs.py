@@ -152,7 +152,7 @@ class ProjectDocsTests(unittest.TestCase):
                 "title: Ilyenkov Philosophy Text Archive\n"
                 "authors:\n"
                 "  - name: Ilyenkov Philosophy Text Archive contributors\n"
-                "repository-code: https://github.com/hoshF/Ilyenkov-cn\n"
+                "repository-code: https://github.com/hoshF/ilyenkov-archive\n"
                 "preferred-citation:\n"
                 "license: MIT\n",
                 encoding="utf-8",

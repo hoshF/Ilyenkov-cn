@@ -12,8 +12,8 @@ gbrain_source: "project-markdown"
 
 # Discussions 分类规划与欢迎帖文案
 
-公开仓库 `Ilyenkov-cn` 的 Discussions 已开启。GitHub 不支持通过 API 创建分类，需要在
-`https://github.com/hoshF/Ilyenkov-cn/discussions/categories` 手工建立以下分类。
+公开仓库 `ilyenkov-archive` 的 Discussions 已开启。GitHub 不支持通过 API 创建分类，需要在
+`https://github.com/hoshF/ilyenkov-archive/discussions/categories` 手工建立以下分类。
 
 ## 分类设计
 
@@ -54,11 +54,11 @@ gbrain_source: "project-markdown"
 >
 > **How to begin**
 >
-> - Project overview: [README](https://github.com/hoshF/Ilyenkov-cn#readme)
-> - Contribution guide: [CONTRIBUTING.md](https://github.com/hoshF/Ilyenkov-cn/blob/main/CONTRIBUTING.md)
-> - Collection status: [COLLECTION_STATUS.md](https://github.com/hoshF/Ilyenkov-cn/blob/main/COLLECTION_STATUS.md)
-> - Governance and decisions: [GOVERNANCE.md](https://github.com/hoshF/Ilyenkov-cn/blob/main/GOVERNANCE.md)
-> - Rights and licensing: [RIGHTS.md](https://github.com/hoshF/Ilyenkov-cn/blob/main/RIGHTS.md)
+> - Project overview: [README](https://github.com/hoshF/ilyenkov-archive#readme)
+> - Contribution guide: [CONTRIBUTING.md](https://github.com/hoshF/ilyenkov-archive/blob/main/CONTRIBUTING.md)
+> - Collection status: [COLLECTION_STATUS.md](https://github.com/hoshF/ilyenkov-archive/blob/main/COLLECTION_STATUS.md)
+> - Governance and decisions: [GOVERNANCE.md](https://github.com/hoshF/ilyenkov-archive/blob/main/GOVERNANCE.md)
+> - Rights and licensing: [RIGHTS.md](https://github.com/hoshF/ilyenkov-archive/blob/main/RIGHTS.md)
 >
 > Project infrastructure, original documentation, and auditable factual metadata are open by
 > default. Complete texts, translations, scans, media, and content-bearing derivatives are released

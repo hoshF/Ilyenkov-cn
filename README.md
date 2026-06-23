@@ -93,7 +93,7 @@ Bulk machine translation without human review is not accepted as a formal transl
 ## Contributing
 
 Global collaborators are welcome through issues, pull requests, and
-[Discussions](https://github.com/hoshF/Ilyenkov-cn/discussions). Useful contributions include:
+[Discussions](https://github.com/hoshF/ilyenkov-archive/discussions). Useful contributions include:
 
 - bibliographic and edition verification;
 - source discovery and rights evidence;

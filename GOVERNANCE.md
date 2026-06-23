@@ -39,9 +39,9 @@ invitation. Repository access exists for research and review; it is not redistri
 
 ## Private And Public Repositories
 
-- `Ilyenkov-cn-private` is the complete working repository and may contain materials without public
+- `ilyenkov-archive-private` is the complete working repository and may contain materials without public
   redistribution approval.
-- `Ilyenkov-cn` contains only the rights-gated export produced by `scripts/export_public.py`.
+- `ilyenkov-archive` contains only the rights-gated export produced by `scripts/export_public.py`.
 
 Infrastructure, original documentation, and factual metadata are public by default. Third-party
 texts, translations, scans, media, and content-bearing derivatives require exact-path and SHA-256

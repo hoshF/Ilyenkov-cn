@@ -16,8 +16,8 @@ gbrain_source: "project-markdown"
 
 ## Shared Information
 
-- Repository: <https://github.com/hoshF/Ilyenkov-cn>
-- Discussions: <https://github.com/hoshF/Ilyenkov-cn/discussions>
+- Repository: <https://github.com/hoshF/ilyenkov-archive>
+- Discussions: <https://github.com/hoshF/ilyenkov-archive/discussions>
 - Telegram: <https://t.me/+Bmk9X1lnUY45ZjJl>
 - Maintainer attribution: `the maintainer (GitHub: hoshF)`
 
@@ -42,7 +42,7 @@ gbrain_source: "project-markdown"
 > A first reviewed group of Latin and Dutch Spinoza texts is now public. We welcome help with
 > bibliography, collation, languages, rights research, translation, and corpus tooling.
 >
-> https://github.com/hoshF/Ilyenkov-cn
+> https://github.com/hoshF/ilyenkov-archive
 
 Suggested tags: `#DigitalHumanities #Philosophy #SovietPhilosophy #LLM`
 
@@ -56,7 +56,7 @@ Suggested tags: `#DigitalHumanities #Philosophy #SovietPhilosophy #LLM`
 >
 > 公开仓库现已发布首批通过权利审核的斯宾诺莎拉丁文和荷兰文文本，欢迎参与书目、校勘、语言、权利核查、翻译和技术工作。
 >
-> github.com/hoshF/Ilyenkov-cn
+> github.com/hoshF/ilyenkov-archive
 
 ## Reddit
 
@@ -97,9 +97,9 @@ LLM-research communities. Read each community's rules before posting.
 > The public repository now includes a first rights-reviewed release of Latin and Dutch Spinoza
 > materials from Wikisource and DBNL. Public release does not imply critical-edition status.
 >
-> Repository: https://github.com/hoshF/Ilyenkov-cn
+> Repository: https://github.com/hoshF/ilyenkov-archive
 >
-> Discussions: https://github.com/hoshF/Ilyenkov-cn/discussions
+> Discussions: https://github.com/hoshF/ilyenkov-archive/discussions
 >
 > Telegram: https://t.me/+Bmk9X1lnUY45ZjJl
 
@@ -133,9 +133,9 @@ LLM-research communities. Read each community's rules before posting.
 > and DBNL. The project uses MIT for software, CC BY-SA 4.0 for project-authored documentation, and
 > CC0 1.0 for project-created factual metadata; third-party texts retain their own rights status.
 >
-> Repository: https://github.com/hoshF/Ilyenkov-cn
+> Repository: https://github.com/hoshF/ilyenkov-archive
 >
-> Discussions: https://github.com/hoshF/Ilyenkov-cn/discussions
+> Discussions: https://github.com/hoshF/ilyenkov-archive/discussions
 >
 > Telegram: https://t.me/+Bmk9X1lnUY45ZjJl
 

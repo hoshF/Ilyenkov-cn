@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/hoshF/Ilyenkov-cn/blob/main/metadata/schemas/rights_review.schema.json",
+  "$id": "https://github.com/hoshF/ilyenkov-archive/blob/main/metadata/schemas/rights_review.schema.json",
   "title": "Rights review registry",
   "type": "object",
   "required": ["schema_version", "generated_at", "items"],
