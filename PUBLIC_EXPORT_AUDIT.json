@@ -156,8 +156,8 @@
       "path": "README.md",
       "included": true,
       "reason": "project_file",
-      "bytes": 8962,
-      "sha256": "66e1d1db6b78d4fe06e3d05d07ed9faa9d083a8fefb5bb22d1959a0ac6cc24ba"
+      "bytes": 9263,
+      "sha256": "0590ef33e532c669d2443f9df4932e39c5c8d5a1c272c1d3b265c44ed6ba52ae"
     },
     {
       "path": "RESOLVER.md",

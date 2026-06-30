@@ -26,6 +26,11 @@ the final text of any research tradition. It is the opposite kind of project: an
 and reviewable archive that needs many researchers, translators, readers, and contributors to
 inspect, discuss, correct, and extend it.
 
+This is an independent and unofficial project. The inclusion of a scholar's name, works, website,
+archive, or bibliographic records does not imply that the scholar, rightsholder, editor,
+translator, publisher, or website maintainer has participated in, authorized, reviewed, or endorsed
+the project.
+
 The archive is committed to spreading and studying Soviet philosophy centered on Ilyenkov. Agents
 and automation can assist human work, reduce repetitive labor, and make workflows more reproducible,
 but they cannot replace human reading, collation, criticism, and judgment. Texts become part of
@@ -38,7 +43,7 @@ closer connection.
 
 ## Collections
 
-| Person or collection | Current material | Role in the archive |
+| Person or collection | Collection scope | Role in the archive |
 |---|---|---|
 | Evald Ilyenkov | Russian books, articles, letters, interviews, manuscripts, and verified historical newspaper texts; Markdown is the main corpus format | Central collection |
 | Andrey Maidansky | Research articles, source records, and files concerning Ilyenkov, Spinoza, and dialectics | Research and interpretation |
